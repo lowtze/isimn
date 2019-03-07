@@ -1,6 +1,6 @@
 ## Capitolo uno (1): LA FAMIGLIA ROSSI
 
-![](../images/c1.1.PNG)
+![](../images/c1.1.png)
 
 Carlo Rossi è un uomo. Teresa Rossi è una donna.[^1.1] Bruno è un bambino. Pietro è un bambino. Maria è una bambina. Anche Pia è una bambina.[^1.2] Bruno e Pietro sono due bambini.[^1.3] Maria e Pia sono due bambine.[^1.4]
 
@@ -8,7 +8,7 @@ Carlo Rossi è un uomo. Teresa Rossi è una donna.[^1.1] Bruno è un bambino. Pi
 
 Un bambino e una bambina sono due bambini. Due bambini e una bambina sono tre bambini.[^1.7] Anche un bambino e due bambine sono tre bambini.[^1.8] Bruno, Pietro, Maria e Pia sono quattro bambini.[^1.9] Carlo e Teresa Rossi,[^1.10] Bruno, Pietro, Maria e Pia sono una famiglia: la famiglia Rossi. Carlo Rossi è il padre. Teresa Rossi è la madre. Bruno è il primo figlio, Pietro è il secondo figlio.[^1.12] I due figli sono Bruno e Pietro. Maria è la prima figlia, Pia è la seconda[^1.14] figlia.[^1.11] Le due figlie sono Maria e Pia.[^1.13]
 
-![](https://lh3.googleusercontent.com/6kCMOX4ydp5-DHHbwqMuLN4F5sx2heOS24UnqByioiSQwkMO4-EFpNWV_8uhvmP5mRarLTW0hypeAnxsX1Y6xLw_VqZ1pwi1u3qUFD5ZGAj_aCJuXYGiimtvO584YRy7P1QBuN-8kzRRrFU3EaNsR_aVByev9vL5IdZKgXfdmhw_7JYPzySXMeviebRqzYEvH3-R1QkmZKaLehFMTZVR5zWxpoTALAfwzh86GrgIB16YYpVJcyZHxROY8cDImYlo5SwA76_npe7ziKKzzYZvKjVRLqY58ntaNWifNOn6Hzl2gOQxUPgVr4rJS_O2j6A2GvfqIpfU03wPjqr24W4MuBVTIAHzdOfRkKrVDyvEUItnjM6X0ll8M80yE6IKDeOOvj7KBJjbZvIy9gEZkBoFS3XmpXmHtFcNKlO6WpSLn6w9VARFCx0gCksF4SHaz8ZJsheRVBlR8oC8U2Q0nHVhd2qZSlBIy4QwUrm9cv7e1B5q1fIOHZk-svZJLJq7kh4VMnbAKYnWXScNJzQu1ZaftCCclQSo7kSXshGQmIusspC_u2bpYwqfRgvzLKPyWzdUg8Yhnc_UTpCSn2W4rQ6pFngVY9drWSvv3ebG1XIkQGjMk0SFNo-S_7YgrhNs_JM3YyOm_fuBeyIp6Vq772_GyBsV417aA-9g=w473-h403-no)
+![](../images/c1.2.png)
 
 Bruno Rossi è figlio di Carlo Rossi. Anche Pietro Rossi è figlio di Carlo Rossi. I due bambini, Bruno e Pietro, sono figli di Carlo Rossi. Il primo figlio di Carlo Rossi è Bruno, il  secondo figlio è Pietro. Bruno e Pietro sono figli anche di Teresa Rossi: i due bambini sono figli di Carlo e Teresa Rossi.
 
@@ -166,5 +166,6 @@ Footnotes
 
 [^1.26]: i genitori = il padre e la madre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjYyODA2NjcsLTQxMjEwOTcyOV19
+eyJoaXN0b3J5IjpbLTE0MzQ5MTA5MzYsLTEyNjYyODA2NjcsLT
+QxMjEwOTcyOV19
 -->
