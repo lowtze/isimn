@@ -1,4 +1,4 @@
-# Capitolo otto (8): I PASTI
+## Capitolo otto (8): I PASTI
 
 All'una e alle otto di sera, tutta la famiglia Rossi è a tavola.[^8.1] Cosa fa la famiglia Rossi quando è a tavola? Mangia. Come molte famiglie italiane, i Rossi mangiano[^8.2] tre volte al giorno. I Rossi fanno tre pasti:[^8.3] il primo pasto (alle sette e mezzo o alle otto di mattina) si chiama «colazione»; il secondo pasto (all'una o all'una e mezzo) si chiama «pranzo»; il terzo pasto (alle otto o alle otto e mezzo di sera) si chiama «cena». Molte famiglie non mangiano che tre volte al giorno, come i Rossi, ma altre famiglie fanno un quarto, piccolo pasto alle cinque del pomeriggio. A che ora fa colazione la famiglia Rossi?[^8.4] La famiglia Rossi fa colazione alle otto di mattina. A che ora pranzano i Rossi?[^8.5] Pranzano all'una. E a che ora cena la famiglia? Cena alle otto di sera.[^8.6] Quando i Rossi pranzano e cenano, ci sono sei persone a tavola: i genitori e i quattro bambini. Non tutti gli italiani fanno colazione alla stessa ora dei Rossi: gli uni fanno colazione prima dei Rossi (alle sette e mezzo o prima ancora), gli altri più tardi dei Rossi (alle otto e mezzo o più tardi ancora).[^8.7] Però, neanche i Rossi non fanno colazione alle otto e mezzo. Non tutte le persone in Italia pranzano alle stessa ora dei Rossi: ci sono delle persone che pranzano prima dei Rossi, ce ne sono[^8.8] che pranzano più tardi. E neanche tutti gli italiana non cenano alla stessa ora dei Rossi: c'è molta gente[^8.9] in Italia che cena prima dei Rossi, ce n'è[^8.10] che cena più tardi di loro. Però, neanche i Rossi non cenano sempre alla stessa ora:[^8.11] molti giorni cenano più tardi, alle otto e mezzo, e a Ostia cenano sempre più tardi che a Roma.
 
@@ -24,7 +24,7 @@ Cosa c'è sopra la tavola a pranzo e a cena? C'è una tovaglia. E che cosa c'è 
 
 
 
-## ESERCIZIO A.
+### ESERCIZIO A.
 
 **ne ha uno, ne ha due, ce n'è uno, ce ne sono due**
 
@@ -62,7 +62,7 @@ Mette molto o poco vino nel biecchiere di Pietro il signor Rossi?
 
 
 
-## ESERCIZIO B.
+### ESERCIZIO B.
 
 Alle otto la famiglia Rossi è a ---. I Rossi --- tre volte al giorno. I tre --- si chiamano: la ---, alle otto di mattina, il ---, all'una, e la ---, alle otto di sera. Quando i Rossi --- o cenano, ci sono sei persone --- tavola. Molta --- in Italia pranza e --- alla stessa ora dei Rossi, ma altre persone pranzano e --- prima dei Rossi o più --- dei Rossi. Ma neanche i Rossi non pranzano e non cenano --- alla stessa ora.
 
@@ -70,7 +70,7 @@ I Rossi pranzano e cenano in --- da ---, dove ci sono una grande tavola e sei --
 
 
 
-## ESERCIZIO C.
+### ESERCIZIO C.
 
 Come si chiamano i tre pasti?
 
@@ -215,5 +215,5 @@ Footnotes
 
 [^8.49]: quand' = quando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTY4MTQyMl19
+eyJoaXN0b3J5IjpbLTE0NTExODY5NTBdfQ==
 -->
