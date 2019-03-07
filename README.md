@@ -4,9 +4,9 @@ This is a Markdown conversion of the scanned PDF of "Italiano Secondo il Metodo 
 
 I am learning Italian via this method and transcribing as I go along with plans to eventually produce an EPUB through Pandoc, which will include all illustrations and sidenotes from the book.
 
-Current Status:
+### Current Status:
 
 TBA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY4MDEzMzVdfQ==
+eyJoaXN0b3J5IjpbMTgxMDM5NTM3Ml19
 -->
