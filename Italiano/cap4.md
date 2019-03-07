@@ -1,6 +1,6 @@
 ## Capitolo quattro (4): L'ANNO
 
-![c4.1](https://lh3.googleusercontent.com/5_-_BkbaLTHjv6Mr3X2-ics5mI65COkoijQRt3r-t2axedrMpD29IB2Gv5onJN1SLHapkUKQAqzkZr0apKbRKqPtJluufIqVP0_E5rfjZ6Og0v5615JNOnQ1i5sEpRsJHYeH1OsIQPkF46aJcVi3YECk-eZwGRz92kOkygfxn5c8Gomc-T2HVcxWbH2Zr-2wz0DdoB4HRghyojqaIledJ8OFeeShpcUxadk491p2-TFCg-ahkG-lmzKyBkrfqqq2IRJHjtdGsaH_ntmfAfvxhp0VBwqzpumONuuqP2nLqBd7PvodI3ywWDmeDegfJPrA3MV46i2IzzOiN66T3_PWkWnLeZqDKa-wcwhLrz8h_ViSXVh5DGME5gr1cX_4sYqZ7PeYjhG2wYAu8UNE7HgNXaWKoiDRQahSF7s0WeH9kmBvbyABEU04svcrKQT-WygZXfP_E6-x5vuzcfppr58_NNJUMJhcqwlx0iAxT2-HF16yjzbub5vorGt2CMaL-_oU6EtF9B0wqxEyRfMqtf-WUsqJ1Q_e7GgCnqFzLgZazh6Uf_EzO-dulEIgh4z3d_2_24fq7Qb77tLr5U4Tx12t6TbhxYGDqxkzPPB1drzsX2faDSFdxbctuSi-MjX9SN8BdhEzBeop3da05L3yKjf1fR_3xDeEljm1=w505-h375-no)
+![](../images/c4.1.png)
 
 Gennaio è un mese. Anche dicembre è un mese. Dodici mesi si chiamano un anno. Gennaio è il primo mese dell'anno. Dicembre è l'ultimo mese dell'anno. I dodici mesi dell'anno sono: gennaio, febbraio, marzo, aprile, maggio, giugno, luglio, agosto, settembre, ottobre, novembre e dicembre.
 
@@ -18,7 +18,7 @@ L'anno dura trecentosessantacinque o trecentosessantasei giorni: dal primo genna
 
 I Rossi non stanno a Roma tutto l'anno: in luglio, agosto e settembre non stanno a Roma, ma ad Ostia. I Rossi stanno a Roma in autunno, in primavera e d'inverno. Ma d'estate stanno a Ostia. I Rossi stanno ad Ostia dai primi giorni di luglio agli ultimi di settembre o ai primi di ottobre. Anche i Benelli stanno a Ostia d'estate. I Rossi vanno da Roma ad Ostia il primo o il due luglio e stanno ad Ostia tutta l'estate. Anche la famiglia Benelli va ad Ostia il primo o il due luglio e sta ad Ostia tutta l'estate. E gli altri mesi dell'anno, dove stanno i Benelli e i Rossi? Gli altri mesi dell'anno stanno a Roma. La signorina Emilia Rossi va ad Ostia anche lei il primo luglio? No; lei non va ad Ostia.
 
-![c4.2](https://lh3.googleusercontent.com/RYdk9nMnMHffW1lI4t2VsM87wO52fxetmJ54QyNVYNSiopvDRda1RdqV117yOWKv1gevOzplBILbJ6ghmq5z_FP3wNB7biYqZxKEgL5EAMNnCxdWPpZppcqMHzrmdxgzV2DoNtrmcytN3dC6dZguE2gR1y-z43jaY6BEjg4jq9r8LmrABPBZ3KPU1KeBdCIDMRAABU8y0MI8GP8OszGIOCC3nJyKb10m7XdISftdWujQ3Jx0dqSe38dyHO2xbm20LyxYi4KWruFEU9uT-zqDypCPoEiNXKL3isg-zJAds-L6IY86eifIkKRdJW1__slHsTH9eWxBW_cFsDt-rHQfeCPU5o6Fa96W8ZWoJnylUmdenyTiWNpyPRoxdzvPIu7MPUb1PFSq3xk249F_MG5Pck63yu0wMZ4XjMQjoNpg99pjdFaugbLOSXhKQb_P00WLiTOEoBoIPq6POmubc9gvsBKQUUduAFt9lwKUivB-8ddo4rpqxDCzF49dae0QPidFEbTzoNOnOn4a17A5qjMloTFRseuDu9XyOl7yGasVpg5ilkVx5BroAMOVSAGD3VF_E2i8s4sWYP73-X2EgXJKGBqg8OGuwGWa5HBdponTEW0Zp6ctdREca_xh827VRbZqb_YuNyVEznwx4C3tH2F8P-XTmyDtqcJv=w539-h385-no)
+![](../images/c4.2.png)
 
 Il padre del signor Rossi, il signor Giuseppe Rossi, ha ottantadue anni. Ottantadue anni sono molti: il signor Giuseppe Rossi è vecchio. Un uomo che ha molti anni è vecchio. Una donna che ha molti anni è vecchia. La signora Teresa Rossi non è vecchia. Teresa Rossi ha solo trentacinque anni: è una donna giovane, non vecchia. Una donna che non ha molti anni è giovane. Anche Carlo Rossi è giovane, ma meno giovane di sua moglie: Carlo Rossi ha quarantadue anni. Il padre di Teresa Rossi, il signor Gherardo Brunotti, è vecchio anche lui, ma meno vecchio del signor Giuseppe Rossi. Giuseppe Rossi ha ottantadue anni, Gherardo Brunotti ha solo settantatré anni. Carlo e Teresa Rossi sono giovani, ma Teresa Rossi è più giovane di suo marito. Lui ha quarantadue anni, lei solo trentacinque. I padri dei genitori sono vecchi, ma Giuseppe Rossi è più vecchio di Gherardo Brunotti. Il primo ha ottantadue anni, l'altro ha settantatré.
 
@@ -64,5 +64,5 @@ Quanti anni hanno Carlo e Teresa Rossi?
 
 Qual è il più giovane dei quattro bambini?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTE1MDg2OV19
+eyJoaXN0b3J5IjpbMTg5NDQyNTAwOCwtNjcxMTUwODY5XX0=
 -->
