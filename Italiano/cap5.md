@@ -1,6 +1,4 @@
-# Capitolo cinque (5)
-
-## LE STAGIONI
+## Capitolo cinque (5): LE STAGIONI
 
 ![c5.1](https://lh3.googleusercontent.com/e_B15AlXpQNZJD2G26wdWrMSVhHinQkbwPgZ8uoLo3X06jg75pHoiaEbcvFd-VhG7jjHghypaCs4abhlTr1Td-Bn1BnEF2QkRJsOC4Nv0nSN3iJY0LXNTCYcCBiow7i9jzB2dtnmObYqZAeWYI86eX1R2uKj__XsZGxZVlH8GElIYLb3nPcMkKzo1KRM7j7dp___SG_NVsTP41ykeYjuooQmOXsZkVOshynyn4JC5rDb5M9lQlNFhjHH1y8j9tQhsa-k2J70WDQ0NlC13SMi2Z241fEXz_ZjUwSB832KkqCztYVxHeA-2wxYswRmgsMEiXoqomzDSe17lcLMdaimWVj96PrkHjVMuMWd6pY-78YXOkDzUK8xGx9n9otOc0PTyEPgk2onAdAlXDAboV1tujaNHJaki6DFN2tZe1RDfMp-ICgL__7GvQsm3nbXMLb44KEL3NaNY_P-Z5h9MpDhcA_sIZr4HbOTntDaPE-L2r1ra33WufwhMXsm8pNovY6FVfRys98U5ZSuv140E0W5R8nk4CHtfAMoxzUf0lSVpf5ioL97eJiTwFeQWfdi71-AgnkAPtvtiq0LJvw1GFagO3uLTs4DTldZxg6HyySWw66chYsaNUYM5-w7X09rO1hwU6zx1vKHK97le1sI0S79GkRTYJ98EWXT=w513-h421-no)
 
@@ -24,7 +22,7 @@ Cosa c'è sui rami degli alberi in primavera? Ci sono dei fiori. E ci sono anche
 
 
 
-## ESERCIZIO A.
+### ESERCIZIO A.
 
 un limone, un arancio, una pera, dei limoni, degli aranci, delle pere
 
@@ -36,13 +34,13 @@ Carlo è il nome --- dignor Rossi. il nome --- signora Rossi è Teresa. I nomi -
 
 
 
-## ESERCIZIO B.
+### ESERCIZIO B.
 
 La --- dei Rossi ad Ostia è in un gran ---. I Rossi non --- stanno --- i mesi dell'anno, ma solo nei mesi dell'estate. Nel giardino ci sono molti ---, alcuni sono più --- della casa, alri più della casa. I Rossi hanno molte --- rosse e gialle e molti altri ---. Nel giardino c'è anche molta ---. D'inverno, non c'è molta erba. D'estate gli alberi hanno molte --- verdi, ma in autunno le --- degli alberi non sono verdi. I limoni non sono verdi, ma ---, e le ciliege sono ---. Molte rose sono gialle, --- i limoni, altre sono rosse, come le ---. --- molti rami, d'estate, ci sono dei ---. Il limone è un ---. Altri --- sono l'---, la --- e la ---.
 
 
 
-## ESERCIZIO C.
+### ESERCIZIO C.
 
 Quanti mesi stanno ad Ostia i Rossi?
 
@@ -60,5 +58,5 @@ Quando ci sono delle rose nel giardino?
 
 Ci sono dei limoni in tutti i paesi dell'Europa?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Mjk2NTg2MV19
+eyJoaXN0b3J5IjpbLTExNTEyMDE5MV19
 -->
