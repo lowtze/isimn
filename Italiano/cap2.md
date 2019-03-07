@@ -1,6 +1,6 @@
 ## Capitolo due (2): CITTÀ E PAESI
 
-![l'Europa](https://lh3.googleusercontent.com/Ot-hOuByVH6-pG7D5D-3Iy729WK1sLSrkB6FcC7MT9znTOjdhRvxG507swNsS8Mp7fR4YrxUs_Ysi1mtcPXgEa0rQtUttM7hM-QS2PR6cjHD42uKuMqRVdctFi-KW3m76kP2yktHXgtZ1VBp7HWKhMFR6-mfhIFCogOicrPJruC4staMiqs_p3R0izQPV8GjbSbjQ9_k-yIE6rxjHCzdTLr0KuOnJ_Ds3BHCK1bAm3SGvGoeSFsDYYg_8i2K2rcr7v-husSIjiawOm-iXXwIb5S0ZNWvjNPicyV14Zvhwb17icAjsyp018QyxkMTcNwzfPO8ZaFKotGmthcdBBoJf_P4JuwuWNvexxQFtv1233JPP0ktKLMUc_J8BKsK41RSkucHIRa5w_YPsrOgfzteTQeIGq3_IhQ-W33sc0zY0f7ErxtA4T4sqwCVrldRGY3gKI5jggKuBUFlZ4w4ND8EvaEEm_dxRgje8GIVrm8ZnKZubZOJI9m6hbvZHmx0G-Q9Y_dJ0O9WUGROCGq2QjpbClp7bE3p20fj1s79qfcuPHouyJADvwpR9AxnGIDR_F7iljhvMfxi8loNvMWwf5oGKBRaWjVIXtVLA2ILQXRhVp0sFBRloObPQE4srgNWaLfb81BSGAkvjXo5cRpb46gyfUD0s0KjsLV3=w505-h423-no)
+![l'Europa](../images/c2.1.png)
 
 Roma è una città. Anche Milano e Parigi sono città.[^2.1] Parigi è una città di Francia. Milano e Roma sono città d'Italia.[^2.2] La Francia è un paese. Anche l'Italia[^2.3] è un paese. La Francia e l'Italia sono due paesi[^2.4] d'Europa. Anche la Germania e l'Inghilterra sono paesi d'Europa.
 
@@ -10,7 +10,7 @@ L'Italia, che ha cinquanta[^2.15] milioni di abitanti, è un paese grande. La Sv
 
 La famiglia Rossi sta in Italia: è una famiglia italiana. Carlo Rossi è un italiano, Teresa Rossi è un'italiana.[^2.21] Anche Bruno e Pietro sono italiani. Bruno e Pietro sono bambini italiani. Maria e Pia sono bambine italiane. I Rossi sono italiani.[^2.22] Dove sta la famiglia Rossi? La famiglia Rossi sta in Italia. E in che città d'Italia stanno i Rossi? I Rossi stanno a Roma.
 
-![l'Italia](https://lh3.googleusercontent.com/gDATcdGk7bzu9yCVRSt1O3IYgZ4vmCSCMMlysDyo0CiCkYdno2Gi1kwWtZSfyBF3BTO_Iq73-_p3IEo0gYelIei_cnWxD4L8U4SELJC1KlOEGbcZpxIzJAGx6Ipf6akS0HC9TGIsZulpgxyer8QNNhxTM27UHVTQMxZyNj90OAFeUbqQ5fot2Ghbcgywui_9co0CqG-c3tjgdFjPx38Ob1-PE-ZMYxqMOoUrHtFc1iZAoeBKk2m9yaRDftuT8DlGSeYfUZjQ7Ub_xNFrNseDfJlJeFVOVjY_rbZTNOKmX3uA4Wy0HLtFh3ctqjFVxjsQxj2LNiJs0RjVeqrim2WnniIjw0SgQVZupXkWAHFueGk3Rtiy_6gWAQhckWacG9Ma-t7UV0h8fsET282J6KksuMAvqRUSH-24etWsX5ZRXuk-Seu0y2TBY4QLIOBjvCEgJZs27l4PAV7QJH44LCLLWoZtyg9BQFmwM6vUGesdeotvvj9MuqhV8sfSZsJgfxHCiRR8l0vn2AgfvQ0JIZ8Nv99cAux0dCDOQXCLgzvf_6z-DDb7gZBR_GhqE_438zcCQwpiE0yWzzv-1U9X90a5o2oMNOTbmJwgXgk5Ip_lPYh3gLVRn3hgwTTVmZ182tvoQi3pR8mKEypFffenpMgkY6orzJ3FLgaj=w539-h637-no)
+![l'Italia](../images/c2.2.png)
 
 Gli abitanti di Roma sono romani. Carlo Rossi è un abitante di Roma: è un romano. Teresa Rossi è una romana. Bruno e Pietro sono bambini romani, Maria e Pia sono bambine romane. I romani sono italiani. Anche gli abitanti di Firenze, di Milano, di Napoli sono italiani. Ma gli abitanti di Parigi non sono italiani. Parigi è una città francese, e gli abitanti di Parigi sono francesi. Dove stanno gli italiani? Gli italiani stanno in Italia. Dove stanno i francesi? I francesi stanno in Francia. Gli abitanti di Londra sono inglesi. In che paese è Londra? Londra è in Inghilterra. Gli inglesi stanno in Inghilterra.
 
@@ -166,5 +166,5 @@ Footnotes
 
 [^2.22]: i Rossi = la famiglia Rossi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDA2MDI1Ml19
+eyJoaXN0b3J5IjpbLTE2NzQ3MzM0ODgsLTEzNDA2MDI1Ml19
 -->
