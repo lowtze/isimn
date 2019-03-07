@@ -1,6 +1,6 @@
 ## Capitolo sei (6): GIORNO E NOTTE
 
-![c6.1](https://lh3.googleusercontent.com/m8HlM2HRh2pp7SAGuFZpESAtPjx_tuZySSY2F_7GYF0Jyc0dBbY3f-0sBB7dQ7gGPdiIJHlOgSDZWZ8pkBM6xnrotjJgGsxdhqdJka4jSZz5-cT1diL11u0FqiBjIdEkoI2ER71_PKaOQ_E-Hn0SoCvdnSL5jfPoX0fZ9U2nc6TRk9CZlc95x0tMkFVLk1vXYYwYpRHiFDozAivwn6jyXIYcAJiw_-6mVGcVotnxCIIog9y4uAaQQCt0Nk79mpJaq74C8jyU8ITZRagsO8N2nDcqzimiVhKImWRdC8FwO8c4DSffr1OQ4CnLtzkIejpT7DcgKy0GLBwlqu0Yp1_YuzZmoktWMDi-qOO_ff2Pjy_v488jOVqcTbtuQ_W9SUXKHOtdYcqFgZMTC-5VZzfiJgpdL8KvkBjv-KJ5X0u3dzPpBKXymyMTVI9y2mPl3owlmkVqUEc6CES03PMW10Rf5y36aIFSnaqH-ASjgOAyJrulkZFVw_r4dfNRk9hLwEpZ2k9NS4cTqE-C_9DUyVmI9_0GipQ83zwVVLkxcRqQbt9ZgwtuSdn74MaCPcbsLDqDtN8bRBlzZ62UfeF_J3o5L--GQvrpEHEU4bBDm1S6fSFbwaRhmcwaxQdA4UVFJgMplMwzTbKNZtm0oMRSiUgH8Zpxd6BuYLTG=w515-h269-no)
+![](../images/c6.1.png)
 
 Il giorno e la notte durano ventiquattr'ore. D'inverno, la notte dura più di dodici ore, d'estate dura meno di dodici ore. Il giorno dura più di dodici ore d'estate e meno di dodici ore d'inverno. Due volte all'anno, il giorno non è né più lungo né più corto della notte: la prima volta è il ventun marzo e la seconda volta è il ventitré settembre. Il ventun marzo e il ventitré settembre il giorno dura quanto la notte, né più né meno.
 
@@ -75,5 +75,5 @@ Che giorno e che data era ieri?
 Che giorno e che data sarà domani?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUzMzQxNjRdfQ==
+eyJoaXN0b3J5IjpbLTQ3MzU1ODI2LC0xNTY1MzM0MTY0XX0=
 -->
