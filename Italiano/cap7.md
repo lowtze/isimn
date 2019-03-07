@@ -106,7 +106,7 @@ Footnotes
 
 [^7.11]: non hanno sveglia = non hanno una sveglia
 
-![](../images/7sub2.png)
+[^7.12]: ![](../images/7sub2.png)
 
 [^7.13]: Maria però = però Maria
 
@@ -218,5 +218,5 @@ Footnotes
 
 [^7.44]: con + il = col
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3NDAzNzIxLDE1MDA1MTY1NTVdfQ==
+eyJoaXN0b3J5IjpbLTE1OTE3Nzk1NTEsMTUwMDUxNjU1NV19
 -->
