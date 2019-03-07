@@ -1,12 +1,12 @@
 ## Capitolo sette (7): LA MATTINA
 
-![](https://lh3.googleusercontent.com/6vqqIC_AsAP-8peWc617FEzsU0R13dNbM1XS56yHbU-5yWY3Cxh0XKq8ckh1AtxaB11jbHV6FikLR3qu3-jBcOwrssurEBggD9LnCbjlc57bYTycySRlg-pMAH0dxTeRvkAEp4OawMwPeYMVKu1ol7jciuUp05Jx3fedlcDZogzJn0uMMYpaBnsP1H1-OBZvlJPQcT81kKmH9csD4PibfK2fjFk1SPDk5ZzbRAMyK5OBHUu3o9PSLqYT1_oNMTlci66udaL0hhGf02EhRC7zrB_EWJ9G9Np4ZiWCT7IeP-HS7_bQPdSF1WrBAMVlTfJ88epcunAECGL9OTZ51XC9lRV_mcaWrWF9fKqgataSBhcx7Apqf5geA1gmN8BsPmYc7KemrSgDTK56aJhjVaRKGDAvRnNlLl4A_f8Khu6XmsUMml9-C1d5WXO57PSUFKqWdUPopnnaU0Z--edbeCC_Fv-XULG73ZOQIWPKaEozc_oVpQlVxW-ziAMD_rNxohwOPuF5u5596MSP2Cq_pN68GEJPec31eDzm4KDJn1NnepGJbvLnN5Rmd5EI6RRrp2kIYpsgq1yFnlCe6CqW-OPf06MY7AzaTYsMh6FLT--RwzdPLofdw7HNZaSSm3Z6s_4AVYiH-nCYjiewxnamsCnG1N4X3P5qJ2JA=w517-h387-no)
+![](../images/c7.1.png)
 
 Che ore sono? Sono le sette di mattina. I bambini sono nei loro letti. I bambini dormono. Però non dormono tutti. Bruno e Pietro dormono ancora, Maria dorme anche lei, ma Pia non dorme più.[^7.1] Pia dorme dalle otto di sera alle sei o alle sei e mezzo di mattina. Quanto dorme Pia? Dorme dieci ore. Pietro, che ha cinque anni più di Pia, non dorme che nove ore:[^7.2] dalle dieci alle sette. Bruno e Maria non dormono che otte ore e mezzo. Vanno a letto alle dieci e mezzo di sera e dormono fino alle sette di mattina. La madre dei bambini, la signora Rossi, non dorme che sette ore: insieme con suo marito va a letto alle undici e dorme solo fino alle sei. Suo marito dorme fino alle sette, come Maria, Bruno e Pietro.
 
 Dove sono i letti dei bambini? Quelli di[^7.3] Bruno e di Pietro sono nella stanza dei due fratelli, quelli di Maria e di Pia sono nella stanza delle due sorelle. Le stanze dove stanno[^7.4] i letti si chiamano stanze da letto. I rossi hanno tre stanze da letto: una per i genitori e due per i bambini. Nella stanza dei genitori non c'è che un letto, però è molto grande. Nelle stanze dei bambini ci sono dei letti motlo più piccoli di quello dei genitori. Ma il letto di bruno è più grande di quello di Pia, perché Bruno è più grande di Pia. Il letto dei genitori è molto grande perché ci[^7.5] dormono e il padre e la madre.[^7.6] I Rossi hanno un letto molto grande per i genitori e quattro letti più piccoli per i bambini.
 
-![](https://lh3.googleusercontent.com/iunwteKUeobHsi1IwjXPEFXV7eTTTithQMSqTCkdiUWAt25WyNZ2_EYCFFSD8t8KjiPLW10mwAaCqQqUijvO7tT66F--wH_WG8lsGw-0Po26PlqkHr_3SPf9qzozVnljKSle8EM1328vEWTLbZIgNj11hjIoJJ6bWemFI_QUFuYmdl2Yinq_ORGLGGctS9n9HHCYu6vpT19i4lW-7kRKkIsfhTI-tQYEYN3hk4JmBm0SNyrgVh4VM3vcvIpHwjtVr8yecyaeT2Rw-VQatLmhdbqe0o3JX7u5zulR67ZT9vy6JYPCqs7-6P7ytNdVs45KJfpCPvRkNFXZnTQcyoAXJnsqWpC7ms1eEHW_QNu7exT_26SlRoCnIZF5hA9fFZPRFBuUP0s0JZa1SSc1f8M3M3X4R4fXF8hBOis_GlqAo5R29nC61TQszNSQdV_cxZ8jw3PbKJnpCobT9s7kutAWjsfVbxqrhxPIMKJdJ0GAtWnQScjFddifGlRardczneNGUxRbNmzNxUOracYdiRTeqgIgHn7XDCiUbnt4Y-eGIgKMNsLSWbxkxiW59AUFJKO7aA7M-oiClE8kTkhJSu62qUxF1FCOyhwskQdI9w8_G9Tb2j22CIoTGqhIuYOZrMM2q4Pl2NK9acFH0w1Viz4FEjRtSM5kL8wB=w499-h311-no)
+![](../images/c7.2.png)
 
 Nella stanza da letto dei genitori c'è un orologio che alle sei di mattina suona: «DRRRIIIN!». Perché suona l'orologio? Suona perché sono le sei. Alle sei meno dieci la signora Rossi dorme ancora, ma alle sei l'orologio suona e sveglia la signora Rossi. Un orologio che suona la mattina e sveglia le persone che[^7.7] dormono si chiama una «sveglia».
 
@@ -218,5 +218,5 @@ Footnotes
 
 [^7.44]: con + il = col
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDUxNjU1NV19
+eyJoaXN0b3J5IjpbLTEwMTM5NzM2ODYsMTUwMDUxNjU1NV19
 -->
