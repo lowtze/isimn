@@ -1,6 +1,6 @@
 ## Capitolo uno (1): LA FAMIGLIA ROSSI
 
-![](https://lh3.googleusercontent.com/o7Mm32IGRv5HSwVDIJ701JCa4PapK32yg1EiES4pilFUzuWLXSgzgDpYAL-AkZUtj_lYqKgLOTYbM-wXZWBBy5VDb5A9ag23ykhoqN5Wc-O8hhrOyV6yIdhhUEweuo10eJCXttn0izD2cs4gRrRaMyG_IbBzvrDvuYfBCKKnXilIfouGyLHWASpK9s5MG30ubJkl5uhKECVR0pNL5mTmIzYROmsw3aAm6UzwWm2K2YwG0gdexUYXZCgMHvO19wirbpgcGEHDo06gWxSLG91aAP7cRRCHIaKv3GA2kX0T_llYqiEDWGvYl5nK5c4z1NAEInoWKPgKukQ28ln_CPR2CDXm-HYgMXIgFuqSes_tMVQgazKdnio2UrX3qf739Wrkpn8o63nerGUnq-DarYPDVZyG6pLHNQ7BP8DhySrC4dSJDPn8JOxCY3ABju1V7mxy8If0shzQu09dvcUI1kMHX_h5hn-8ZFY56NzWatL2ZhEj5V9aMHGo8wU_ZmARPdaD7oDlEkACpTV2NW1OfOFQ28e01NzYVz6KDNKAthfyfyNsP3EQBlzl8nNBSToJqlABY-Vli_Mx-7nLsk3BzUdRGe8_sFKCZ4cO01zFuPu9ynWlcYVwfToX36d_nlj3YpMv9HWbwMiZ0n916X3Z1dErqSh04Yq72JcB=w523-h339-no)
+![](../images/c1.1.PNG)
 
 Carlo Rossi è un uomo. Teresa Rossi è una donna.[^1.1] Bruno è un bambino. Pietro è un bambino. Maria è una bambina. Anche Pia è una bambina.[^1.2] Bruno e Pietro sono due bambini.[^1.3] Maria e Pia sono due bambine.[^1.4]
 
@@ -166,5 +166,5 @@ Footnotes
 
 [^1.26]: i genitori = il padre e la madre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjEwOTcyOV19
+eyJoaXN0b3J5IjpbLTEyNjYyODA2NjcsLTQxMjEwOTcyOV19
 -->
