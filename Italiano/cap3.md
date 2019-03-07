@@ -6,7 +6,7 @@ Il cognome del padre è Rossi. Anche il cognome della madre è Rossi: Teresa Ros
 
 Teresa Rossi chiama il signor Rossi «Carlo», e Carlo Rossi chiama la signora Rossi «Teresa». Ma i bambini non chiamano i signori Rossi «Carlo» e «Teresa». I bambini chiamano il signor Rossi «papà» e la signora Rossi «mamma».
 
-![](https://lh3.googleusercontent.com/Aab1fO0JYD_-hGZrvtoPajJnCZrUXmc8-aOfhZQXjGeiHSZRaCCodwvirZxqR87zENso8492xsHNZXHzr3qjVetdDSKGw403aazYvGGR-ym3elS0yKg6LK_0HRmxyFnKWno6mVfFAavVJCZeV0jcRwoVdNtSyHwLJf0cLIavwY9434CiRm956P9XIV7RWn8omiFlI8qig13iF4sTg_033lZekE7mJNJFgp7je5oKK1PYsOq4QFNwEvL2XYY3UkwS6FT5i0oEWtmI4GhcwEU8xUvDO12UNUl-XqU3EzXnHIC3jcjQIAr76CdZXKIg6HeEXFHPqBuhCGNh0HHeSZnVZeTvScFdCZP3z6KFp8HPYuDbsaCl3P_jZ6iCb_M5W66jHWnpMVSC1Utj4pjASyiNgBdUbk_cox4t_O4oulDBUM5pBFxoURbUKg_V9MdsnI8DxA-DLugJWXP3bLsof4fMizuualM7wJ2ZvOShaUAgJ4VRFSWg7fvVRw8oQ585M8hGCLW6gfpTYHxWLGBjY_f_NfQHqcnVQg0DLq47A81e2q7-Z0D7TIrwFfj7G6WCZeav3q61LGc8M5obHFCFLwZ0NmjqBR3o7oflAgc8UrmiVt6zDtgZQHGtfPIMoTF0ZmoGSb_2RIrxyYnWnR_hgc2SK-7NTFSNyt11=w519-h299-no)
+![](../images/c3.1.png)
 
 Il primo figlio di Carlo Rossi si chiama «Bruno». La prima figlia di Carlo Rossi si chiama «Maria». Come si chiama la seconda figlia di Carlo Rossi? Si chiama Pia. Come si chiama il padre di Bruno? Suo padre si chiama Carlo Rossi. Come si chiama sua madre? Sua madre si chiama Teresa Rossi. Chi è il fratello di Bruno? Suo fratello è Pietro. E chi è la sorella di Maria? Sua sorella è Pia. Chi sono i genitori di Pietro? I suoi genitori sono il signor Rossi e la signora Rossi.
 
@@ -16,7 +16,7 @@ Il signor Rossi chiama sua moglie «Teresa» e la signora Rossia chiama suo mari
 
 Qual è il nome del signor Rossi? Il suo nome è Carlo. E qual è il nome della signora Rossi? Il suo nome è Teresa. Il signor Rossi è un italiano: l'Italia è la sua patria. Qual è la patria della signora Rossi? Anche la sua patria è l'Italia. I sei Rossi hanno la stessa patria. L'Italia è la patria degli italiani. La Francia è la patria dei francesi.
 
-![](https://lh3.googleusercontent.com/H8hm1eQaCP-VneHZp2euuf7R2GeNBT8lp6nBfG66LqevCjRNzNnn3wwRF1Dw94GKByV7bofRVezBHGKcDCUiFoJkRPrBd0QFFNFL_-cjUiarxJXd26TozPLiMtVPlVtIttyGbAeYk_NeKgQFqvkxL2Fkk4fv9fl99-qB9ykzKrNPgK0TWMoStfNViG7WvGuYdB-MGimLx1Ffzndd46HU2W8FaLgYmHlEx5lZjWdovglR9kg2ZPjE95zvURSFUc3scsGx62zgXq4gPfjIIUhOW6KSfTZN4xLOhNpq5fQs1h9PXw2T1ap2Ztsm5M2P-eJNP0n3bpWz4fNP1_oD6Te1iMtSpTUZn8pDcrPDmkvaeIP2p-KHvvh3bkwb7sLoLVL0aFiJrUrzTM_ypbKIw_hIATV0bC8KCr55svXh8f66NZquZmE_qqKv1pYdFamVh6EYZCTkvsx2cK8TbcbspHcWQJUA0Q3LGomDO8O8kZV0E4fHpJm8rR1ApAJ1v-zqZixT6IkDmRKhDpLENWEQ9dyFO0IqRerJIij29XHYFctG7mn1yYAC6oCQdcsNGvbFayuU4oTVGktZEGtEAcckgg2M8cBGquioB6vh0iPg3lfSpSnCa-dq8fFAUEe2MzNf68_SB2VnPT0pJXMyAr4FsHwIMAirG6vY0dJ6=w509-h381-no)
+![](../images/c3.2.png)
 
 Il signor Rossi ha un fratello che si chiama Alberto. Alberto Rossi è lo zio dei bambini Rossi. I fratelli del padre e della madre sono gli zii dei bambini. Il signor Rossi ha anche una sorella che si chiama Emilia. Emilia Rossi è la zia dei bambini. Le sorelle del padre o della madre sono le zie dei bambini. Il signor Rossi ha due fratelli. L'uno si chiama Alberto. L'altro si chiama Rodolfo, ed è anche lui zio dei bambini. Il signor Rossi ha due sorelle. L'una si chiama Emilia Rossi. L'altra si chiama Emma Benelli, ed è anche lei zia dei bambini. Emma Benelli è sposata, Emilia Rossi no. Teresa Rossi ha una sorella. Sono sposati i due fratelli del signor Rossi? Alberto Rossi sì, è sposato, ma Rodolfo no. E le sorelle del signor Rossi, sono sposate? Emilia no, ma Emma sì. Anche la sorella della signora Rossi è sposata. Emilia Rossi non si chiama «signora», ma «signorina» Rossi. Una donna non sposata si chiama signorina. Emilia Rossi è «la signorina Rossi». La moglie di Alberto Rossi non è sorella del papà né della mamma dei bambini, ma anche lei è zia dei bambini. Alberto Rossi è sposato. E Rudolfo ed Emma, sono sposati? Lei sì, ma lui no. Quanti fratelli e quante sorelle hanno Carlo e Teresa Rossi? Lui ha due fratelli e due sorelle, lei ha una sorella. Il marito di Emma Benelli, che è la seconda sorella del padre dei bambini, non è fratello né di Carlo né di Teresa Rossi, ma anche lui è zio dei bambini.
 
@@ -62,5 +62,5 @@ Footnotes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MzExNzA1XX0=
+eyJoaXN0b3J5IjpbNTA1OTQxNjc1LDU5ODMxMTcwNV19
 -->
