@@ -148,6 +148,8 @@ Footnotes
 
 [^7.27]: ![](../images/7sub3.png)
 
+[^7.28]: ![](../images/7sub4.png)
+
 [^7.29]: **li** lava
 	
 	**non li** lava
@@ -216,5 +218,5 @@ Footnotes
 
 [^7.44]: con + il = col
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjIzODE1MCwxNTAwNTE2NTU1XX0=
+eyJoaXN0b3J5IjpbLTE1OTE3Nzk1NTEsMTUwMDUxNjU1NV19
 -->
