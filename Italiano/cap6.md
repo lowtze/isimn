@@ -12,7 +12,7 @@ Il giorno più lungo dell'anno è il ventun giugno. Il ventun giugno il giorno �
 
 Quanti minuti dura una mezz'ora? Una mezz'ora dura trenta minuti. Quanti quarti d'ora ci sono in un'ora? Quattro. Un quarto d'ora dura quindici minuti, e un'ora dura sessanta minuti. Un minuto è la sessantesima parte di un'ora, la trentesima parte di una mezz'ora e la quindicesima parte di un quarto d'ora.
 
-![c6.2](https://lh3.googleusercontent.com/JknBb2ZYT68xtCsnYCRpPLj49ljzOC-f8kMD-HYXnoe7-63UnLSQCd-qGnBc3MBApXJ_71kLqTqDC5XQqWpdLmLQhGIV9wBkVG7RDlqI6t_mAl4ZBxjSaA2XyQI9UGCI9SBYJuvCUz7hfhtyOfUKH9gCopLMob3yacVs8n7KjFPjEBX8rlNiOKXv63uM52CFxWC2pWON_OqL6Pxw5PPBmT4zDkmcVRe4xB9Jvgh8Oo3NAefEa-EPc_LsC0FDdszX_bU0fe5fxaUIfHX2Vw4_qKgefnOywYxKSFQw09jTVHOpU4XlIr22s25d8WGWLyYkx5EMNpRBZGedtEy6dQNR0LGT7Lx9yxP0dHMMsrNIk0Ii3MqcGUDMHPYPwzALvNtzICgAw4IP8hZe8ovJWQ7hWa6fDG8wIRODyeBJULDBftNaqgpKMxtTS2Hz4PE9HuvcgZrP5gNVkQFYYBW87tGqPPGUPvNMm7p002w9xl77GcB6w5FDwJPpmU4Iui58EmtoaDhmCEpBEpQf6BRiBOKbvsvctyb4LlWEjGH1igrh8RgDk1tZTX3Zbh1KEhu3BsvMu59bLgyj2uAMQ55Z_GIfK5wOr3qkJ-IOXzg7Ns7LezvffZCyxaSghaW4EYP_L0ahK2HWGs-U2wLwfB4B2FPO4j0XnhCsbkFu=w509-h237-no)
+![](../images/c6.2.png)
 
 La prima parte del giorno si chiama «mattina». L'ultima parte del giorno si chiama «sera». La mattina, il sole spunta, e la sera, tramonta. La mattina comincia quando spunta il sole e dura fino a mezzogiorno. La seconda parte del giorno è il pomeriggio. Il pomeriggio comincia a mezzogiorno e dura fino alla sera, che è l'ultima parte del giorno. La sera comincia quando finisce il pomeriggio e finisce quando comincia la notte, cioè: dura dalla fine del pomeriggio al principio della notte. E la notte comincia quando finisce la sera e finisce quando comincia la mattina, cioè: dura dalla fine della sera al principio della mattina.
 
@@ -75,5 +75,5 @@ Che giorno e che data era ieri?
 Che giorno e che data sarà domani?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzU1ODI2LC0xNTY1MzM0MTY0XX0=
+eyJoaXN0b3J5IjpbMTYzMTQ2NTc0NiwtMTU2NTMzNDE2NF19
 -->
