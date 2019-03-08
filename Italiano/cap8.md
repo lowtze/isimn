@@ -187,19 +187,19 @@ Footnotes
 
 [^8.39]: poca gente = poche persone
 
-[^8.40]: ![](https://lh3.googleusercontent.com/3cRI-z57nv1SDI9Yc-9XFEEEKGggoAh8crn8R9RulHvPxcVqhrRxUyrTABknmwXc0nmVxbtIeOUVig4dkD2gjrEMx5am2KZBXYLXLNhp4DT0q1LW0A8zfxfvNgx8a2_x2wS8FzrxxkmZvk8CTa3OOrgUF4xjP_vxkD2DPwl24Q_A79my9hAPvXSl3J7cyv1KaGTax6fWZigIVxabx7PbfbQSCYqglAttojUweQ1IhhWPdihT-RRzK1K5g3t5MLPlXmhY9qKGN8IOmzBmhTfUxpvz46BnXF2lJlU71eRxoTA_0kjUsSHSPL9WSlxcWRaRBj-JpFDD265XER-mzQgF2WVrV7AnRklg4WfZtZUOv7e5dpnt8rRqqE-MWjcKqLPNDe3U1f7RmNvoKRWow9DGS8b4XtaQ3fxxcuXKlT-ZJmlwcvtQ4_gep_5LzQRFYH9Wb1FNuGhEeZ8Paoy5eDQByivtXanpyPAtD7gsL4T58jeoQUdtfNamlJKOpcHU-4DfYsValcwUmUuaSE1odeYUGcjhZoP_MvzGAd0LMYV6tZ3djyasGoWw3RToC6KeUB2ttZoFWi6sExdhW6yPijtNp9DPCjVfkIU1FLSGDKkwTzg7JjFFEAMNq5PlG5M861qD42obPUChgUl7W0HiqFJMjxhmN-VLxhHF=w175-h177-no)
+[^8.40]: ![](../images/8sub9.png)
 
-[^8.41]: ![](https://lh3.googleusercontent.com/ZFJJFNTI9Y4UXUGKplzn5LP5RwnIulmgYXSMa-koEf5bwYJh5jm9VzWmMRmKyTc607edxiyR22QRcK-RDvbWWUcBNEhsjX-WFpP8McRJ0X1yxOfVsxZPTsJ6zbRXFzTgUphaL7jPSNr6CJrqLoN0YEKP7TLYckuFZEbWbNqKpcz0fV9iE5jgjOeXK0npYHT30_QvR9tPP3sMYWv3PDZ18mJK0r6bKyTNZLmZY9zRAXhgOJN-YDyItiq0jK_dJYKvelPqkaUFRKCRoxYXY2IYckmG1XT_5QUxui2trLRgf6OoRHzieS51hD48nUe71utWyi-QPndh5XFZNGtPJEg__0s8yoYalfDCXnvAHb8_7jkqvPeb1UM7Qvg17glABxC0tv355taYURRFgZct21OHTWITro3_UWjPVggq4CTtv4RhtDi9GWmua82N9YwQ7XPvuoxfBwiZVEfzSMl6m2ogVTevdj9b5XW48ybuoSOofMA6JPvDlGTgmLJtAMjP3UhoWDXPi49dWcHJFzO9DmK3C5dA9YfgPlI0wR1f4hCuwX8_XN6dktRckxMtEZPNaNeqITmhexNHmoPeLoU5UssW-gU1CCJSLDheN7YC7aCtEXD-t6J_IfWtigeT0-gD7kWePzTbNh2ZeHAJGENAQmUMR4DfRXjYNS1v=w139-h235-no)
+[^8.41]: ![](../images/8sub10.png)
 
 [^8.42]: si mangia = la gente mangia
 
-[^8.43]: ![](https://lh3.googleusercontent.com/FlB_WiLwasy9qi-SSr9EfuDx46x4gBfhRjp0uQ4fxqcTq7_Tr-y7J8PHCRUtMhJRVOFJo0O3lC-s_xWC8WU6fDtMYnGIA_dCkiSvoVG1Z8YYi6yGOxZWFTvtDuxocTXO5VWUSvJozph7X8Vr63O867zxO5p2Y9AlwDZ7ZbjMnGkVRPALnt5-uIj-QU7D6KQnnUvdmp0XwrCevp7h_umQdwyEs24gonXoGvvDfVf_zsb5_-3RbcqjgPFEsV22LE8BDSRhzDloZ8gy-AAzssrZV6KuboJ7PJ1Z9eD-mV5Ig6MNtiTM97zl3BHVxKUKBcZOieqY5qXDdg38I6OmPsIWtzoKvROipWFbowSKI_eMXDtC39tSx7ASS2g9hd-XfcRcF0ZI5InIZ2jrGZ3UkCAlXwKC7hf5UyqQOdHR24765GWzfQZO9ENnf8VRB1imkvtLA0WVczzGFM1eyX46QVZHfvWksBoW4Wk6X2Oh76lgLwJYJOdAd10ZNJOI1WaqhTBDVhv1KHFZNEr7g63o1LfkGJkRYKfvEwiHxqiMc4EzD-61kWaqVYzi2cATlcNCTPDP5KCRHlazJ8kD2j3Gr5u0Ek1lRAIRPeEsQnMAPrnfEjmKH7KSaUkvgYDpkOk2seW1wQSiUoYtM4jsAfJnqmuBorlgkN-IPqmT=w131-h219-no)
+[^8.43]: ![](../images/8sub11.png)
 
 [^8.44]: forchetta
 
 	forchett**ina**
 
-[^8.45]: ![](https://lh3.googleusercontent.com/vUZgRG5NpN1hKYm98YWlwzYJgdTYYsh5arGqLF1b8s2xSOPdomZzKljNoUvDjDzqbxvl7TZi-R7xEhiFjT3NNd8JjmCSljfc2yf-z8scjw6pjQ8fDN_MsnX5DxvXzvC1i5rSHuZ1SPAi3iPCj2JCv4MlVqqYb2AR2aoWicPaOIaojBlrq2QRc1ZjiE-WFN2A8PMO4JIjUd5uQa-bCerrlw1via9pzHhTtBaVdKUvIy8cZ_HCnLcNuvdiINz7tzxX_9kjAuqJQDx_YcUu-ssPHeWrwRXHLSS6q1H7tcBsfyiBdIg1D-Lfk8w-8zQsHKER99TqdkqA9o46IKvUkpN9SvqFLcLfaHQUN03eojXxe-zcuPxHERssqhXSKvFS9TLayuxI3NSUkbv-dKg_QxcpVHuVAdlH4YQuGDitL3pyv2fUqO9J2_QyFsPZhUDY2Y5Q283vPRPqQDS6himNI0wClh1gIYDtaTp232VfeO2CP6TeY0GHck2lcwBzuGcFk1-W6h-MSebdNbMRADtduclUvkYlVJSYy7Y38US6X8AXOLfEe_1tz1sSRL1IqpK34VNwKR5iW0WBhbtVhJ_PBbs5N1zhXbvc1FSCXSzKWlJUz8cbl_q0b2FNLiACGH0mOJT_qfeVQyNn_FKzAfvQIBOVUwo8Lo65ztQ_=w119-h245-no)
+[^8.45]: ![](../images/8sub12.png)
 
 [^8.46]: **ce ne** sono due : **ci** sono due **litri di vino**
 
@@ -215,5 +215,5 @@ Footnotes
 
 [^8.49]: quand' = quando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDgwNzE3OCwtNTQwNDI2MjddfQ==
+eyJoaXN0b3J5IjpbLTg2OTE2OTU2MiwtNTQwNDI2MjddfQ==
 -->
