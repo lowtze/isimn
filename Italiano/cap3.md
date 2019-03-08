@@ -60,7 +60,16 @@ Chi sono gli zii dei bambini?
 Footnotes
 -->
 
+[^3.1]: sei = 6
 
+[^3.2]: di + il = del
+
+	di + la = della
+
+[^3.3]: di + i = dei
+
+	di + le = delle
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1OTQxNjc1LDU5ODMxMTcwNV19
+eyJoaXN0b3J5IjpbLTE2ODI4MTYxMjMsNTA1OTQxNjc1LDU5OD
+MxMTcwNV19
 -->
