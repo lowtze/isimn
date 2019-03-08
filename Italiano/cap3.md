@@ -108,8 +108,20 @@ Footnotes
 
 [^3.19]: **le sue** sorelle : **le** sorelle **di Bruno**
 
-[^3.20]: **le sue** figlie
+[^3.20]: **le sue** figlie : **le** figlie **di Teresa Rossi**
+
+[^3.21]: **suo** figlio
+
+	**i suoi** figli
+
+[^3.22]: **sua** figlia
+
+	**le sue** figlie
+
+[^3.23]: **il loro** padre : **il** padre **dei bambini**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTg3ODg5MzcsNTA1OTQxNjc1LDU5OD
+eyJoaXN0b3J5IjpbLTE3NzQyMzEwOTAsNTA1OTQxNjc1LDU5OD
 MxMTcwNV19
 -->
