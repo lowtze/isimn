@@ -154,8 +154,20 @@ Footnotes
 
 	ed è = e è
 
-[^3.33]: lui : Rodolf
+[^3.33]: lui : Rodolfo
+
+[^3.34]: lei : Emma Benelli
+
+[^3.35]: anche **lui** è zio
+
+	anche **lei** è zia
+
+[^3.36]: no : non è sposata
+
+[^3.37]: no : non è sposato
+
+[^3.38]: sì : è spos
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzUwNDAwMCw1MDU5NDE2NzUsNTk4Mz
+eyJoaXN0b3J5IjpbMTY4Mjk3Mjg3NCw1MDU5NDE2NzUsNTk4Mz
 ExNzA1XX0=
 -->
