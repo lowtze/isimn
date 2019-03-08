@@ -26,7 +26,7 @@ Il padre dei signori Carlo, Rudolfo e Alberto Rossi, il signor Giuseppe Rossi, �
 
 ### ESERCIZIO A.
 
-(il) suo, (la) sua, i suoi, le sue, il loro, la loro, i loro, le loro
+**(il) suo, (la) sua, i suoi, le sue, il loro, la loro, i loro, le loro**
 
 Qual è il nome del signor Rossi? Il --- nome è Carlo. Qual è la patria di Bruno? La --- patria è l'Italia. Chi sono i genitori di Bruno? I --- genitori sono i signori Rossi. Come si chiamano le sorelle di Bruno? Le --- sorelle si chiamano Maria e Pia. Teresa Rossi chiama --- marito «Carlo». E Carlo Rossi chiama --- moglie «Teresa». Chi è la madre di Pietro? --- madre è la signora Rossi. Chi è il padre di Maria? --- padre è il signor Rossi. Come si chiamano le figlie di Teresa Rossi? Le --- figlie si chiamano Maria e Pia. E i figli di Teresa Rossi come si chiamano? I --- figli si chiamano Bruno e Pietro.  Pia chiama i --- genitori «papà» e «mamma». E Teresa Rossi chiama le--- figlie Pia e Maria. I bambini chiamano il --- padre «papà» e la --- madre «mamma». I bambini chiamano i --- genitori «papà» e «mamma». Come si chiamano le figlie dei signori Rossi? Le --- figlie si chiamano Maria e Pia.
 
@@ -172,6 +172,6 @@ Footnotes
 
 [^3.40]: **non** è fratello **né** di Carlo **né** di Teresa = **non** è fratello di Carlo né di Teresa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjQ0NTUyOCw1MDU5NDE2NzUsNTk4Mz
-ExNzA1XX0=
+eyJoaXN0b3J5IjpbOTU0NDYzMzM2LDUwNTk0MTY3NSw1OTgzMT
+E3MDVdfQ==
 -->
