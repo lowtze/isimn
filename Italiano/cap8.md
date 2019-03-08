@@ -135,11 +135,11 @@ Footnotes
 
 [^8.16]: ![](../images/8sub4.png)
 
-[^8.17]: ![](../images/8sub2.png)
+[^8.17]: ![](../images/8sub5.png)
 
 [^8.18]: ce **n'**è mezzo litro : c'è mezzo litro **di latte**
 
-[^8.19]: ![](https://lh3.googleusercontent.com/uSGZzOsEChcsRoD-BsUeIvVg8nclGR530C94v3mzdAxapNYZ83BnUbEqvIcYwhRqVd65JzecG8EKOolrT6XxpNCk4bdNE-T3mFvxy7N536dmRUYmLR-5Y4Hdc_6N-MTyNgCxpv79PRF9bH5ycHFdkKZ73R4k-G5KyZotXAYx0STCA-bN4694NNJRj71huuZ3ouybITjHvJdlSA5PM8KW8BViz2njgMENnW7pFMNe0j3zs3Wk9Z3rg_MQNa5BAH7Xxr4pDJLr3pTTDPT5SpvgQWtKd-wvIPCPXN37LrO5E4XDeVITtdRLRRVliFPlAORDqMF2yV1g80wx3qo8HGLC13Ktndjt6-85_HJsu4A-ziw50VoquS66zI-BIhyoUf1kJMfetvdo-fjwjz_qkxBJZsJlIligKSohC8xIXFzGYk2hRBaysth-xNFK5M05LwPzhPUhmXXLQ-Fox5Gw4FEsKAMIUl1zcKaY32oMFJPn5nLcgHp-EmCqUsDfQTts7_1ocdLnTye4GYfs6tLjPTzd_YT1aWvzj9e8Mbbd9go5jXMMiw-JFU0JGVeda4PpVW9H0XS2fWiGeOtKcr5YOb6Lj85PhR1SrvimbvmkjJZostsH0biMxGFQB-2NhZQNrPvxeYA4309K719dfTNDifVA5cx1047hwze7=w125-h197-no)
+[^8.19]: ![](../images/8sub6.png)
 
 [^8.20]: **ne** beve un bicchiere : beve un bicchiere **di latte**
 
@@ -155,7 +155,7 @@ Footnotes
 
 [^8.25]: il caffè si beve : la gente beve il caffè
 
-[^8.26]: ![](https://lh3.googleusercontent.com/bscjizraV_Yg-wprRoFA3W7vrnqP6Tx_qx2kbma4QWXSWZYYJJclJIOGHjpqd5F6la-trKJx63eJ8hypWYz55pGEflGWnGFVXMPeUrSH0rnIo98Y6Ian_Z-wMz3ZH3TWKWojfv5oyqqOQkviQtFrJMdNIiZ2pLs9sml1HPd-ipaP8SIoyTSn516wwAOui27GJckbxvmfBkzEkERO__e2Mvb0uS75kCvcXa-_XvDmH_2X34ToW8M_ZpepY3roiM6UxUBhQI0QcWXkO0eHcGpzc6VmvlHVBwqGv8SmHCO1EvbmK5D0WO-qvgnwLmD7Rd7Jb3k5eZ6hk1CTnEk-yhzidarthMO-gOfgbu4f9HYjYrd6RTAK_yap0E099CO8Bu-6BSB0yECwkcAl3Nv_WCKoYVmzu8kL0cPfVA-Xn9A9KzUITEqUkdNqOuazhsjdPpaMludW8GGakoOWt7f-cDJpAaO7ZVx0udavu97hWRW0uwNmYdYZ1E3AzIR6Jbn7yk7effCuzHzYH_0N1pPzf1AB88P5QIf9Fyxzc4uXSPn-AWjiW7xOMqTbBmHG7c_8AXq0lkBgCJqiclZe48i5HHcEN-rRud60EVfoEXBLFhT1lf-ZtGPRmGPjrBiAtH8wnpKi1q_0Nbd49u__AHo-ew2Bolx0pdU0ZVBA=w165-h151-no)
+[^8.26]: ![](../images/8sub6andahalf.png)
 
 [^8.27]: sopra ↔ sotto
 
@@ -167,7 +167,7 @@ Footnotes
 
 [^8.29]: nero ↔ bianco 
 
-[^8.30]: ![](https://lh3.googleusercontent.com/jVn-QB47Ao54sBIFaFYEkJv21oogrJqP9xfQHdTQ9YbVwhlqdCTlQiEmmm6LtLUKDD8LVcxuSDWkp84Ew0vUXXXCCr5MsPblfcMtigX5O665P-IxrwAbtwxJW1gp221vbMNZ-qLX8R-06VABNW7UhY7w_JhvroU1KjjnfUUwA5GjdRBX_P_G6QbhF7Mdpgz-EXKfeMmb2ekIJshC11Pc6xV5CIyUF0rJZ1utG65B4zjJpdzbUBXPRu5qOtNAV3tp2g9ziHeaz_zVOrc_-hHoHqCE2N7B4EqcV3_IdYLu3ORQyjcLNrDR4xWI3pSv5wFU61iZt0RIdkj1jIJAm16z2hw_7kCihGRd9Dr5p6i3M9Duq7mdPwhrWNecI2W2fJldgyhAzEnCRQNNwHSQ1LCgHSxAbIe6gomtaXwPDZCYup3PabyZNkQSN8VYydN8ODztqfhRMAZpL3L86v2nNNQ48gYFt8LAztYVyS33Dttf3EqVYcyRwtHsTNpAxrDa3Mu6jW-KbZ1mMSjZ98OOZg7ee7s7EBl4Wq1QhMcJ1kUH9bTstTtOPO-KClsYpSjdjUq2zWFDs2MBfVPBAA6I3xHqBmGvOnqtI5fYfR4egSPWg5USCbECbi5t4Y4eCsocHm4OfeMGw2AXBRY3FmzwBgFuFvYkKzYTc_yl=w147-h193-no)
+[^8.30]: ![](../images/8sub7.png)
 
 [^8.31]: senza ↔ con
 
@@ -175,7 +175,7 @@ Footnotes
 
 [^8.33]: si mangia poco burro = la gente mangia poco burro
 
-[^8.34]: ![](https://lh3.googleusercontent.com/hs4VrjJg8V_c5yd7Htlw1fnHpBkivPutjepstJVAvR-NtHv5gF0fo0CFUk9b7VX_C4VQxwWR4MkdFTYa10NicpNUwtS4ApI3Ozttoz1CyqdFd_OMvmbbhhwzwFE1ifNZg5UGLRJrtZjGBw2lNpGFZOjMrIsy_pRT2rPDt7l6Blfe9Yjqwl-LryPs1EWitOEiK5mpIV8p7nzduAYVzS2Tx2-fhzC0pzLt9mmFlHn_gFdo3XjfyQ1C-URiyrq0fAEpcfjXSDxR-qHSAUXaaWAFwvnpxMfrJJMFCBAjYPSWlaHZ1Q_2dSpZQlqk2FZSO3GaiBOrnj1s7rYTv4raCsnZC7Bkg6GRpSuBIh_cJexOVnwi3sIcP46pNe4jvul5Wf-Mv_6kSTdc6tTn9XtSaXFGb6_j8vOpDdemskoXTCYnST53PAeaIrO_XfEryawE2skGoZgJgTIZElHFMTN7LFpHG8js9bDGO6dO3eEZ57texsP5XHOBr_GXRWvBRluK5vC2HPke8chowwHSh2ehST5hfl68MS_y66JfVvLrUye8rDjxRBZY1eUC-0eTFv_sZgmz1q2l1zmsCjbwpH2Hi5nLowvVJuVim_OW8wdqUwxi75lGzKxD5k7M-g_KQw6-M4YZqVi1nTqyC5Cuw_2ZziJiZhdw1duA6Fv8=w123-h111-no)
+[^8.34]: ![](../images/8sub8.png)
 
 [^8.35]: il formaggio si mangia = la gente mangia il formaggio
 
@@ -215,5 +215,5 @@ Footnotes
 
 [^8.49]: quand' = quando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4ODQ3MDE3LC01NDA0MjYyN119
+eyJoaXN0b3J5IjpbLTMyNDgwNzE3OCwtNTQwNDI2MjddfQ==
 -->
