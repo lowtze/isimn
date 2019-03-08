@@ -137,7 +137,25 @@ Footnotes
 	il suo nome, la sua patria...
 
 [^3.28]:  di + gli = degli
+
+[^3.29]: lo = il
+
+	lo + z-
+
+[^3.30]: gli = i
+
+	gli + z-
+
+[^3.31]: lo zio
+
+	la zia
+
+[^3.32]: ed = e
+
+	ed è = e è
+
+[^3.33]: lui : Rodolf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDU3NDc2LDUwNTk0MTY3NSw1OTgzMT
-E3MDVdfQ==
+eyJoaXN0b3J5IjpbMTA0MzUwNDAwMCw1MDU5NDE2NzUsNTk4Mz
+ExNzA1XX0=
 -->
