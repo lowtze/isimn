@@ -166,8 +166,12 @@ Footnotes
 
 [^3.37]: no : non è sposato
 
-[^3.38]: sì : è spos
+[^3.38]: sì : è sposata
+
+[^3.39]: non è... né = non è... e non è
+
+[^3.40]: **non** è fratello **né** di Carlo **né** di Teresa  **non** è fratello di Carlo ne
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Mjk3Mjg3NCw1MDU5NDE2NzUsNTk4Mz
-ExNzA1XX0=
+eyJoaXN0b3J5IjpbLTIwNTAyNjQyNDQsNTA1OTQxNjc1LDU5OD
+MxMTcwNV19
 -->
