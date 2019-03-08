@@ -1,6 +1,6 @@
 ## Capitolo tre (3): NOMI E COGNOMI
 
-I Rossi sono sei: Carlo e Teresa Rossi, Bruno, Pietro, Maria e Pia. «Carlo» e «Teresa» sono due nomi, «Rossi» è un cognome. «Carlo» è il nome del padre, «Teresa» è il nome della madre. Qual è il cognome dei due figli di Carlo e Teresa Rossi? Il cognome dei due bambini è «Rossi». «Rossi» è il cognome dei sei Rossi: del padre, della madre, dei figli, e delle figlie. I genitori e i figli hanno lo stesso cognome. Quali sono i nomi delle due figlie? Sono Pia e Maria.
+I Rossi sono sei:[^3.1]  Carlo e Teresa Rossi, Bruno, Pietro, Maria e Pia. «Carlo» e «Teresa» sono due nomi, «Rossi» è un cognome. «Carlo» è il nome del padre, «Teresa» è il nome della madre. Qual è il cognome dei due figli di Carlo e Teresa Rossi? Il cognome dei due bambini è «Rossi». «Rossi» è il cognome dei sei Rossi: del padre, della madre, dei figli, e delle figlie. I genitori e i figli hanno lo stesso cognome. Quali sono i nomi delle due figlie? Sono Pia e Maria.
 
 Il cognome del padre è Rossi. Anche il cognome della madre è Rossi: Teresa Rossi è la moglie di Carlo Rossi. La moglie e il marito hanno lo stesso cognome. Carlo Rossi è il marito di Teresa Rossi. Carlo e Teresa Rossi sono marito e moglie. Carlo Rossi è un uomo sposato. Un uomo sposato è un uomo che ha moglie. Una donna sposata è una donna che ha marito. Il marito di Teresa Rossi è «il signor Rossi». La moglie di Carlo Rossi è «la signora Rossi». Il marito e la moglie sono «i signori Rossi». Qual è il nome del signor Rossi? È Carlo. E qual è il nome della signora Rossi? È Teresa. Carlo e Teresa sono i nomi dei signori Rossi.
 
@@ -170,8 +170,8 @@ Footnotes
 
 [^3.39]: non è... né = non è... e non è
 
-[^3.40]: **non** è fratello **né** di Carlo **né** di Teresa  **non** è fratello di Carlo ne
+[^3.40]: **non** è fratello **né** di Carlo **né** di Teresa = **non** è fratello di Carlo né di Teresa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAyNjQyNDQsNTA1OTQxNjc1LDU5OD
-MxMTcwNV19
+eyJoaXN0b3J5IjpbLTY4NjI5NzkzMCw1MDU5NDE2NzUsNTk4Mz
+ExNzA1XX0=
 -->
