@@ -74,9 +74,9 @@ Footnotes
 
 	**lo st**esso cognome
 
-[^3.5]: **qual** è... ?
+[^3.5]: **qual** è...?
 
-	**quali** sono... ?
+	**quali** sono...?
 
 [^3.6]: che ha moglie = che ha una moglie
 
@@ -90,10 +90,12 @@ Footnotes
 
 [^3.10]: mamma = madre
 
-[^3.1]: il primo figlio si chiama Bruno = il nome del primo figlio è Bruno
+[^3.11]: il primo figlio si chiama Bruno = il nome del primo figlio è Bruno
 
+[^3.12]: come si chiama...? = qual è il nome di...?
 
+[^3.13]: **suo** padre : il padre di Bruno
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU4MjE4MDgsNTA1OTQxNjc1LDU5OD
-MxMTcwNV19
+eyJoaXN0b3J5IjpbMTAyOTI2MTEyNyw1MDU5NDE2NzUsNTk4Mz
+ExNzA1XX0=
 -->
