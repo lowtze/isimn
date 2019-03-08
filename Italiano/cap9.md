@@ -2,7 +2,7 @@
 
 
 
-
+![](
 
 ### ESERCIZIO A.
 
@@ -12,6 +12,6 @@
 
 ### ESERCIZIO C.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0OTY3OTIsMTI3MTI2NzQ5OCwxMDQ2Nz
-kzOTM0XX0=
+eyJoaXN0b3J5IjpbMTM4NDM5MTg1OSw5NzQ5Njc5MiwxMjcxMj
+Y3NDk4LDEwNDY3OTM5MzRdfQ==
 -->
