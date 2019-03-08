@@ -100,10 +100,16 @@ Footnotes
 
 [^3.15]: **suo** fratello : **il** fratello **di Bruno**
 
-[^3.16]: **sua** sorella :**la** sorella **di Maria**
+[^3.16]: **sua** sorella : **la** sorella **di Maria**
 
-[^3.17]: **i suoi** g
+[^3.17]: **i suoi** genitori : **i** genitori **di Pietro**
+
+[^3.18]: **i suoi** fratelli : **i** fratelli **di Maria**
+
+[^3.19]: **le sue** sorelle : **le** sorelle **di Bruno**
+
+[^3.20]: **le sue** figlie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE5OTg5MTA4LDUwNTk0MTY3NSw1OTgzMT
-E3MDVdfQ==
+eyJoaXN0b3J5IjpbLTE1MTg3ODg5MzcsNTA1OTQxNjc1LDU5OD
+MxMTcwNV19
 -->
