@@ -94,8 +94,16 @@ Footnotes
 
 [^3.12]: come si chiama...? = qual è il nome di...?
 
-[^3.13]: **suo** padre : il padre di Bruno
+[^3.13]: **suo** padre : **il** padre **di Bruno**
+
+[^3.14]: **sua** madre : **la** madre **di Bruno**
+
+[^3.15]: **suo** fratello : **il** fratello **di Bruno**
+
+[^3.16]: **sua** sorella :**la** sorella **di Maria**
+
+[^3.17]: **i suoi** g
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTI2MTEyNyw1MDU5NDE2NzUsNTk4Mz
-ExNzA1XX0=
+eyJoaXN0b3J5IjpbNDE5OTg5MTA4LDUwNTk0MTY3NSw1OTgzMT
+E3MDVdfQ==
 -->
