@@ -1,6 +1,6 @@
 ## Capitolo nove (9): IL COMPLEANNO
 
-
+Oggi è il cinque aprile, e Teresa Rossi ha trentasei anni. Ieri, qu
 
 ![](../images/c9.1.png)
 
@@ -32,6 +32,6 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODczNTYzMSw5NzQ5Njc5MiwxMjcxMj
-Y3NDk4LDEwNDY3OTM5MzRdfQ==
+eyJoaXN0b3J5IjpbMzE2MDQ3OTg2LDk3NDk2NzkyLDEyNzEyNj
+c0OTgsMTA0Njc5MzkzNF19
 -->
