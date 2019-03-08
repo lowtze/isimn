@@ -80,8 +80,20 @@ Footnotes
 
 [^3.6]: che ha moglie = che ha una moglie
 
-[^3.7]: che ha ma
+[^3.7]: che ha marito = che ha un marito
+
+[^3.8]: chiam**a**
+
+	chiam**ano**
+
+[^3.9]: papà = padre
+
+[^3.10]: mamma = madre
+
+[^3.1]: il primo figlio si chiama Bruno = il nome del primo figlio è Bruno
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIyMDY0MDQsNTA1OTQxNjc1LDU5OD
+eyJoaXN0b3J5IjpbLTEyODU4MjE4MDgsNTA1OTQxNjc1LDU5OD
 MxMTcwNV19
 -->
