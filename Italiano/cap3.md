@@ -10,11 +10,11 @@ Teresa Rossi chiama il signor Rossi «Carlo», e Carlo Rossi chiama la signora R
 
 Il primo figlio di Carlo Rossi si chiama «Bruno».[^3.11] La prima figlia di Carlo Rossi si chiama «Maria». Come si chiama la seconda figlia di Carlo Rossi?[^3.12] Si chiama Pia. Come si chiama il padre di Bruno? Suo padre si chiama Carlo Rossi.[^3.13] Come si chiama sua madre? Sua madre si chiama Teresa Rossi.[^3.14] Chi è il fratello di Bruno? Suo fratello è Pietro.[^3.15] E chi è la sorella di Maria? Sua sorella è Pia.[^3.16] Chi sono i genitori di Pietro? I suoi genitori sono il signor Rossi e la signora Rossi.[^3.17]
 
-Come si chiamano i fratelli di Maria? I suoi fratelli si chiamano Bruno e Pietro.[^3.18] Chi sono le sorelle di Bruno? Le sue sorelle sono Maria e Pia.[^3.19] Come si chiamano le figlie di Teresa Rossi? Le sue figlie si chiamano Maria e Pia.[^3.20] Chi sono i figli della signora Rossi? I suoi figli sono Bruno e Pietro, le sue figlie sono Maria e Pia. Chi è il marito della signora Rossi? Suo marito è il signor Carlo Rossi.
+Come si chiamano i fratelli di Maria? I suoi fratelli si chiamano Bruno e Pietro.[^3.18] Chi sono le sorelle di Bruno? Le sue sorelle sono Maria e Pia.[^3.19] Come si chiamano le figlie di Teresa Rossi? Le sue figlie si chiamano Maria e Pia.[^3.20] Chi sono i figli della signora Rossi? I suoi figli sono Bruno e Pietro,[^3.21] le sue figlie sono Maria e Pia.[^3.22] Chi è il marito della signora Rossi? Suo marito è il signor Carlo Rossi.
 
-Il signor Rossi chiama sua moglie «Teresa» e la signora Rossia chiama suo marito «Carlo». I bambini non chiamano il loro padre e la loro madre «Carlo» e «Teresa», ma «papà» e «mamma». Come si chiamano i figli dei signori Rossi? I loro figli si chiamano Bruno e Pietro. E come si chiamano le loro figlie? Le loro figlie si chiamano Maria e Pia.
+Il signor Rossi chiama sua moglie «Teresa» e la signora Rossia chiama suo marito «Carlo». I bambini non chiamano il loro padre[^3.23] e la loro madre[^3.24] «Carlo» e «Teresa», ma «papà» e «mamma». Come si chiamano i figli dei signori Rossi? I loro figli si chiamano Bruno e Pietro.[^3.25] E come si chiamano le loro figlie?[^3.26] Le loro figlie si chiamano Maria e Pia.
 
-Qual è il nome del signor Rossi? Il suo nome è Carlo. E qual è il nome della signora Rossi? Il suo nome è Teresa. Il signor Rossi è un italiano: l'Italia è la sua patria. Qual è la patria della signora Rossi? Anche la sua patria è l'Italia. I sei Rossi hanno la stessa patria. L'Italia è la patria degli italiani. La Francia è la patria dei francesi.
+Qual è il nome del signor Rossi? Il suo nome è Carlo. E qual è il nome della signora Rossi? Il suo nome è Teresa. Il signor Rossi è un italiano: l'Italia è la sua patria.[^3.27] Qual è la patria della signora Rossi? Anche la sua patria è l'Italia. I sei Rossi hanno la stessa patria. L'Italia è la patria degli italiani.[^3.28] La Francia è la patria dei francesi.
 
 ![](../images/c3.2.png)
 
@@ -172,6 +172,6 @@ Footnotes
 
 [^3.40]: **non** è fratello **né** di Carlo **né** di Teresa = **non** è fratello di Carlo né di Teresa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk1NDE2OTAsNTA1OTQxNjc1LDU5OD
-MxMTcwNV19
+eyJoaXN0b3J5IjpbNTU4Mzk2ODA2LDUwNTk0MTY3NSw1OTgzMT
+E3MDVdfQ==
 -->
