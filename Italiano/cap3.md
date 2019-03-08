@@ -124,8 +124,20 @@ Footnotes
 
 [^3.25]: **i loro** figli : **i** figli **dei signori** Rossi
 
-[^3.26]: **le loro** figlie : **le** figlie **dei signori**
+[^3.26]: **le loro** figlie : **le** figlie **dei signori** Rossi
+
+[^3.27]: suo, il suo
+
+	sua, la sua
+
+	suo marito, suo fratello, suo padre...
+
+	sua moglie, sua sorella, sua madre...
+
+	il suo nome, la sua patria...
+
+[^3.28]:  di + gli = degli
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MDEzNTQ1NCw1MDU5NDE2NzUsNTk4Mz
-ExNzA1XX0=
+eyJoaXN0b3J5IjpbLTU1MDU3NDc2LDUwNTk0MTY3NSw1OTgzMT
+E3MDVdfQ==
 -->
