@@ -69,7 +69,19 @@ Footnotes
 [^3.3]: di + i = dei
 
 	di + le = delle
+
+[^3.4]: **il** cognome
+
+	**lo st**esso cognome
+
+[^3.5]: **qual** è... ?
+
+	**quali** sono... ?
+
+[^3.6]: che ha moglie = che ha una moglie
+
+[^3.7]: che ha ma
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI4MTYxMjMsNTA1OTQxNjc1LDU5OD
+eyJoaXN0b3J5IjpbLTEyNTIyMDY0MDQsNTA1OTQxNjc1LDU5OD
 MxMTcwNV19
 -->
