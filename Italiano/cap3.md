@@ -120,8 +120,12 @@ Footnotes
 
 [^3.23]: **il loro** padre : **il** padre **dei bambini**
 
+[^3.24]: **la loro** madre : **la** madre **dei bambini**
 
+[^3.25]: **i loro** figli : **i** figli **dei signori** Rossi
+
+[^3.26]: **le loro** figlie : **le** figlie **dei signori**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQyMzEwOTAsNTA1OTQxNjc1LDU5OD
-MxMTcwNV19
+eyJoaXN0b3J5IjpbLTU3MDEzNTQ1NCw1MDU5NDE2NzUsNTk4Mz
+ExNzA1XX0=
 -->
