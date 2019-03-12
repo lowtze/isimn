@@ -8,7 +8,7 @@ Cosa fanno allora le due bambine? Vanno nella camera dei due fratelli e chiamano
 
 La sveglia non ha ancora suonato e la signora Rossi dorme. Quando i bambini entrano, svegliano la loro mamma: «Mammina! Mammina!». E adesso la signora Rossi è sveglia e domanda: «Che cosa c'è?». «C'è che è il tuo compleanno, mammina!», dice Bruno, e gli altri dicono: «Molti auguri per il tuo compleanno, mammina!». poi, Pia dà il suo fazzolettino alla sua mamma e dice ancora una volta: «Molti auguri, mammina!». La signora Rossi prende il fazzoletto dalla mano di Pia e dice: «Grazie, Pia! Com'è bello il tuo regalo! Sei una buona bambina!», e bacia la sua bambina.
 
-Poi è Pietro che dice alla mamma: «Auguri, mammina!» e le dà il suo reg
+Poi è Pietro che dice alla mamma: «Auguri, mammina!» e le dà il suo regalo: un bel libro. «Grazie, Pietruccio! Anche tu sei un buon bambino!», dice la signora Rossi a Pietro; prende ciò che le dà suo figlio e lo bacia anche lui. Dopo Pietro è Bruno che dice «auguri» alla mamma e le dà il suo regalo. La signora Teresa gli dice 
 
 ![](../images/c9.1.png)
 
@@ -40,7 +40,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM4NTIxNzYsODcxNzc0NjA4LC0yMD
-M4OTc5MTMsOTc0OTY3OTIsMTI3MTI2NzQ5OCwxMDQ2NzkzOTM0
-XX0=
+eyJoaXN0b3J5IjpbNTE3NTIyMDExLDg3MTc3NDYwOCwtMjAzOD
+k3OTEzLDk3NDk2NzkyLDEyNzEyNjc0OTgsMTA0Njc5MzkzNF19
+
 -->
