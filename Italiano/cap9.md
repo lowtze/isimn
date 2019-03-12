@@ -6,7 +6,7 @@ Oggi non è la mamma che sveglia i bambini, perché quando è il suo compleanno 
 
 Cosa fanno allora le due bambine? Vanno nella camera dei due fratelli e chiamano «Bruno! Pietro!». Prima, i due fratelli non rispondono alle loro sorelle, perché dormono e non le sentono; ma poi, quando le bambine chiamano ancora una volta, Bruno si sveglia e domanda: «Che cosa c'è?». Pia: «È il compleanno della mamma e tu dormi ancora!». Bruno: «Ma io non dormo! Io sono sveglio!». Pia: «E Pietro?». Pietro: «Aah...». Pia: «Tu non sei sveglio, Pietro!». «Sì; sono sveglio. Ma perché non è la mamma che ci sveglia oggi?». maria: «Non è lei che vi sveglia perché oggi è il suo compleanno.» Allora i due fratelli si alzano anche loro, perché è molto tardi. Poi Bruno domanda a Maria: «Chi va prima nella stanza da bagno? Ci vai tu o vi vado io?». Maria: «Ci vado io con Pia. Alle sette meno cinque, i quattro bambini sono tutti nella camera delle sorelle, e Bruno dice: «Io ho questo libro per la mamma»; poi domanda: «E tu che cos'hai, Pietro?». Pietro: «Anch'io ho un libro! E voi, bambine? Che cosa avete voi per la mamma?». Maria: «Noi abbiamo questi fiori. E poi abbiamo un fazzoletto e un ricamo». (Maria fa ogni anno un ricamo per la mamma). Pietro: «Chi ha fatto questo ricamo? L'hai fatto tu, Maria?». Maria: «Sì, l'ho fatto io». E Maria mostra il ricamo al suo fratellino. Pietro allora dice a Maria: «È molto bello!»; poi domanda: «L'hai fatto da sola?». Maria: «Sì, l'ho fatto da sola». Poi Pia mostra il ricamo a Bruno, e anche lui dice che il ricamo è molto bello. «Anche i fiori che hai per la mamma sono molto belli», dicono Bruno e Pietro a Maria. Anche la piccola Pia mostra agli altri ciò che ha per la mamma, a Bruno dice alla sua sorellina che anche ciò che ha lei per la mamma è molto bello. Poi, i quattro bambini entrano nella camera dei genitori.
 
-La sveglia non ha ancora suonato e la signora Rossi dorme. Quando i bambini entrano, svegliano la loro mamma: «Mammina! Mammina!». E adesso la signora Rossi è sveglia e domanda: «Che cosa c'è?». «C'è che è il »
+La sveglia non ha ancora suonato e la signora Rossi dorme. Quando i bambini entrano, svegliano la loro mamma: «Mammina! Mammina!». E adesso la signora Rossi è sveglia e domanda: «Che cosa c'è?». «C'è che è il tuo compleanno, mammina!», dice Bruno, e gli altri dicono: «Molti auguri per il tuo compleanno, mammina!». poi, Pia dà il suo fazzolettino alla sua mamma e dice ancora una volta: «Molti auguri, mammina!». La signora Rossi prende il fazzoletto dalla man
 
 ![](../images/c9.1.png)
 
@@ -38,7 +38,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDI3OTUwNyw4NzE3NzQ2MDgsLTIwMz
-g5NzkxMyw5NzQ5Njc5MiwxMjcxMjY3NDk4LDEwNDY3OTM5MzRd
-fQ==
+eyJoaXN0b3J5IjpbLTE1MjQ3MTIyODAsODcxNzc0NjA4LC0yMD
+M4OTc5MTMsOTc0OTY3OTIsMTI3MTI2NzQ5OCwxMDQ2NzkzOTM0
+XX0=
 -->
