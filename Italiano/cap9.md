@@ -4,7 +4,7 @@ Oggi è il cinque aprile, e Teresa Rossi ha trentasei anni. Ieri, quattro aprile
 
 Oggi non è la mamma che sveglia i bambini, perché quando è il suo compleanno Teresa Rossi non si sveglia alle sei, ma alle sette. Questa mattina è Pia che alle sei e mezzo si alza e chiama sua sorella: «Mariuccia!». Questa volta Maria la sente e domanda: «Che cosa c'è, Pia? Perché non è la mamma che mi sveglia?» Pia risponde: «Non è la mamma che ti sveglia, perché oggi è il compleanno della mamma». Maria: «Dormono ancora? Ma è già tardi: sono le sette meno venti! Fra venti minuti la mamma sarà sveglia».
 
-
+Cosa fanno allora le due bambine? Vanno nella camera dei due fratelli e chiamano «Bruno! Pietro!». Prima, i due fratelli non rispondono alle loro sorrelle
 
 ![](../images/c9.1.png)
 
@@ -36,6 +36,6 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzg5NzkxMyw5NzQ5Njc5MiwxMjcxMj
-Y3NDk4LDEwNDY3OTM5MzRdfQ==
+eyJoaXN0b3J5IjpbMTc1Njg3MDU2NywtMjAzODk3OTEzLDk3ND
+k2NzkyLDEyNzEyNjc0OTgsMTA0Njc5MzkzNF19
 -->
