@@ -10,7 +10,7 @@ La sveglia non ha ancora suonato e la signora Rossi dorme. Quando i bambini entr
 
 Poi è Pietro che dice alla mamma: «Auguri, mammina!» e le dà il suo regalo: un bel libro. «Grazie, Pietruccio! Anche tu sei un buon bambino!», dice la signora Rossi a Pietro; prende ciò che le dà suo figlio e lo bacia anche lui. Dopo Pietro è Bruno che dice «auguri» alla mamma e le dà il suo regalo. La signora Teresa gli dice grazie come agli altri, e gli dice che anche il suo regalo è molto bello e che anche lui è molto buono. Poi lo bacia, come ha baciato Pia e Pietro.
 
-L'ultima è Maria. «Buon compleanno, mammina! Auguri!», dice la bambina; bacia la sua mammina e le dà i suoi regali: i bei fiori e il ricamo. «Grazie, Mariuccia»
+L'ultima è Maria. «Buon compleanno, mammina! Auguri!», dice la bambina; bacia la sua mammina e le dà i suoi regali: i bei fiori e il ricamo. «Grazie, Mariuccia! Com'è bello questo ricamo! E come sono belli questi fiori!», le dice la mamma e poi anche lei le domanda; «L'hai fatto tu, questo bel ricamo?». «Sì, mammina, l'ho fatto da sola», le risponde Maria. E la mamma le dice che anche lei è una bambina molto buona. «Siete tutti »
 
 
 ![](../images/c9.1.png)
@@ -43,7 +43,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Njk1OTUyMCwtMjQ5MjA2MTcsMTIyMD
-A1MjQ3MSw4NzE3NzQ2MDgsLTIwMzg5NzkxMyw5NzQ5Njc5Miwx
-MjcxMjY3NDk4LDEwNDY3OTM5MzRdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQyODM1MTEsLTI0OTIwNjE3LDEyMj
+AwNTI0NzEsODcxNzc0NjA4LC0yMDM4OTc5MTMsOTc0OTY3OTIs
+MTI3MTI2NzQ5OCwxMDQ2NzkzOTM0XX0=
 -->
