@@ -12,7 +12,9 @@ Poi è Pietro che dice alla mamma: «Auguri, mammina!» e le dà il suo regalo: 
 
 L'ultima è Maria. «Buon compleanno, mammina! Auguri!», dice la bambina; bacia la sua mammina e le dà i suoi regali: i bei fiori e il ricamo. «Grazie, Mariuccia! Com'è bello questo ricamo! E come sono belli questi fiori!», le dice la mamma e poi anche lei le domanda; «L'hai fatto tu, questo bel ricamo?». «Sì, mammina, l'ho fatto da sola», le risponde Maria. E la mamma le dice che anche lei è una bambina molto buona. «Siete tutti e quattro dei buoni bambini!»
 
-Mentre i bambini danno i loro regali alla signora Rossi, il signor Rossi, che i bambini hanno svegliato, si alza anche lui e dà a Teresa Rossi il suo regalo
+Mentre i bambini danno i loro regali alla signora Rossi, il signor Rossi, che i bambini hanno svegliato, si alza anche lui e dà a Teresa Rossi il suo regalo. Il regalo di Carlo Rossi è il più bello di tutti; una bella borsetta di Firenze. È molto bella, però la mamma dice che anche il regaluccio di Pia, il fazzolettino bianco, è molto bello.
+
+
 
 
 ![](../images/c9.1.png)
@@ -45,7 +47,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDAzNzg2NywtMjQ5MjA2MTcsMTIyMD
+eyJoaXN0b3J5IjpbMTcwMjE1MTU3NiwtMjQ5MjA2MTcsMTIyMD
 A1MjQ3MSw4NzE3NzQ2MDgsLTIwMzg5NzkxMyw5NzQ5Njc5Miwx
 MjcxMjY3NDk4LDEwNDY3OTM5MzRdfQ==
 -->
