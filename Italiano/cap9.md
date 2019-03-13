@@ -20,7 +20,7 @@ Un'ora dopo, i Rossi hanno fatto colazione e vanno in città. In via Veneto i Ro
 
 ![](../images/c9.1.png)
 
-«Buon giorno, Carlo!», dice poi al fratello. Suo marito pure dice buon giorno ai Rossi, e i Rossi rispondono: «Buon giorno!». Quando tutti hanno detto buon giorno a tutti, Carlo Rossi domanda dove vanno i Benelli: «Dove andate voi?». Emma: «Noi andiamo dove andate voi.». Carlo Rossi: «Allora andiamo tutti al Corso». (Il Corso è una delle più belle vie di Roma). Pietro domanda a suo cugino, Giovanni Benelli: «Quanti siamo adesso?». Giovanni 
+«Buon giorno, Carlo!», dice poi al fratello. Suo marito pure dice buon giorno ai Rossi, e i Rossi rispondono: «Buon giorno!». Quando tutti hanno detto buon giorno a tutti, Carlo Rossi domanda dove vanno i Benelli: «Dove andate voi?». Emma: «Noi andiamo dove andate voi.». Carlo Rossi: «Allora andiamo tutti al Corso». (Il Corso è una delle più belle vie di Roma). Pietro domanda a suo cugino, Giovanni Benelli: «Quanti siamo adesso?». Giovanni risponde: «Voi siete in sei e noi siamo in quattro». 
 
 ### ESERCIZIO A.
 
@@ -50,7 +50,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDk0MjY5OSw0MjU2OTM2MTEsMTcwMj
+eyJoaXN0b3J5IjpbLTUxNTE2MDE1NCw0MjU2OTM2MTEsMTcwMj
 E1MTU3NiwtMjQ5MjA2MTcsMTIyMDA1MjQ3MSw4NzE3NzQ2MDgs
 LTIwMzg5NzkxMyw5NzQ5Njc5MiwxMjcxMjY3NDk4LDEwNDY3OT
 M5MzRdfQ==
