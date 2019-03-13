@@ -14,7 +14,7 @@ L'ultima è Maria. «Buon compleanno, mammina! Auguri!», dice la bambina; bacia
 
 Mentre i bambini danno i loro regali alla signora Rossi, il signor Rossi, che i bambini hanno svegliato, si alza anche lui e dà a Teresa Rossi il suo regalo. Il regalo di Carlo Rossi è il più bello di tutti; una bella borsetta di Firenze. È molto bella, però la mamma dice che anche il regaluccio di Pia, il fazzolettino bianco, è molto bello.
 
-«E adesso». dice la signora Rossi quando ha detto grazie a tutti e cinque e ha baciato anche suo marito, «adesso mi alzo anch'io, mi lavo e mi vesto!». «Prima ti lavi tu, poi mi lavo io mentre tu ti vesti», dice suo marito. Poi dice ai bambini: 
+«E adesso». dice la signora Rossi quando ha detto grazie a tutti e cinque e ha baciato anche suo marito, «adesso mi alzo anch'io, mi lavo e mi vesto!». «Prima ti lavi tu, poi mi lavo io mentre tu ti vesti», dice suo marito. Poi dice ai bambini: «E voi? Fate colazione mentre la mamma ed io ci laviamo e ci vestiamo?». «Sì, papà», dice Bruno, «mentre tu e la mamma vi lavate e vi vestite, noi facciamo colazione. Ma Pia dice: «No, io adesso non faccio colazione!». 
 
 
 ![](../images/c9.1.png)
@@ -47,7 +47,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDY5MDI5MSwxNzAyMTUxNTc2LC0yND
-kyMDYxNywxMjIwMDUyNDcxLDg3MTc3NDYwOCwtMjAzODk3OTEz
-LDk3NDk2NzkyLDEyNzEyNjc0OTgsMTA0Njc5MzkzNF19
+eyJoaXN0b3J5IjpbLTIwMzI0MTMxMjYsMTcwMjE1MTU3NiwtMj
+Q5MjA2MTcsMTIyMDA1MjQ3MSw4NzE3NzQ2MDgsLTIwMzg5Nzkx
+Myw5NzQ5Njc5MiwxMjcxMjY3NDk4LDEwNDY3OTM5MzRdfQ==
 -->
