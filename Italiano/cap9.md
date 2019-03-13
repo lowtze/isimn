@@ -16,7 +16,7 @@ Mentre i bambini danno i loro regali alla signora Rossi, il signor Rossi, che i 
 
 «E adesso». dice la signora Rossi quando ha detto grazie a tutti e cinque e ha baciato anche suo marito, «adesso mi alzo anch'io, mi lavo e mi vesto!». «Prima ti lavi tu, poi mi lavo io mentre tu ti vesti», dice suo marito. Poi dice ai bambini: «E voi? Fate colazione mentre la mamma ed io ci laviamo e ci vestiamo?». «Sì, papà», dice Bruno, «mentre tu e la mamma vi lavate e vi vestite, noi facciamo colazione. Ma Pia dice: «No, io adesso non faccio colazione!». Teresa Rossi: «E perché non fai colazione anche tu, Pia?». Pia: «Perché io faccio colazione con voi due!».
 
-
+Un'ora dopo, i Rossi hanno fatto colazione e vanno in città. In via Veneto i Rossi incontrano i Benelli: i genitori, Emma e Gino, e i due bambini, Giovanni e Lucia, cugino e cugina dei bambini Rossi. «Teresa! buon g»
 
 
 ![](../images/c9.1.png)
@@ -49,7 +49,8 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1NjkzNjExLDE3MDIxNTE1NzYsLTI0OT
-IwNjE3LDEyMjAwNTI0NzEsODcxNzc0NjA4LC0yMDM4OTc5MTMs
-OTc0OTY3OTIsMTI3MTI2NzQ5OCwxMDQ2NzkzOTM0XX0=
+eyJoaXN0b3J5IjpbLTc0MjkzMDE2OSw0MjU2OTM2MTEsMTcwMj
+E1MTU3NiwtMjQ5MjA2MTcsMTIyMDA1MjQ3MSw4NzE3NzQ2MDgs
+LTIwMzg5NzkxMyw5NzQ5Njc5MiwxMjcxMjY3NDk4LDEwNDY3OT
+M5MzRdfQ==
 -->
