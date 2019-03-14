@@ -47,7 +47,7 @@ A che ora --- colazione i Rossi? La famiglia Rossi --- colazione alle otto. Brun
 | (mi) lav-o | (ti) lav-i | (si) lav-a | (ci) lav-iamo | (vi) lav-ate | (si) lav-ano |
 | (mi) vest-o | (ti) vest-i | (si) vest-e | (ci) vest-iamo | (vi) vest-ite | (si) vest-ono |
 
-Maria va nella stanza da bagno e lav-- Pia. Prima si lav-- le bambine, poi i fratelli. Teresa Rossi: «Maria, lav.. tu Pi»
+Maria va nella stanza da bagno e lav-- Pia. Prima si lav-- le bambine, poi i fratelli. Teresa Rossi: «Maria, lav.. tu Pia oggi?». Maria: «Sì, oggi la lav-- io». Maria, a Bruno e Pietro: «Vi lav-- prima, oggi?». Bruno e Pietro: «No, oggi voi vi lav-- prima, poi noi ci lav--». Bruno: «Adesso, io mi vest--, mentre tu ti lav--»
 
 
 
@@ -77,8 +77,8 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM2Njg5MzEsNTg0Mzc3MTExLDEwOD
-c1NDg1MDQsNDI1NjkzNjExLDE3MDIxNTE1NzYsLTI0OTIwNjE3
-LDEyMjAwNTI0NzEsODcxNzc0NjA4LC0yMDM4OTc5MTMsOTc0OT
-Y3OTIsMTI3MTI2NzQ5OCwxMDQ2NzkzOTM0XX0=
+eyJoaXN0b3J5IjpbMjI3NzM4NzQzLDU4NDM3NzExMSwxMDg3NT
+Q4NTA0LDQyNTY5MzYxMSwxNzAyMTUxNTc2LC0yNDkyMDYxNywx
+MjIwMDUyNDcxLDg3MTc3NDYwOCwtMjAzODk3OTEzLDk3NDk2Nz
+kyLDEyNzEyNjc0OTgsMTA0Njc5MzkzNF19
 -->
