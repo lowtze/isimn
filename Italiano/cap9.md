@@ -32,7 +32,11 @@ Pia: «Maria, --- sveglia?». Maria: «Sì, --- sveglia. --- svegli Bruno e Piet
 
 **ho, hai, ha, abbiamo, avete, hanno**
 
-Pietro: «Che cos' --- per la mamma, Bruno?». Bruno: «--- un libro». Pietro: «Allora --- un libro per la mamma tutti e due». Bruno: «E voi, Pia e Maria, che cos' --- per la mamma»
+Pietro: «Che cos' --- per la mamma, Bruno?». Bruno: «--- un libro». Pietro: «Allora --- un libro per la mamma tutti e due». Bruno: «E voi, Pia e Maria, che cos' --- per la mamma?». Maria dice che lei --- un ricamo. Pia --- un fazzolettino e le due sorelle --- anche dei bei fiori.
+
+**vado, vai, va, andiamo, andate, vanno**
+
+Maria: «Adesso io --- nella stanza da bagno. Ci --- anche tu, Pia?». Pia dice che
 
 
 
@@ -61,8 +65,8 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzEzOTc3OCwxMDg3NTQ4NTA0LDQyNT
-Y5MzYxMSwxNzAyMTUxNTc2LC0yNDkyMDYxNywxMjIwMDUyNDcx
-LDg3MTc3NDYwOCwtMjAzODk3OTEzLDk3NDk2NzkyLDEyNzEyNj
-c0OTgsMTA0Njc5MzkzNF19
+eyJoaXN0b3J5IjpbLTEwNTYxMDU4ODIsMTA4NzU0ODUwNCw0Mj
+U2OTM2MTEsMTcwMjE1MTU3NiwtMjQ5MjA2MTcsMTIyMDA1MjQ3
+MSw4NzE3NzQ2MDgsLTIwMzg5NzkxMyw5NzQ5Njc5MiwxMjcxMj
+Y3NDk4LDEwNDY3OTM5MzRdfQ==
 -->
