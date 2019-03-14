@@ -26,6 +26,9 @@ Un'ora dopo, i Rossi hanno fatto colazione e vanno in città. In via Veneto i Ro
 
 ### ESERCIZIO A.
 
+**sono, sei, è, siamo, siete, sono**
+
+Pia: «Maria, --- sveglia?». Maria: «Sì, --- sveglia»
 
 ### ESERCIZIO B.
 
@@ -52,8 +55,8 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzU0ODUwNCw0MjU2OTM2MTEsMTcwMj
-E1MTU3NiwtMjQ5MjA2MTcsMTIyMDA1MjQ3MSw4NzE3NzQ2MDgs
-LTIwMzg5NzkxMyw5NzQ5Njc5MiwxMjcxMjY3NDk4LDEwNDY3OT
-M5MzRdfQ==
+eyJoaXN0b3J5IjpbLTM2OTE2MzM2OCwxMDg3NTQ4NTA0LDQyNT
+Y5MzYxMSwxNzAyMTUxNTc2LC0yNDkyMDYxNywxMjIwMDUyNDcx
+LDg3MTc3NDYwOCwtMjAzODk3OTEzLDk3NDk2NzkyLDEyNzEyNj
+c0OTgsMTA0Njc5MzkzNF19
 -->
