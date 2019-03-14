@@ -42,12 +42,11 @@ Maria: «Adesso io --- nella stanza da bagno. Ci --- anche tu, Pia?». Pia dice 
 
 A che ora --- colazione i Rossi? La famiglia Rossi --- colazione alle otto. Bruno, a Giovanni: «Tu a che ora --- colazione la domenica?». Giovanni: «La domenica --- colazione alle otto e mezzo. E voi, a che ora --- colazione la domenica?». Bruno: «--- colazione anche noi alle otto e mezzo la domenica».
 
-```markdown
-| io          | tu          | lui         | noi            | voi           | loro          |
+| io | tu | lui | noi | voi | loro |
 |-------------|-------------|-------------|----------------|---------------|---------------|
-| (mi) lav-o  | (ti) lav-i  | (si) lav-a  | (ci) lav-iamo  | (vi) lav-ate  | (si) lav-ano  |
+| (mi) lav-o | (ti) lav-i | (si) lav-a | (ci) lav-iamo | (vi) lav-ate | (si) lav-ano |
 | (mi) vest-o | (ti) vest-i | (si) vest-e | (ci) vest-iamo | (vi) vest-ite | (si) vest-ono |
-```
+
 
 
 
@@ -78,8 +77,8 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDE4OTAwMiwxMDg3NTQ4NTA0LDQyNT
-Y5MzYxMSwxNzAyMTUxNTc2LC0yNDkyMDYxNywxMjIwMDUyNDcx
-LDg3MTc3NDYwOCwtMjAzODk3OTEzLDk3NDk2NzkyLDEyNzEyNj
-c0OTgsMTA0Njc5MzkzNF19
+eyJoaXN0b3J5IjpbNTg0Mzc3MTExLDEwODc1NDg1MDQsNDI1Nj
+kzNjExLDE3MDIxNTE1NzYsLTI0OTIwNjE3LDEyMjAwNTI0NzEs
+ODcxNzc0NjA4LC0yMDM4OTc5MTMsOTc0OTY3OTIsMTI3MTI2Nz
+Q5OCwxMDQ2NzkzOTM0XX0=
 -->
