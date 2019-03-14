@@ -69,7 +69,8 @@ Giovanni, a Maria: «*Cos'hai dato alla mamma?*».
 Giovanni, a Bruno e a Pietro: «E voi, ....?».
 --- Bruno e Pietro: «Noi le abbiamo dato dei libri».
 
-
+Maria, a Pia, che la sveglia: «Perché ....?».
+--- Pia: «Non è la mamma che ti sveglia perch»
 
 <!---
 Footnotes
@@ -90,7 +91,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTMzMzAwMCwtNTgxNTgxMzk5LDEzND
+eyJoaXN0b3J5IjpbMTI5OTg1NzQ2NSwtNTgxNTgxMzk5LDEzND
 M5OTA5MzIsNTg0Mzc3MTExLDEwODc1NDg1MDQsNDI1NjkzNjEx
 LDE3MDIxNTE1NzYsLTI0OTIwNjE3LDEyMjAwNTI0NzEsODcxNz
 c0NjA4LC0yMDM4OTc5MTMsOTc0OTY3OTIsMTI3MTI2NzQ5OCwx
