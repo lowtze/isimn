@@ -55,7 +55,7 @@ Maria va nella stanza da bagno e lav-- Pia. Prima si lav-- le bambine, poi i fra
 
 Oggi è il --- di Teresa Rossi. Alle sei e mezzo Pia chiama sua sorella: «---!». Prima, Maria non --- Pia. Allora Pia chiama ancora, e --- volta Maria si sveglia e ---: «Che cosa c'è, Pia?». Pia ---: «C'è --- oggi è il compleanno della mamma». Poi le due bambine vanno nella --- dei due fratelli. Pia: «Bruno, --- ancora o sei sveglio?». Bruno: «Non --- più!».
 
-Maria: «--- ho dei bei --- pr la mamma, e ---, Bruno e Pietro, che cos'avete »
+Maria: «--- ho dei bei --- pr la mamma, e ---, Bruno e Pietro, che cos'avete per la mamma?». Bruno: «--- abbiamo dei libri. E ---, Pia, che cos'hai?». Pia: «Io ho un --- bianco. E Maria ha un bel ---». Il ricamo di Maria è molto ---, e i suoi fori pure sono molto ---. 
 
 
 
@@ -81,7 +81,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTkzMTQ5MCwxMzQzOTkwOTMyLDU4ND
+eyJoaXN0b3J5IjpbMTYwNjExNjA0NywxMzQzOTkwOTMyLDU4ND
 M3NzExMSwxMDg3NTQ4NTA0LDQyNTY5MzYxMSwxNzAyMTUxNTc2
 LC0yNDkyMDYxNywxMjIwMDUyNDcxLDg3MTc3NDYwOCwtMjAzOD
 k3OTEzLDk3NDk2NzkyLDEyNzEyNjc0OTgsMTA0Njc5MzkzNF19
