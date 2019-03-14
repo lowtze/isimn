@@ -93,7 +93,11 @@ Che cos'hanno i quattro bambini per la loro mamma?
 
 Chi ha fatto il regalo di Maria?
 
-Che cosa dice Teresa Rossi a Pia quando Pia le dà 
+Che cosa dice Teresa Rossi a Pia quando Pia le dà il suo regalo?
+
+E cosa dice a Bruno quando lui le dà il suo regalo?
+
+
 
 <!---
 Footnotes
@@ -114,7 +118,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTEzODE1MiwtNTgxNTgxMzk5LDEzND
+eyJoaXN0b3J5IjpbLTExMjI5MjIxNiwtNTgxNTgxMzk5LDEzND
 M5OTA5MzIsNTg0Mzc3MTExLDEwODc1NDg1MDQsNDI1NjkzNjEx
 LDE3MDIxNTE1NzYsLTI0OTIwNjE3LDEyMjAwNTI0NzEsODcxNz
 c0NjA4LC0yMDM4OTc5MTMsOTc0OTY3OTIsMTI3MTI2NzQ5OCwx
