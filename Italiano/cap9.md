@@ -36,7 +36,11 @@ Pietro: «Che cos' --- per la mamma, Bruno?». Bruno: «--- un libro». Pietro: 
 
 **vado, vai, va, andiamo, andate, vanno**
 
-Maria: «Adesso io --- nella stanza da bagno. Ci --- anche tu, Pia?». Pia dice che
+Maria: «Adesso io --- nella stanza da bagno. Ci --- anche tu, Pia?». Pia dice che anche lei --- nella stanza da bagno. I fratelli ci --- dopo le bambine. In via Veneto, Carlo Rossi domanda i Benelli: «Dove --- voi?». Emma Benneli: «Noi --- dove --- voi!».
+
+**faccio, fai, fa, facciamo, fate, fanno**
+
+
 
 
 
@@ -65,7 +69,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYxMDU4ODIsMTA4NzU0ODUwNCw0Mj
+eyJoaXN0b3J5IjpbLTEwMzA2NjM3NzUsMTA4NzU0ODUwNCw0Mj
 U2OTM2MTEsMTcwMjE1MTU3NiwtMjQ5MjA2MTcsMTIyMDA1MjQ3
 MSw4NzE3NzQ2MDgsLTIwMzg5NzkxMyw5NzQ5Njc5MiwxMjcxMj
 Y3NDk4LDEwNDY3OTM5MzRdfQ==
