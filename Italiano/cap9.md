@@ -51,7 +51,6 @@ Maria va nella stanza da bagno e lav-- Pia. Prima si lav-- le bambine, poi i fra
 
 
 
-
 ### ESERCIZIO B.
 
 
@@ -77,7 +76,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTg5MzMzOCw1ODQzNzcxMTEsMTA4Nz
+eyJoaXN0b3J5IjpbMTM0Mzk5MDkzMiw1ODQzNzcxMTEsMTA4Nz
 U0ODUwNCw0MjU2OTM2MTEsMTcwMjE1MTU3NiwtMjQ5MjA2MTcs
 MTIyMDA1MjQ3MSw4NzE3NzQ2MDgsLTIwMzg5NzkxMyw5NzQ5Nj
 c5MiwxMjcxMjY3NDk4LDEwNDY3OTM5MzRdfQ==
