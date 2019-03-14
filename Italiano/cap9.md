@@ -76,7 +76,12 @@ Pietro a Maria: «.... ricamo?».
 --- Maria: «Sì, l'ho fatto io».
 
 Carlo Rossi ai Benelli: «....?».
---- Emma Benelli: «Noi andiamo dove andata »
+--- Emma Benelli: «Noi andiamo dove andata voi».
+
+Maria, a Lucia: «....?».
+--- Lucia: «Giovanni era già sveglio alle sette e un quarto».
+
+
 
 <!---
 Footnotes
@@ -97,9 +102,9 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzU4MzE0OSwtNTgxNTgxMzk5LDEzND
-M5OTA5MzIsNTg0Mzc3MTExLDEwODc1NDg1MDQsNDI1NjkzNjEx
-LDE3MDIxNTE1NzYsLTI0OTIwNjE3LDEyMjAwNTI0NzEsODcxNz
-c0NjA4LC0yMDM4OTc5MTMsOTc0OTY3OTIsMTI3MTI2NzQ5OCwx
-MDQ2NzkzOTM0XX0=
+eyJoaXN0b3J5IjpbLTEzNDcwNjc4OTUsLTU4MTU4MTM5OSwxMz
+QzOTkwOTMyLDU4NDM3NzExMSwxMDg3NTQ4NTA0LDQyNTY5MzYx
+MSwxNzAyMTUxNTc2LC0yNDkyMDYxNywxMjIwMDUyNDcxLDg3MT
+c3NDYwOCwtMjAzODk3OTEzLDk3NDk2NzkyLDEyNzEyNjc0OTgs
+MTA0Njc5MzkzNF19
 -->
