@@ -67,7 +67,9 @@ Giovanni, a Maria: «*Cos'hai dato alla mamma?*».
 --- Maria: «Io ho dato un ricamo alla mamma».
 
 Giovanni, a Bruno e a Pietro: «E voi, ....?».
---- Bruno e Pietro: 
+--- Bruno e Pietro: «Noi le abbiamo dato dei libri».
+
+
 
 <!---
 Footnotes
@@ -88,9 +90,9 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2MjM5MjEyLC01ODE1ODEzOTksMTM0Mz
-k5MDkzMiw1ODQzNzcxMTEsMTA4NzU0ODUwNCw0MjU2OTM2MTEs
-MTcwMjE1MTU3NiwtMjQ5MjA2MTcsMTIyMDA1MjQ3MSw4NzE3Nz
-Q2MDgsLTIwMzg5NzkxMyw5NzQ5Njc5MiwxMjcxMjY3NDk4LDEw
-NDY3OTM5MzRdfQ==
+eyJoaXN0b3J5IjpbMTU0OTMzMzAwMCwtNTgxNTgxMzk5LDEzND
+M5OTA5MzIsNTg0Mzc3MTExLDEwODc1NDg1MDQsNDI1NjkzNjEx
+LDE3MDIxNTE1NzYsLTI0OTIwNjE3LDEyMjAwNTI0NzEsODcxNz
+c0NjA4LC0yMDM4OTc5MTMsOTc0OTY3OTIsMTI3MTI2NzQ5OCwx
+MDQ2NzkzOTM0XX0=
 -->
