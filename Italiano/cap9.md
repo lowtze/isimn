@@ -97,7 +97,9 @@ Che cosa dice Teresa Rossi a Pia quando Pia le dà il suo regalo?
 
 E cosa dice a Bruno quando lui le dà il suo regalo?
 
+Che cosa fanno i bambini mentre i loro genitori si lavano e si vestono?
 
+Chi sono Giovanni e Lucia Benelli?
 
 <!---
 Footnotes
@@ -118,9 +120,9 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI5MjIxNiwtNTgxNTgxMzk5LDEzND
-M5OTA5MzIsNTg0Mzc3MTExLDEwODc1NDg1MDQsNDI1NjkzNjEx
-LDE3MDIxNTE1NzYsLTI0OTIwNjE3LDEyMjAwNTI0NzEsODcxNz
-c0NjA4LC0yMDM4OTc5MTMsOTc0OTY3OTIsMTI3MTI2NzQ5OCwx
-MDQ2NzkzOTM0XX0=
+eyJoaXN0b3J5IjpbLTE4ODk0OTc2MjIsLTU4MTU4MTM5OSwxMz
+QzOTkwOTMyLDU4NDM3NzExMSwxMDg3NTQ4NTA0LDQyNTY5MzYx
+MSwxNzAyMTUxNTc2LC0yNDkyMDYxNywxMjIwMDUyNDcxLDg3MT
+c3NDYwOCwtMjAzODk3OTEzLDk3NDk2NzkyLDEyNzEyNjc0OTgs
+MTA0Njc5MzkzNF19
 -->
