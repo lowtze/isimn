@@ -40,7 +40,12 @@ Maria: «Adesso io --- nella stanza da bagno. Ci --- anche tu, Pia?». Pia dice 
 
 **faccio, fai, fa, facciamo, fate, fanno**
 
-A che ora --- colazione i Rossi? La famiglia Rossi --- colazione alle otto. Bruno, a Giovanni: «Tu a che ora --- colazione la domenica?». Giovanni: «La domenica --- colazione alle otto e mezzo. E voi, a che ora --- »
+A che ora --- colazione i Rossi? La famiglia Rossi --- colazione alle otto. Bruno, a Giovanni: «Tu a che ora --- colazione la domenica?». Giovanni: «La domenica --- colazione alle otto e mezzo. E voi, a che ora --- colazione la domenica?». Bruno: «--- colazione anche noi alle otto e mezzo la domenica».
+
+| ggg | gg |
+|--|--|
+| gg | gg |
+
 
 
 
@@ -70,8 +75,8 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDczOTQ0LDEwODc1NDg1MDQsNDI1Nj
-kzNjExLDE3MDIxNTE1NzYsLTI0OTIwNjE3LDEyMjAwNTI0NzEs
-ODcxNzc0NjA4LC0yMDM4OTc5MTMsOTc0OTY3OTIsMTI3MTI2Nz
-Q5OCwxMDQ2NzkzOTM0XX0=
+eyJoaXN0b3J5IjpbODExODUzMjQsMTA4NzU0ODUwNCw0MjU2OT
+M2MTEsMTcwMjE1MTU3NiwtMjQ5MjA2MTcsMTIyMDA1MjQ3MSw4
+NzE3NzQ2MDgsLTIwMzg5NzkxMyw5NzQ5Njc5MiwxMjcxMjY3ND
+k4LDEwNDY3OTM5MzRdfQ==
 -->
