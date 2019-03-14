@@ -53,6 +53,9 @@ Maria va nella stanza da bagno e lav-- Pia. Prima si lav-- le bambine, poi i fra
 
 ### ESERCIZIO B.
 
+Oggi è il --- di Teresa Rossi. Alle sei e mezzo Pia chiama sua sorella: «---!». Prima, Maria non --- Pia. Allora Pia chiama ancora, e --- volta Maria si sveglia e ---: «Che cosa c'è, Pia?». Pia ---: «C'è »
+
+
 
 ### ESERCIZIO C.
 
@@ -76,8 +79,9 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mzk5MDkzMiw1ODQzNzcxMTEsMTA4Nz
-U0ODUwNCw0MjU2OTM2MTEsMTcwMjE1MTU3NiwtMjQ5MjA2MTcs
-MTIyMDA1MjQ3MSw4NzE3NzQ2MDgsLTIwMzg5NzkxMyw5NzQ5Nj
-c5MiwxMjcxMjY3NDk4LDEwNDY3OTM5MzRdfQ==
+eyJoaXN0b3J5IjpbLTE5MzgwNjQzOCwxMzQzOTkwOTMyLDU4ND
+M3NzExMSwxMDg3NTQ4NTA0LDQyNTY5MzYxMSwxNzAyMTUxNTc2
+LC0yNDkyMDYxNywxMjIwMDUyNDcxLDg3MTc3NDYwOCwtMjAzOD
+k3OTEzLDk3NDk2NzkyLDEyNzEyNjc0OTgsMTA0Njc5MzkzNF19
+
 -->
