@@ -63,7 +63,11 @@ Quando i Rossi sono in via Veneto, --- i Benelli. Giovanni e Lucia sono il --- e
 
 ### ESERCIZIO C.
 
-Giovanni, a Maria: «Cos'hai dat»
+Giovanni, a Maria: «*Cos'hai dato alla mamma?*».
+--- Maria: «Io ho dato un ricamo alla mamma».
+
+Giovanni, a Bruno e a Pietro: «E voi, ....?».
+--- Bruno e Pietro: 
 
 <!---
 Footnotes
@@ -84,9 +88,9 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ5MDM4OTIsLTU4MTU4MTM5OSwxMz
-QzOTkwOTMyLDU4NDM3NzExMSwxMDg3NTQ4NTA0LDQyNTY5MzYx
-MSwxNzAyMTUxNTc2LC0yNDkyMDYxNywxMjIwMDUyNDcxLDg3MT
-c3NDYwOCwtMjAzODk3OTEzLDk3NDk2NzkyLDEyNzEyNjc0OTgs
-MTA0Njc5MzkzNF19
+eyJoaXN0b3J5IjpbMjY2MjM5MjEyLC01ODE1ODEzOTksMTM0Mz
+k5MDkzMiw1ODQzNzcxMTEsMTA4NzU0ODUwNCw0MjU2OTM2MTEs
+MTcwMjE1MTU3NiwtMjQ5MjA2MTcsMTIyMDA1MjQ3MSw4NzE3Nz
+Q2MDgsLTIwMzg5NzkxMyw5NzQ5Njc5MiwxMjcxMjY3NDk4LDEw
+NDY3OTM5MzRdfQ==
 -->
