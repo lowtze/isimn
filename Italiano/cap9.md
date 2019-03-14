@@ -87,7 +87,13 @@ Lucia, a Maria: «....?».
 Bruno, alle sorelle: «....?».
 --- Le bambine: «C'è che è il compleanno della mamma!».
 
+Sono già svegli i due fratelli alle sei e mezzo?
 
+Che cos'hanno i quattro bambini per la loro mamma?
+
+Chi ha fatto il regalo di Maria?
+
+Che cosa dice Teresa Rossi a Pia quando Pia le dà 
 
 <!---
 Footnotes
@@ -108,7 +114,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTM4MzQxNywtNTgxNTgxMzk5LDEzND
+eyJoaXN0b3J5IjpbMTc4MTEzODE1MiwtNTgxNTgxMzk5LDEzND
 M5OTA5MzIsNTg0Mzc3MTExLDEwODc1NDg1MDQsNDI1NjkzNjEx
 LDE3MDIxNTE1NzYsLTI0OTIwNjE3LDEyMjAwNTI0NzEsODcxNz
 c0NjA4LC0yMDM4OTc5MTMsOTc0OTY3OTIsMTI3MTI2NzQ5OCwx
