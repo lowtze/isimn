@@ -55,7 +55,7 @@ Maria va nella stanza da bagno e lav-- Pia. Prima si lav-- le bambine, poi i fra
 
 Oggi è il --- di Teresa Rossi. Alle sei e mezzo Pia chiama sua sorella: «---!». Prima, Maria non --- Pia. Allora Pia chiama ancora, e --- volta Maria si sveglia e ---: «Che cosa c'è, Pia?». Pia ---: «C'è --- oggi è il compleanno della mamma». Poi le due bambine vanno nella --- dei due fratelli. Pia: «Bruno, --- ancora o sei sveglio?». Bruno: «Non --- più!».
 
-Maria: «--- ho dei bei --- pr la mamma, e ---, Bruno e Pietro, che cos'avete per la mamma?». Bruno: «--- abbiamo dei libri. E ---, Pia, che cos'hai?». Pia: «Io ho un --- bianco. E Maria ha un bel ---». Il ricamo di Maria è molto ---, e i suoi fori pure sono molto ---. Pia --- il suo regalo alla mamma, e la mamma --- il fazzoletto e le dice: «---, Pia! Sei una --- bambina!». Poi Teresa Rossi --- la sua bambina. Il --- di Bruno è un bel libro. Teresa Rossi --- la dice grazie anche a lui. Poi, Maria dà alla 
+Maria: «--- ho dei bei --- pr la mamma, e ---, Bruno e Pietro, che cos'avete per la mamma?». Bruno: «--- abbiamo dei libri. E ---, Pia, che cos'hai?». Pia: «Io ho un --- bianco. E Maria ha un bel ---». Il ricamo di Maria è molto ---, e i suoi fori pure sono molto ---. Pia --- il suo regalo alla mamma, e la mamma --- il fazzoletto e le dice: «---, Pia! Sei una --- bambina!». Poi Teresa Rossi --- la sua bambina. Il --- di Bruno è un bel libro. Teresa Rossi --- la dice grazie anche a lui. Poi, Maria dà alla mamma i suoi --- fiori e il suo ricamo, e la
 
 
 
@@ -81,9 +81,9 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY2ODQwMjEsMTM0Mzk5MDkzMiw1OD
-QzNzcxMTEsMTA4NzU0ODUwNCw0MjU2OTM2MTEsMTcwMjE1MTU3
-NiwtMjQ5MjA2MTcsMTIyMDA1MjQ3MSw4NzE3NzQ2MDgsLTIwMz
-g5NzkxMyw5NzQ5Njc5MiwxMjcxMjY3NDk4LDEwNDY3OTM5MzRd
-fQ==
+eyJoaXN0b3J5IjpbLTkxNTEyNjQ3OSwxMzQzOTkwOTMyLDU4ND
+M3NzExMSwxMDg3NTQ4NTA0LDQyNTY5MzYxMSwxNzAyMTUxNTc2
+LC0yNDkyMDYxNywxMjIwMDUyNDcxLDg3MTc3NDYwOCwtMjAzOD
+k3OTEzLDk3NDk2NzkyLDEyNzEyNjc0OTgsMTA0Njc5MzkzNF19
+
 -->
