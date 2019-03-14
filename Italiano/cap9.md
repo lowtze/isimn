@@ -28,7 +28,11 @@ Un'ora dopo, i Rossi hanno fatto colazione e vanno in città. In via Veneto i Ro
 
 **sono, sei, è, siamo, siete, sono**
 
-Pia: «Maria, --- sveglia?». Maria: «Sì, --- sveglia»
+Pia: «Maria, --- sveglia?». Maria: «Sì, --- sveglia. --- svegli Bruno e Pietro?». Pia: «No, solo noi due --- sveglie». Pia e Maria: «Bruno e Pietro, --- svegli?». Bruno: «Io sì, --- sveglio, ma Pietro non --- ancora sveglio».
+
+**ho, hai, ha, a**
+
+
 
 ### ESERCIZIO B.
 
@@ -55,7 +59,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTE2MzM2OCwxMDg3NTQ4NTA0LDQyNT
+eyJoaXN0b3J5IjpbMTEwNDk2OTEzNSwxMDg3NTQ4NTA0LDQyNT
 Y5MzYxMSwxNzAyMTUxNTc2LC0yNDkyMDYxNywxMjIwMDUyNDcx
 LDg3MTc3NDYwOCwtMjAzODk3OTEzLDk3NDk2NzkyLDEyNzEyNj
 c0OTgsMTA0Njc5MzkzNF19
