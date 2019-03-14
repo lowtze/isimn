@@ -81,7 +81,8 @@ Carlo Rossi ai Benelli: «....?».
 Maria, a Lucia: «....?».
 --- Lucia: «Giovanni era già sveglio alle sette e un quarto».
 
-
+Lucia, a Maria: «....?».
+--- Maria: «È una bella borsetta di Firenze, bianca e»
 
 <!---
 Footnotes
@@ -102,7 +103,7 @@ Footnotes
 ![](../images/9sub7.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDcwNjc4OTUsLTU4MTU4MTM5OSwxMz
+eyJoaXN0b3J5IjpbLTEyMTgwMjExMjEsLTU4MTU4MTM5OSwxMz
 QzOTkwOTMyLDU4NDM3NzExMSwxMDg3NTQ4NTA0LDQyNTY5MzYx
 MSwxNzAyMTUxNTc2LC0yNDkyMDYxNywxMjIwMDUyNDcxLDg3MT
 c3NDYwOCwtMjAzODk3OTEzLDk3NDk2NzkyLDEyNzEyNjc0OTgs
