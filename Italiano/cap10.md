@@ -6,8 +6,10 @@ Un minuto dopo, le due donne sono davanti a un negozio di scarpe. Teresa Rossi: 
 
 Poco dopo, le due donne si fermano davanti a un altro negozio. Quando Teresa ed Emma sono in città, si fermano davanti a ogni negozio. Questa volta si fermano per guardare dei guanti. Ce ne sono di tutti i colori: bianchi, neri, gialli. E ce ne sono pure di verdi, di rossi e di bruni. E lì, fra un paio di guanti rossi e uno di verdi, c'è un paio di guanti lunghi, del colore della sua borsetta, che piace molto alla signora Rossi. «Emma, guarda quei guanti neri con un po' di bianco!», dice Teresa Rossi alla signora Benelli. Emma Benelli: «Sì; sono bellissimi!». «Cos'è che è bellissimo?», domanda Carlo Rossi. «Quel paio di guanti del colore della mia borsetta», gli risponde sua moglie.
 
-Carlo Rossi guarda, guarda, e prima non vede i guanti bianchi e neri, ma poi, quando sua moglie, ancora una volta, gli mostra i guanti che le piacciono, li vede anche lui. E allora, anche lui dice che sono belli, bellissimi! Però poi vede il prezzo: settemila lire, e non dice più niente. 
+Carlo Rossi guarda, guarda, e prima non vede i guanti bianchi e neri, ma poi, quando sua moglie, ancora una volta, gli mostra i guanti che le piacciono, li vede anche lui. E allora, anche lui dice che sono belli, bellissimi! Però poi vede il prezzo: settemila lire, e non dice più niente. I guanti piacciono molto al signor Rossi, ma non gli piace il prezzo: sono troppo cari, quei guanti!
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NjQxOTM2LDgxODg1NTI2Niw0OTU5NT
-Y2ODBdfQ==
+eyJoaXN0b3J5IjpbLTE3NTc4MDg4MDMsODE4ODU1MjY2LDQ5NT
+k1NjY4MF19
 -->
