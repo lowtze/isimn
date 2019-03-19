@@ -8,8 +8,8 @@ Poco dopo, le due donne si fermano davanti a un altro negozio. Quando Teresa ed 
 
 Carlo Rossi guarda, guarda, e prima non vede i guanti bianchi e neri, ma poi, quando sua moglie, ancora una volta, gli mostra i guanti che le piacciono, li vede anche lui. E allora, anche lui dice che sono belli, bellissimi! Però poi vede il prezzo: settemila lire, e non dice più niente. I guanti piacciono molto al signor Rossi, ma non gli piace il prezzo: sono troppo cari, quei guanti!
 
-
+Gino Benelli vede il prezzo dei guanti pure lui e dice: «Sono belli, sì, però ... sono un po' cari, no? Settemila lire per un paio di guanti, anche se sono bellissimi, è caro, non trovi, Emma?». Ma Emma, che vede che quesi 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc4MDg4MDMsODE4ODU1MjY2LDQ5NT
-k1NjY4MF19
+eyJoaXN0b3J5IjpbLTE0NDYzMTQ0NDUsLTE3NTc4MDg4MDMsOD
+E4ODU1MjY2LDQ5NTk1NjY4MF19
 -->
