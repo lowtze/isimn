@@ -8,8 +8,8 @@ Poco dopo, le due donne si fermano davanti a un altro negozio. Quando Teresa ed 
 
 Carlo Rossi guarda, guarda, e prima non vede i guanti bianchi e neri, ma poi, quando sua moglie, ancora una volta, gli mostra i guanti che le piacciono, li vede anche lui. E allora, anche lui dice che sono belli, bellissimi! Però poi vede il prezzo: settemila lire, e non dice più niente. I guanti piacciono molto al signor Rossi, ma non gli piace il prezzo: sono troppo cari, quei guanti!
 
-Gino Benelli vede il prezzo dei guanti pure lui e dice: «Sono belli, sì, però ... sono un po' cari, no? Settemila lire per un paio di guanti, anche se sono bellissimi, è caro, non trovi, Emma?». Ma Emma, che vede che quei guanti piacciono molto a Teresa, dice: «No, perché? In un negozio di via Condotti c'è un paio di guanti che costa diecimila lire. Quelli sì sono cari, questi no. Ma se Carlo non ha settemila lire ...». Carlo Rossi: «Chi ti dice che non ho settemila lire? Ho detto poco fa che ho ventimila lire, no? Allora, Teresa, se tu trovi che quei guanti non sono troppo cari e se li vuoi, entriamo nel negozio!». E
+Gino Benelli vede il prezzo dei guanti pure lui e dice: «Sono belli, sì, però ... sono un po' cari, no? Settemila lire per un paio di guanti, anche se sono bellissimi, è caro, non trovi, Emma?». Ma Emma, che vede che quei guanti piacciono molto a Teresa, dice: «No, perché? In un negozio di via Condotti c'è un paio di guanti che costa diecimila lire. Quelli sì sono cari, questi no. Ma se Carlo non ha settemila lire ...». Carlo Rossi: «Chi ti dice che non ho settemila lire? Ho detto poco fa che ho ventimila lire, no? Allora, Teresa, se tu trovi che quei guanti non sono troppo cari e se li vuoi, entriamo nel negozio!». Emma: «Li vuoi comprare, Carlo?». Carlo: «Sì, se piacciono alla Teresa li compriamo». Emma: «Carlo è un buon marito, Teresa! È il migliore di tutti i mariti! Ti dà tutto quello che vuoi!». Teresa ride e dice: «Sì, mio ma»
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzNTMzNjA1LC0xNzU3ODA4ODAzLDgxOD
+eyJoaXN0b3J5IjpbMzAwMjE2MDI2LC0xNzU3ODA4ODAzLDgxOD
 g1NTI2Niw0OTU5NTY2ODBdfQ==
 -->
