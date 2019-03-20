@@ -16,9 +16,9 @@ Quando Teresa Rossi vede le tre bambine entrare nel negozio, domanda: «Dove son
 
 Pia: «Hai molti soldi, papà?». Carlo Rossi: «Molti no, ma ... perché mi domandi questi soldi ho? Vuoi un paio di guanti anche tu?». Pia: «No, non voglio un paio di guanti, ma se hai soldi, papà, voglio un gelato!». Carlo Rossi ride e dice: «Un gelato non costa molto! E voi altre, volete pure un gelato?». Maria e Lucia, insieme: «Sì, grazie!». Carlo Rossi; «Allora ne compro anche per voi».
 
-Poi, Carlo Rossi paga i guanti: mille, duemila, tremila, quattromila, cinquemila, s
+Poi, Carlo Rossi paga i guanti: mille, duemila, tremila, quattromila, cinquemila, seimila, settemila lire. Sono cari ma belli, i guanti, e il signor Rossi è contento. Non gli piace pagare, ma gli piace molto fare regali a sua moglie, e gli piace vedere che anche lei è contenta. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDIwMTkwMSwtMTQyNDQzOTE4MCwyMD
+eyJoaXN0b3J5IjpbMTgzMTY3MzI4NywtMTQyNDQzOTE4MCwyMD
 A0MjIxNTAsMTY1Mjg5ODYyOCwyMTEyODc0MjAxLC0xNzU3ODA4
 ODAzLDgxODg1NTI2Niw0OTU5NTY2ODBdfQ==
 -->
