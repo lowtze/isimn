@@ -199,7 +199,7 @@ Footnotes
 
 	forchett**ina**
 
-[^8.45]: ![](../images/8sub12.pnghttps://lh3.googleusercontent.com/e9kFvQlpHrUt5lNWPG1sSJY-9sqp16HmdZ01WqGA6zbf6hMzKibIv44YHOPl5FzGThiPxQmeAncgGs5CAiivVsZypOXY_lvZVybBm97lzOSS7CJTXM6Zjh2jZ_y8fWsNgnxB0E7Uq2-5a94jr0Ki4uyjdNxZrP-KyJsl_CDWuaEr1FbFYRdKFFZm2xyiZD2EDKFPiz6fXw1bUX9CVap8W_n8smew2R2GXh3hAQZmXB820OaaD7NWrVaCLm4ELOBKf_H_sg5UELiyXt7ll4tajHLxTUoR0RFRDazUDz-ST-f-37Q9tO46hBbwVt5nuQak5E7zwQqKWcyf1V3qY0rua0KBN1uL_J3SDl9OWNp-MlrH1zENUYzgaNLGG-BkrnwsWBMGQO_nM0EkbHjDkbdDb_8VMsmsbzdrtFr1M1sXuCTS_MDLiO8hwi41212IP1KAXbK_QyZJZnzNExEvdaJdBLY_DHXDbGZRD4Ayj3wN6BWXMA5KN1xPSzqnS5yYI9-gUfqgf2suGiD2vYhXhd2etu_rM0hmiPu0yhjLX-LGb7lBF3BYcuD1hFUCofHJIibX62DRVsl2p9_yuhngJbvc6Y_kj78TDdAr-ccg3p7ThMoC_EL1k4rcIpIx3kRLOkTeypqP1029-jCvq2VlNsqWVNOmGpY0goDy=w175-h211-no)
+[^8.45]: ![](../images/8sub12.png)
 
 [^8.46]: **ce ne** sono due : **ci** sono due **litri di vino**
 
@@ -215,6 +215,6 @@ Footnotes
 
 [^8.49]: quand' = quando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTY3Nzg2NTUsMjU1NzkwMzczLC04Nj
-kxNjk1NjIsLTU0MDQyNjI3XX0=
+eyJoaXN0b3J5IjpbLTg2OTE2OTU2MiwtMjA5Njc3ODY1NSwyNT
+U3OTAzNzMsLTg2OTE2OTU2MiwtNTQwNDI2MjddfQ==
 -->
