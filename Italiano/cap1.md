@@ -1,7 +1,7 @@
 ---
 title: "L'Italiano Secondo il Metodo Natura"
-Arthur M. Jensen
-1962
+autho: Arthur M. Jensen
+date: 1962
 lang: it
 ...
 
@@ -170,7 +170,7 @@ Hanno tre figlie Carlo e Teresa Rossi?
 [^1.26]: i genitori = il padre e la madre
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA0NzY3MCwxNDczMzE3OTU1LC00MD
-I4MTcxOTUsLTE0MzQ5MTA5MzYsLTEyNjYyODA2NjcsLTQxMjEw
-OTcyOV19
+eyJoaXN0b3J5IjpbNzE4NTU3Mjc1LDE0NzMzMTc5NTUsLTQwMj
+gxNzE5NSwtMTQzNDkxMDkzNiwtMTI2NjI4MDY2NywtNDEyMTA5
+NzI5XX0=
 -->
