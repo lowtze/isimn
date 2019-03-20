@@ -217,6 +217,8 @@ Footnotes
 	st**ava** sta sta**rà**
 
 [^7.44]: con + il = col
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTE3Nzk1NTEsMTUwMDUxNjU1NV19
+eyJoaXN0b3J5IjpbMTM0MTc5NDU3NSwtMTU5MTc3OTU1MSwxNT
+AwNTE2NTU1XX0=
 -->
