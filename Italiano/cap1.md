@@ -74,10 +74,6 @@ Ha due sorelle Pia?
 
 Hanno tre figlie Carlo e Teresa Rossi?
 
-<!---
-Footnotes
--->
-
 [^1.1]: **un** uomo
 
 	**una** donna
@@ -166,6 +162,6 @@ Footnotes
 
 [^1.26]: i genitori = il padre e la madre
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ5MTA5MzYsLTEyNjYyODA2NjcsLT
-QxMjEwOTcyOV19
+eyJoaXN0b3J5IjpbLTQwMjgxNzE5NSwtMTQzNDkxMDkzNiwtMT
+I2NjI4MDY2NywtNDEyMTA5NzI5XX0=
 -->
