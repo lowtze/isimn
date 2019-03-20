@@ -12,8 +12,8 @@ Gino Benelli vede il prezzo dei guanti pure lui e dice: «Sono belli, sì, però
 
 Quando i bambini vedono i loro genitori entrare nel negozio di guanti, Giovanni e Bruno dicono: «Cosa facciamo, noi altri? Entriamo anche noi? Voi, bambine, cosa volete fare?». Maria: «Cosa vogliamo fare? Che cosa dici tu, Lucia? Vogliamo entrare anche noi o vogliamo stare qui?». Lucia dice che lei vuole vedere che guanti comprano lo zio e la zia, ma i tre cugini non vogliono entrare. Maria: «Se voi non volete, noi due andiamo nel negozio da sole». Pia: «Ma io pure voglio entrare nel negozio! Io non voglio stare qui!». Bruno, a Giovanni: «Hai sentito le mie sorelle?». Giovanni: «Sì». Poi, alle bambine: «Fate come volete! Andate con le vostre mamme, mentre noi stiamo qui a guardare la gente!». Maria: «Con le nostre mamme! Prima di tutto, sono anche le vostre mamme, e poi, non ci sono solo le nostre mamme nel negozio, ci sono pure il nostro papà e il vostro!». Ma Giovanni non risponde e ride.
 
-
+Quando Teresa Rossi vede le tre bambine entrare nel negozio, domanda: «Dove sono i miei due bambini?». Lucia ride e risponde: «I tuoi due bambini, zia Teresa, sono fuori». La zia Teresa: «Fuori dove?». Lucia: «Lì, davanti all'ìaltro »
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc0MTEwMTEwLDIxMTI4NzQyMDEsLTE3NT
-c4MDg4MDMsODE4ODU1MjY2LDQ5NTk1NjY4MF19
+eyJoaXN0b3J5IjpbLTIzNDEyODczNSwyMTEyODc0MjAxLC0xNz
+U3ODA4ODAzLDgxODg1NTI2Niw0OTU5NTY2ODBdfQ==
 -->
