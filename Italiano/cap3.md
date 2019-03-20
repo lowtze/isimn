@@ -171,7 +171,8 @@ Footnotes
 [^3.39]: non è... né = non è... e non è
 
 [^3.40]: **non** è fratello **né** di Carlo **né** di Teresa = **non** è fratello di Carlo né di Teresa
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NDYzMzM2LDUwNTk0MTY3NSw1OTgzMT
-E3MDVdfQ==
+eyJoaXN0b3J5IjpbMTQ5ODUwMjYyLDk1NDQ2MzMzNiw1MDU5ND
+E2NzUsNTk4MzExNzA1XX0=
 -->
