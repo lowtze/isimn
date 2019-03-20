@@ -161,7 +161,8 @@ Hanno tre figlie Carlo e Teresa Rossi?
 [^1.25]: hanno : Carlo e Teresa Rossi hanno
 
 [^1.26]: i genitori = il padre e la madre
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjgxNzE5NSwtMTQzNDkxMDkzNiwtMT
-I2NjI4MDY2NywtNDEyMTA5NzI5XX0=
+eyJoaXN0b3J5IjpbMTQ3MzMxNzk1NSwtNDAyODE3MTk1LC0xND
+M0OTEwOTM2LC0xMjY2MjgwNjY3LC00MTIxMDk3MjldfQ==
 -->
