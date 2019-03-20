@@ -13,8 +13,10 @@ Gino Benelli vede il prezzo dei guanti pure lui e dice: «Sono belli, sì, però
 Quando i bambini vedono i loro genitori entrare nel negozio di guanti, Giovanni e Bruno dicono: «Cosa facciamo, noi altri? Entriamo anche noi? Voi, bambine, cosa volete fare?». Maria: «Cosa vogliamo fare? Che cosa dici tu, Lucia? Vogliamo entrare anche noi o vogliamo stare qui?». Lucia dice che lei vuole vedere che guanti comprano lo zio e la zia, ma i tre cugini non vogliono entrare. Maria: «Se voi non volete, noi due andiamo nel negozio da sole». Pia: «Ma io pure voglio entrare nel negozio! Io non voglio stare qui!». Bruno, a Giovanni: «Hai sentito le mie sorelle?». Giovanni: «Sì». Poi, alle bambine: «Fate come volete! Andate con le vostre mamme, mentre noi stiamo qui a guardare la gente!». Maria: «Con le nostre mamme! Prima di tutto, sono anche le vostre mamme, e poi, non ci sono solo le nostre mamme nel negozio, ci sono pure il nostro papà e il vostro!». Ma Giovanni non risponde e ride.
 
 Quando Teresa Rossi vede le tre bambine entrare nel negozio, domanda: «Dove sono i miei due bambini?». Lucia ride e risponde: «I tuoi due bambini, zia Teresa, sono fuori». La zia Teresa: «Fuori dove?». Lucia: «Lì, davanti all'altro negozio». «Grazie, Lucia!», dice la zia Teresa, poi domanda: «Ti piacciono questi guanti, Lucia?». Lucia: «Sì, mi piacciono molto!». Teresa Rossi: «E a voi, Maria e Pia? Vi piacciono?». Maria e Pia: «A noi? Sì, ci piacciono molto». Lucia: «Però a me piacciono di più quei guanti lì». Teresa Rossi: «Quali? Quelli rossi?». Lucia: «Sì». Teresa Rossi: «E a te, Maria? Piacciono di più i rossi anche a te?». «No, a me piacciono di più quelli lì», dice Maria alla mamma e alla zia Emma, e mostra loro un paio di guanti bruni: «non vi piacciono, a voi?». Teresa Rossi: «Sì, piacciono molto anche a noi, però ci piacciono di più questi qui». Lucia: «Allora, se ti piacciono, perché non li compri, zia Teresa?». La zia Teresa: «Chi ti dice che non li voglio comprare? Però non li compro io, li compro lo zio Carlo, perché è lui che ha i soldi».
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzAwNDA1NiwyMDA0MjIxNTAsMTY1Mj
-g5ODYyOCwyMTEyODc0MjAxLC0xNzU3ODA4ODAzLDgxODg1NTI2
-Niw0OTU5NTY2ODBdfQ==
+eyJoaXN0b3J5IjpbLTE0MjQ0MzkxODAsMjAwNDIyMTUwLDE2NT
+I4OTg2MjgsMjExMjg3NDIwMSwtMTc1NzgwODgwMyw4MTg4NTUy
+NjYsNDk1OTU2NjgwXX0=
 -->
