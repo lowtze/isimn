@@ -165,6 +165,8 @@ Footnotes
 [^2.21]: un' - una
 
 [^2.22]: i Rossi = la famiglia Rossi
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ3MzM0ODgsLTEzNDA2MDI1Ml19
+eyJoaXN0b3J5IjpbLTEwNjc1Mjc1NTQsLTE2NzQ3MzM0ODgsLT
+EzNDA2MDI1Ml19
 -->
