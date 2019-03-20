@@ -1,3 +1,8 @@
+---
+lang: it
+...
+
+
 ## Capitolo uno (1): LA FAMIGLIA ROSSI
 
 ![](../images/c1.1.png)
@@ -163,6 +168,7 @@ Hanno tre figlie Carlo e Teresa Rossi?
 [^1.26]: i genitori = il padre e la madre
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzMxNzk1NSwtNDAyODE3MTk1LC0xND
-M0OTEwOTM2LC0xMjY2MjgwNjY3LC00MTIxMDk3MjldfQ==
+eyJoaXN0b3J5IjpbMjA2ODEzMDEyNywxNDczMzE3OTU1LC00MD
+I4MTcxOTUsLTE0MzQ5MTA5MzYsLTEyNjYyODA2NjcsLTQxMjEw
+OTcyOV19
 -->
