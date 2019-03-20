@@ -14,9 +14,11 @@ Quando i bambini vedono i loro genitori entrare nel negozio di guanti, Giovanni 
 
 Quando Teresa Rossi vede le tre bambine entrare nel negozio, domanda: «Dove sono i miei due bambini?». Lucia ride e risponde: «I tuoi due bambini, zia Teresa, sono fuori». La zia Teresa: «Fuori dove?». Lucia: «Lì, davanti all'altro negozio». «Grazie, Lucia!», dice la zia Teresa, poi domanda: «Ti piacciono questi guanti, Lucia?». Lucia: «Sì, mi piacciono molto!». Teresa Rossi: «E a voi, Maria e Pia? Vi piacciono?». Maria e Pia: «A noi? Sì, ci piacciono molto». Lucia: «Però a me piacciono di più quei guanti lì». Teresa Rossi: «Quali? Quelli rossi?». Lucia: «Sì». Teresa Rossi: «E a te, Maria? Piacciono di più i rossi anche a te?». «No, a me piacciono di più quelli lì», dice Maria alla mamma e alla zia Emma, e mostra loro un paio di guanti bruni: «non vi piacciono, a voi?». Teresa Rossi: «Sì, piacciono molto anche a noi, però ci piacciono di più questi qui». Lucia: «Allora, se ti piacciono, perché non li compri, zia Teresa?». La zia Teresa: «Chi ti dice che non li voglio comprare? Però non li compro io, li compro lo zio Carlo, perché è lui che ha i soldi».
 
-Pia: «Hai molti soldi, papà?». Carlo Rossi: «Molti no, ma ... perché mi domandi questi soldi ho? Vuoi un paio di guanti anche tu?». Pia: «No, non voglio un paio di guanti, ma se hai soldi, papà, voglio un gelato!». Carlo Rossi ride e dice: «Un gelato non costa molto! E voi altre, »
+Pia: «Hai molti soldi, papà?». Carlo Rossi: «Molti no, ma ... perché mi domandi questi soldi ho? Vuoi un paio di guanti anche tu?». Pia: «No, non voglio un paio di guanti, ma se hai soldi, papà, voglio un gelato!». Carlo Rossi ride e dice: «Un gelato non costa molto! E voi altre, volete pure un gelato?». Maria e Lucia, insieme: «Sì, grazie!». Carlo Rossi; «Allora ne compro anche per voi».
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY4NjM0ODIsLTE0MjQ0MzkxODAsMj
-AwNDIyMTUwLDE2NTI4OTg2MjgsMjExMjg3NDIwMSwtMTc1Nzgw
-ODgwMyw4MTg4NTUyNjYsNDk1OTU2NjgwXX0=
+eyJoaXN0b3J5IjpbLTM4NDIwOTIxNCwtMTQyNDQzOTE4MCwyMD
+A0MjIxNTAsMTY1Mjg5ODYyOCwyMTEyODc0MjAxLC0xNzU3ODA4
+ODAzLDgxODg1NTI2Niw0OTU5NTY2ODBdfQ==
 -->
