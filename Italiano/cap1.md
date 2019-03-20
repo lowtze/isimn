@@ -3,7 +3,7 @@ title: "L'Italiano Secondo il Metodo Natura"
 author: Arthur M. Jensen
 date: 1962
 lang: it
-cover-image: ../images/cover.png
+cover-image: "../images/cover.png"
 ...
 
 ## Capitolo uno (1): LA FAMIGLIA ROSSI
@@ -172,7 +172,7 @@ Hanno tre figlie Carlo e Teresa Rossi?
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjAyMTc0NTksLTIwOTg2NDc5MjEsMT
+eyJoaXN0b3J5IjpbLTIxMTkxNDI1NzksLTIwOTg2NDc5MjEsMT
 Q3MzMxNzk1NSwtNDAyODE3MTk1LC0xNDM0OTEwOTM2LC0xMjY2
 MjgwNjY3LC00MTIxMDk3MjldfQ==
 -->
