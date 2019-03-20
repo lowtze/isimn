@@ -25,8 +25,15 @@ Poi, Carlo Rossi paga i guanti: mille, duemila, tremila, quattromila, cinquemila
 **voglio, vuoi, vuole, vogliamo, volete, vogliono**
 
 
+
+<!---
+Footnotes
+-->
+
+![]()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTAxMTg1MSwxODMxNjczMjg3LC0xND
-I0NDM5MTgwLDIwMDQyMjE1MCwxNjUyODk4NjI4LDIxMTI4NzQy
-MDEsLTE3NTc4MDg4MDMsODE4ODU1MjY2LDQ5NTk1NjY4MF19
+eyJoaXN0b3J5IjpbLTE0MTU0MTIwMDYsMjA1OTAxMTg1MSwxOD
+MxNjczMjg3LC0xNDI0NDM5MTgwLDIwMDQyMjE1MCwxNjUyODk4
+NjI4LDIxMTI4NzQyMDEsLTE3NTc4MDg4MDMsODE4ODU1MjY2LD
+Q5NTk1NjY4MF19
 -->
