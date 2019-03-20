@@ -215,8 +215,9 @@ Footnotes
 
 [^8.49]: quand' = quando
 
+<p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA3OTQ4LC04NjkxNjk1NjIsLTIwOT
-Y3Nzg2NTUsMjU1NzkwMzczLC04NjkxNjk1NjIsLTU0MDQyNjI3
-XX0=
+eyJoaXN0b3J5IjpbMjA0NDkxMDY1NywtODY5MTY5NTYyLC0yMD
+k2Nzc4NjU1LDI1NTc5MDM3MywtODY5MTY5NTYyLC01NDA0MjYy
+N119
 -->
