@@ -79,7 +79,6 @@ Perché Pia domanda al papà se ha molti soldi?
 
 Cosa fa il signor Rossi quando ha pagato i guanti?
 
-
 <!---
 Footnotes
 -->
@@ -102,7 +101,7 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc2NTE1MCwtMTUxNjQ1MDQ4MiwtNT
+eyJoaXN0b3J5IjpbMTM2MTk2MzA4OCwtMTUxNjQ1MDQ4MiwtNT
 YyMTI4MDgwLDI3MzY4NDQwOSw3MTMwNjkwMjIsMjA1OTAxMTg1
 MSwxODMxNjczMjg3LC0xNDI0NDM5MTgwLDIwMDQyMjE1MCwxNj
 UyODk4NjI4LDIxMTI4NzQyMDEsLTE3NTc4MDg4MDMsODE4ODU1
