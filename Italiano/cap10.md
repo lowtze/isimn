@@ -26,13 +26,15 @@ Poi, Carlo Rossi paga i guanti: mille, duemila, tremila, quattromila, cinquemila
 
 Carlo Rossi: «Che cosa ---, Pia?». Pia: «--- un gelato, papà!». Carlo Rossi: «E voi, Maria e Lucia, --- un gelato anche voi?». Maria e Lucia: «Sì, grazie, --- un gelato anche noi». La signora Rossi non --- un gelato, ma i tre cugini ne --- uno.
 
-
+| il | la | i | le |
+|-----------|-----------|----------|-----------|
 | (il) mio | (la) mia | i miei | le mie |
 | (il) tuo | (la) tua | i tuoi | le tue |
 | (il) suo | (la) sua | i suoi | le sue |
 | il nostro | la nostra | i nostri | le nostre |
 | il vostro | la vostra | i vostri | le vostre |
 | il loro | la loro | i loro | le loro |
+
 
 
 <!---
@@ -57,7 +59,7 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg4MjMyNzMsMjczNjg0NDA5LDcxMz
+eyJoaXN0b3J5IjpbLTEwNDkzNTY5NTYsMjczNjg0NDA5LDcxMz
 A2OTAyMiwyMDU5MDExODUxLDE4MzE2NzMyODcsLTE0MjQ0Mzkx
 ODAsMjAwNDIyMTUwLDE2NTI4OTg2MjgsMjExMjg3NDIwMSwtMT
 c1NzgwODgwMyw4MTg4NTUyNjYsNDk1OTU2NjgwXX0=
