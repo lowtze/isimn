@@ -53,7 +53,7 @@ Bruno a Pietro: «Io chiamo Maria, ma lei non --- risponde. Perché?». Pietro: 
 
 ### ESERCIZIO B.
 
-In via del Corso, Carlo Rossi domanda a sua moglie: «E ---, che cosa facciamo?». Sua moglie --- e domanda alla signora Benelli se ha --- ciò che ha detto suo marito. Carlo R
+In via del Corso, Carlo Rossi domanda a sua moglie: «E ---, che cosa facciamo?». Sua moglie --- e domanda alla signora Benelli se ha --- ciò che ha detto suo marito. Carlo Rossi: «Perché ---?». «Ridiamo perché la tua --- è la --- di un uomo». E Teresa Rossi domanda a suo marito cosa fanno gli --- quando sono in via del Corso. Carlo Rossi risponde che lui guarda la gente e i ---. Carlo Rossi ha solo --- (20.000) --- e non vuole comprare tutto ciò che --- Teresa. Ma Teresa vuol
 
 
 
@@ -79,9 +79,9 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY4MDEwMzcsLTE1MTY0NTA0ODIsLT
-U2MjEyODA4MCwyNzM2ODQ0MDksNzEzMDY5MDIyLDIwNTkwMTE4
-NTEsMTgzMTY3MzI4NywtMTQyNDQzOTE4MCwyMDA0MjIxNTAsMT
-Y1Mjg5ODYyOCwyMTEyODc0MjAxLC0xNzU3ODA4ODAzLDgxODg1
-NTI2Niw0OTU5NTY2ODBdfQ==
+eyJoaXN0b3J5IjpbMTc5OTg4MTA2NCwtMTUxNjQ1MDQ4MiwtNT
+YyMTI4MDgwLDI3MzY4NDQwOSw3MTMwNjkwMjIsMjA1OTAxMTg1
+MSwxODMxNjczMjg3LC0xNDI0NDM5MTgwLDIwMDQyMjE1MCwxNj
+UyODk4NjI4LDIxMTI4NzQyMDEsLTE3NTc4MDg4MDMsODE4ODU1
+MjY2LDQ5NTk1NjY4MF19
 -->
