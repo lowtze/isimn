@@ -35,7 +35,7 @@ Carlo Rossi: «Che cosa ---, Pia?». Pia: «--- un gelato, papà!». Carlo Rossi
 | il vostro | la vostra | i vostri | le vostre |
 | il loro | la loro | i loro | le loro |
 
-
+Teresa Rossi chiama le --- bambine ed i --- bambini. Maria risponde alla mamma prima di --- sorella e prima del fratellino Pietro. «Che cos'hai dat»
 
 <!---
 Footnotes
@@ -59,8 +59,8 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkzNTY5NTYsMjczNjg0NDA5LDcxMz
-A2OTAyMiwyMDU5MDExODUxLDE4MzE2NzMyODcsLTE0MjQ0Mzkx
-ODAsMjAwNDIyMTUwLDE2NTI4OTg2MjgsMjExMjg3NDIwMSwtMT
-c1NzgwODgwMyw4MTg4NTUyNjYsNDk1OTU2NjgwXX0=
+eyJoaXN0b3J5IjpbMTk0ODg0OTYxOSwyNzM2ODQ0MDksNzEzMD
+Y5MDIyLDIwNTkwMTE4NTEsMTgzMTY3MzI4NywtMTQyNDQzOTE4
+MCwyMDA0MjIxNTAsMTY1Mjg5ODYyOCwyMTEyODc0MjAxLC0xNz
+U3ODA4ODAzLDgxODg1NTI2Niw0OTU5NTY2ODBdfQ==
 -->
