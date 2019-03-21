@@ -24,7 +24,7 @@ Poi, Carlo Rossi paga i guanti: mille, duemila, tremila, quattromila, cinquemila
 
 **voglio, vuoi, vuole, vogliamo, volete, vogliono**
 
-
+Carlo Rossi: «Che cosa ---, Pia?». Pia: «--- un gelato, papà!». Carlo Rossi: «E voi, Maria e Lucia, --- un gelato anche voi?». Maria e Lucia: «Sì, grazie, --- un gelato anche noi». La signora Rossi non --- un 
 
 <!---
 Footnotes
@@ -48,8 +48,8 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjczNjg0NDA5LDcxMzA2OTAyMiwyMDU5MD
-ExODUxLDE4MzE2NzMyODcsLTE0MjQ0MzkxODAsMjAwNDIyMTUw
-LDE2NTI4OTg2MjgsMjExMjg3NDIwMSwtMTc1NzgwODgwMyw4MT
-g4NTUyNjYsNDk1OTU2NjgwXX0=
+eyJoaXN0b3J5IjpbLTE3OTU2NTA4MjksMjczNjg0NDA5LDcxMz
+A2OTAyMiwyMDU5MDExODUxLDE4MzE2NzMyODcsLTE0MjQ0Mzkx
+ODAsMjAwNDIyMTUwLDE2NTI4OTg2MjgsMjExMjg3NDIwMSwtMT
+c1NzgwODgwMyw4MTg4NTUyNjYsNDk1OTU2NjgwXX0=
 -->
