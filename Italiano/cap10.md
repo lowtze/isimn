@@ -55,7 +55,7 @@ Bruno a Pietro: «Io chiamo Maria, ma lei non --- risponde. Perché?». Pietro: 
 
 In via del Corso, Carlo Rossi domanda a sua moglie: «E ---, che cosa facciamo?». Sua moglie --- e domanda alla signora Benelli se ha --- ciò che ha detto suo marito. Carlo Rossi: «Perché ---?». «Ridiamo perché la tua --- è la --- di un uomo». E Teresa Rossi domanda a suo marito cosa fanno gli --- quando sono in via del Corso. Carlo Rossi risponde che lui guarda la gente e i ---. Carlo Rossi ha solo --- (20.000) --- e non vuole comprare tutto ciò che --- Teresa. Ma Teresa vuole solo --- i negozi, non vuole --- nei negozi. In uno dei negozi, le due donne guardano un --- di --- bianche. «Non --- che sono belle?», domanda Emma Benelli a suo marito. Gino dice che anche lui --- che sono molte belle, ma Carlo non dice ---. Poco dopo, le due donne si --- davanti a un altro negozio per guardare dei ---.
 
-C'è un paio di --- che --- molto alla signora Rossi. «Sono belli, ---?», dice Teresa Rossi a Emma, ed Emma risponde: «Sì, sono molto ---!». I guanti --- molto anche a Carlo Rossi, ma non gli --- il ---: --- (7000) lire. Sono troppo ---, quei guanti! Ma Emma Benelli dice che in un negozio di via Condotti 
+C'è un paio di --- che --- molto alla signora Rossi. «Sono belli, ---?», dice Teresa Rossi a Emma, ed Emma risponde: «Sì, sono molto ---!». I guanti --- molto anche a Carlo Rossi, ma non gli --- il ---: --- (7000) lire. Sono troppo ---, quei guanti! Ma Emma Benelli dice che in un negozio di via Condotti c'è un paio di guanti che --- --- (10.000) lire. «--- sì sono cari, --- no!», dice Emma a Carlo Rossi. «Allora, --- nel negozio!», dice Carlo Rossi. Ed Emma dice: «Carlo è il --- dei mariti!».
 
 
 
@@ -81,9 +81,9 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzcyODY0MywtMTUxNjQ1MDQ4MiwtNT
-YyMTI4MDgwLDI3MzY4NDQwOSw3MTMwNjkwMjIsMjA1OTAxMTg1
-MSwxODMxNjczMjg3LC0xNDI0NDM5MTgwLDIwMDQyMjE1MCwxNj
-UyODk4NjI4LDIxMTI4NzQyMDEsLTE3NTc4MDg4MDMsODE4ODU1
-MjY2LDQ5NTk1NjY4MF19
+eyJoaXN0b3J5IjpbMTEwNjY3MzAxLC0xNTE2NDUwNDgyLC01Nj
+IxMjgwODAsMjczNjg0NDA5LDcxMzA2OTAyMiwyMDU5MDExODUx
+LDE4MzE2NzMyODcsLTE0MjQ0MzkxODAsMjAwNDIyMTUwLDE2NT
+I4OTg2MjgsMjExMjg3NDIwMSwtMTc1NzgwODgwMyw4MTg4NTUy
+NjYsNDk1OTU2NjgwXX0=
 -->
