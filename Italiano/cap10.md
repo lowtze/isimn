@@ -61,7 +61,7 @@ C'è un paio di --- che --- molto alla signora Rossi. «Sono belli, ---?», dice
 
 ### ESERCIZIO C.
 
-Come son oi guanti che piacciono alla signora Rossi?
+Come sono i guanti che piacciono alla signora Rossi?
 
 Cosa dice Emma Benelli quando Carlo Rossi dice che vuole comprare i guanti che piacciono a sua moglie?
 
@@ -101,9 +101,9 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MTk2MzA4OCwtMTUxNjQ1MDQ4MiwtNT
-YyMTI4MDgwLDI3MzY4NDQwOSw3MTMwNjkwMjIsMjA1OTAxMTg1
-MSwxODMxNjczMjg3LC0xNDI0NDM5MTgwLDIwMDQyMjE1MCwxNj
-UyODk4NjI4LDIxMTI4NzQyMDEsLTE3NTc4MDg4MDMsODE4ODU1
-MjY2LDQ5NTk1NjY4MF19
+eyJoaXN0b3J5IjpbLTEzMTcxNzE1MDYsMTM2MTk2MzA4OCwtMT
+UxNjQ1MDQ4MiwtNTYyMTI4MDgwLDI3MzY4NDQwOSw3MTMwNjkw
+MjIsMjA1OTAxMTg1MSwxODMxNjczMjg3LC0xNDI0NDM5MTgwLD
+IwMDQyMjE1MCwxNjUyODk4NjI4LDIxMTI4NzQyMDEsLTE3NTc4
+MDg4MDMsODE4ODU1MjY2LDQ5NTk1NjY4MF19
 -->
