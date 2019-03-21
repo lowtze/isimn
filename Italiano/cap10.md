@@ -53,7 +53,7 @@ Bruno a Pietro: «Io chiamo Maria, ma lei non --- risponde. Perché?». Pietro: 
 
 ### ESERCIZIO B.
 
-In via del Corso, Carlo Rossi domanda a sua moglie:
+In via del Corso, Carlo Rossi domanda a sua moglie: «E ---, che cosa facciamo?». Sua moglie --- e domanda alla signora Benelli se ha --- ciò che ha detto suo marito. Carlo R
 
 
 
@@ -79,9 +79,9 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTY0NTA0ODIsLTU2MjEyODA4MCwyNz
-M2ODQ0MDksNzEzMDY5MDIyLDIwNTkwMTE4NTEsMTgzMTY3MzI4
-NywtMTQyNDQzOTE4MCwyMDA0MjIxNTAsMTY1Mjg5ODYyOCwyMT
-EyODc0MjAxLC0xNzU3ODA4ODAzLDgxODg1NTI2Niw0OTU5NTY2
-ODBdfQ==
+eyJoaXN0b3J5IjpbLTEzOTY4MDEwMzcsLTE1MTY0NTA0ODIsLT
+U2MjEyODA4MCwyNzM2ODQ0MDksNzEzMDY5MDIyLDIwNTkwMTE4
+NTEsMTgzMTY3MzI4NywtMTQyNDQzOTE4MCwyMDA0MjIxNTAsMT
+Y1Mjg5ODYyOCwyMTEyODc0MjAxLC0xNzU3ODA4ODAzLDgxODg1
+NTI2Niw0OTU5NTY2ODBdfQ==
 -->
