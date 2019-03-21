@@ -63,7 +63,17 @@ C'è un paio di --- che --- molto alla signora Rossi. «Sono belli, ---?», dice
 
 Come son oi guanti che piacciono alla signora Rossi?
 
-Cosa dice Emma Benelli quando Carlo Rossi dice che vuole comprare i guanti che piacciono a sua mogl
+Cosa dice Emma Benelli quando Carlo Rossi dice che vuole comprare i guanti che piacciono a sua moglie?
+
+Cosa fanno i bambini quando vedono i loro genitori entrare nel negozio di guanti?
+
+Cosa domanda Teresa Rossi alle bambine, quando le vede entrare nel negozio?
+
+Cosa le risponde Lucia?
+
+Cosa domanda Teresa Rossi alle tre bambine, quando mostra loro i guanti bianchi e neri?
+
+
 
 
 <!---
@@ -88,7 +98,7 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE4OTMyNiwtMTUxNjQ1MDQ4MiwtNT
+eyJoaXN0b3J5IjpbMTM0MDA5NTQ5OSwtMTUxNjQ1MDQ4MiwtNT
 YyMTI4MDgwLDI3MzY4NDQwOSw3MTMwNjkwMjIsMjA1OTAxMTg1
 MSwxODMxNjczMjg3LC0xNDI0NDM5MTgwLDIwMDQyMjE1MCwxNj
 UyODk4NjI4LDIxMTI4NzQyMDEsLTE3NTc4MDg4MDMsODE4ODU1
