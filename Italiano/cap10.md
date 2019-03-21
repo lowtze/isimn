@@ -35,7 +35,9 @@ Carlo Rossi: «Che cosa ---, Pia?». Pia: «--- un gelato, papà!». Carlo Rossi
 | il vostro | la vostra | i vostri | le vostre |
 | il loro | la loro | i loro | le loro |
 
-Teresa Rossi chiama le --- bambine ed i --- bambini. Maria risponde alla mamma prima di --- sorella e prima del fratellino Pietro. «Che cos'hai dato all --- mamma?», domanda Lucia. Maria: «Ho dato un ricamo alla --- mamma». Teresa Rossi: «Maria, dove sono i --- fratelli?». Maria: «I --- fratelli sono fuori». Giovanni: «Bruno, dove sono le --- sorelle?». Bruno: «Le --- sorelle e la --- sono insieme con le --- mamme». Lucia: «Maria e Pia, cos'avete dato alla --- mamma?». Maria e Pia: «Abbiamo dato un ricamo ed un fazzoletto alla --- mamma». Lucia: «E cosa le ha dato il --- papà?». Maria e Pia: «Il --- papà le ha dato un borsetta». Giovanni, a Bruno: «Che cos'ha dato --- fratello alla zia?». Bruno: «»
+Teresa Rossi chiama le --- bambine ed i --- bambini. Maria risponde alla mamma prima di --- sorella e prima del fratellino Pietro. «Che cos'hai dato all --- mamma?», domanda Lucia. Maria: «Ho dato un ricamo alla --- mamma». Teresa Rossi: «Maria, dove sono i --- fratelli?». Maria: «I --- fratelli sono fuori». Giovanni: «Bruno, dove sono le --- sorelle?». Bruno: «Le --- sorelle e la --- sono insieme con le --- mamme». Lucia: «Maria e Pia, cos'avete dato alla --- mamma?». Maria e Pia: «Abbiamo dato un ricamo ed un fazzoletto alla --- mamma». Lucia: «E cosa le ha dato il --- papà?». Maria e Pia: «Il --- papà le ha dato un borsetta». Giovanni, a Bruno: «Che cos'ha dato --- fratello alla zia?». Bruno: «--- fratello le ha dato un libro». I bambini hanno dato dei bei regali alla --- mamma. Anche il --- padre le ha dato un bel regalo. Dopo colazione, i genitori vanno in città con i --- figli e le --- figlie.
+
+
 
 <!---
 Footnotes
@@ -59,8 +61,8 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzE1MTkzOTQsMjczNjg0NDA5LDcxMz
-A2OTAyMiwyMDU5MDExODUxLDE4MzE2NzMyODcsLTE0MjQ0Mzkx
-ODAsMjAwNDIyMTUwLDE2NTI4OTg2MjgsMjExMjg3NDIwMSwtMT
-c1NzgwODgwMyw4MTg4NTUyNjYsNDk1OTU2NjgwXX0=
+eyJoaXN0b3J5IjpbLTU2MjEyODA4MCwyNzM2ODQ0MDksNzEzMD
+Y5MDIyLDIwNTkwMTE4NTEsMTgzMTY3MzI4NywtMTQyNDQzOTE4
+MCwyMDA0MjIxNTAsMTY1Mjg5ODYyOCwyMTEyODc0MjAxLC0xNz
+U3ODA4ODAzLDgxODg1NTI2Niw0OTU5NTY2ODBdfQ==
 -->
