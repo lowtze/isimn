@@ -37,7 +37,17 @@ Carlo Rossi: «Che cosa ---, Pia?». Pia: «--- un gelato, papà!». Carlo Rossi
 
 Teresa Rossi chiama le --- bambine ed i --- bambini. Maria risponde alla mamma prima di --- sorella e prima del fratellino Pietro. «Che cos'hai dato all --- mamma?», domanda Lucia. Maria: «Ho dato un ricamo alla --- mamma». Teresa Rossi: «Maria, dove sono i --- fratelli?». Maria: «I --- fratelli sono fuori». Giovanni: «Bruno, dove sono le --- sorelle?». Bruno: «Le --- sorelle e la --- sono insieme con le --- mamme». Lucia: «Maria e Pia, cos'avete dato alla --- mamma?». Maria e Pia: «Abbiamo dato un ricamo ed un fazzoletto alla --- mamma». Lucia: «E cosa le ha dato il --- papà?». Maria e Pia: «Il --- papà le ha dato un borsetta». Giovanni, a Bruno: «Che cos'ha dato --- fratello alla zia?». Bruno: «--- fratello le ha dato un libro». I bambini hanno dato dei bei regali alla --- mamma. Anche il --- padre le ha dato un bel regalo. Dopo colazione, i genitori vanno in città con i --- figli e le --- figlie.
 
+| dà |  |
+|:----:|:------:|
+| mi | a me |
+| ti | a te |
+| gli | a lui |
+| le | a lei |
+| ci | a noi |
+| vi | a vuoi |
+| loro | a loro |
 
+Bruno a Pietro: «Io chiamo Maria, ma lei non --- risponde.»
 
 <!---
 Footnotes
@@ -61,8 +71,9 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjEyODA4MCwyNzM2ODQ0MDksNzEzMD
-Y5MDIyLDIwNTkwMTE4NTEsMTgzMTY3MzI4NywtMTQyNDQzOTE4
-MCwyMDA0MjIxNTAsMTY1Mjg5ODYyOCwyMTEyODc0MjAxLC0xNz
-U3ODA4ODAzLDgxODg1NTI2Niw0OTU5NTY2ODBdfQ==
+eyJoaXN0b3J5IjpbMTg1NDQ2OTUxLC01NjIxMjgwODAsMjczNj
+g0NDA5LDcxMzA2OTAyMiwyMDU5MDExODUxLDE4MzE2NzMyODcs
+LTE0MjQ0MzkxODAsMjAwNDIyMTUwLDE2NTI4OTg2MjgsMjExMj
+g3NDIwMSwtMTc1NzgwODgwMyw4MTg4NTUyNjYsNDk1OTU2Njgw
+XX0=
 -->
