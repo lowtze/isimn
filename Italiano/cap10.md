@@ -47,7 +47,7 @@ Teresa Rossi chiama le --- bambine ed i --- bambini. Maria risponde alla mamma p
 | vi | a vuoi |
 | loro | a loro |
 
-Bruno a Pietro: «Io chiamo Maria, ma lei non --- risponde. Perché?». Pietro: «Maria non --- risponde perché non sente ciò che --- dici». La signora Rossi chiama suo marito e --- dice: «Guarda quella bella borsetta!». Pietro e Pia, al signor Rossi: «Papà, --- compri un gelato?». Il signor Rossi: «Sì, se volete --- compro»
+Bruno a Pietro: «Io chiamo Maria, ma lei non --- risponde. Perché?». Pietro: «Maria non --- risponde perché non sente ciò che --- dici». La signora Rossi chiama suo marito e --- dice: «Guarda quella bella borsetta!». Pietro e Pia, al signor Rossi: «Papà, --- compri un gelato?». Il signor Rossi: «Sì, se volete --- compro un gelato». E il signor Rossi chiama gli altri bambini e compra --- dei gelati. «E a --- non domandi se voglio un gelato?», dice la signora Rossi. Carlo Rossi: «Teresa, se vuoi un gelato ne compro uno anche per ---»
 
 <!---
 Footnotes
@@ -71,9 +71,9 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI4OTA1MzgsLTU2MjEyODA4MCwyNz
-M2ODQ0MDksNzEzMDY5MDIyLDIwNTkwMTE4NTEsMTgzMTY3MzI4
-NywtMTQyNDQzOTE4MCwyMDA0MjIxNTAsMTY1Mjg5ODYyOCwyMT
-EyODc0MjAxLC0xNzU3ODA4ODAzLDgxODg1NTI2Niw0OTU5NTY2
-ODBdfQ==
+eyJoaXN0b3J5IjpbMTcyMzExNTExNCwtNTYyMTI4MDgwLDI3Mz
+Y4NDQwOSw3MTMwNjkwMjIsMjA1OTAxMTg1MSwxODMxNjczMjg3
+LC0xNDI0NDM5MTgwLDIwMDQyMjE1MCwxNjUyODk4NjI4LDIxMT
+I4NzQyMDEsLTE3NTc4MDg4MDMsODE4ODU1MjY2LDQ5NTk1NjY4
+MF19
 -->
