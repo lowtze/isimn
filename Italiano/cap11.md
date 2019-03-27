@@ -2,6 +2,7 @@
 
 ![](../images/11.1.png)
 
+I Rossi hanno un grande appartamento. È un appartamento di otto stanze, una cucina e un corridoio. Le otto stanze dell'appartamento dei Rossi sono: le tre stanze da letto dei genitori e dei bambini, la sala da pranzo, il salotto --- dove va la famiglia dopo i pasti --
 
 
 
@@ -46,5 +47,6 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTM3ODI0MjYsMTI2MDM3NTIyM119
+eyJoaXN0b3J5IjpbLTQ0NzM4NTE5NywtMTY5Mzc4MjQyNiwxMj
+YwMzc1MjIzXX0=
 -->
