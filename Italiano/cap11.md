@@ -8,7 +8,9 @@ La cucina non è un stanza, e neppure il corridoio è una stanza. Si entra nel c
 
 Che cosa c'è nella camera dei genitori? Ci sono molte cose. Prima di tutto ci sono dei mobili, cioè; un letto, un armadio, una piccola tavola, un paio di sedie, eccetera. Ma ci sono molte altre cose nella camera dei genitori. Anche nelle camera dei bambini ci sono dei mobili: armadi, letti, sedie, ecc.
 
-E nella camera di Amelia, che mobili ci sono? Ci sono gli stessi mobili che nella camera dei genitori, ma molto meno belli: un letto, un armadio, un tavolino 
+E nella camera di Amelia, che mobili ci sono? Ci sono gli stessi mobili che nella camera dei genitori, ma molto meno belli: un letto, un armadio, un tavolino e una sedia. Nella stanza di Amelia c'è anche uno specchio, come in quella dei genitori, ma lo specchio dei genitori è più grande di quello di Amelia.
+
+
 
 
 
@@ -53,6 +55,6 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzA2NDg3NSwtOTUxNDE3NzQ3LC0xNj
+eyJoaXN0b3J5IjpbMTQ2NTEwMDQzNCwtOTUxNDE3NzQ3LC0xNj
 kzNzgyNDI2LDEyNjAzNzUyMjNdfQ==
 -->
