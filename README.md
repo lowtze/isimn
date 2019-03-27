@@ -17,4 +17,7 @@ I am learning Italian via this method and transcribing as I go along with plans 
 - [ ] add an answer key in back of book?
 - [ ] transcribe "Introduzione alla letteratura italiana" and accompanying "Parole e frasi" documents
 - [ ] proofread
-- [ ] after cap 10 upload first epub doc
+- [X] after cap 10 upload first epub doc
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjEyNDY0NTk4Ml19
+-->
