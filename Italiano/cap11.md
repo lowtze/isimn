@@ -6,7 +6,7 @@ I Rossi hanno un grande appartamento. È un appartamento di otto stanze, una cuc
 
 La cucina non è un stanza, e neppure il corridoio è una stanza. Si entra nel corridoio dell'entrata e da tutte le altre stanze fuorché da quella della donna di servizio. Se si vuole andare dalla stanza dei genitori in quella dei figli o dalla cucina in sala da pranzo, si deve prima andare nel corridoio, e dal corridoio poi si va nell'altra stanza. Però per passare dalla sala da pranzo in salotto non si deve prima andare nel corridoio, perché fra la sala da pranzo e il salotto c'è una porta. C'è una porta anche fra le stanze dei bambini, e ce n'è una fra la camera della donna e la cucina.
 
-
+Che cosa c'è nella camera dei genitori? Ci sono molte cose. Prima di tutto ci sono dei mobili, cioè; un letto, un armadio, una piccola tavola, un paio di sedie, 
 
 
 
@@ -51,6 +51,6 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MTQxNzc0NywtMTY5Mzc4MjQyNiwxMj
-YwMzc1MjIzXX0=
+eyJoaXN0b3J5IjpbLTI1MzI3MjE3OSwtOTUxNDE3NzQ3LC0xNj
+kzNzgyNDI2LDEyNjAzNzUyMjNdfQ==
 -->
