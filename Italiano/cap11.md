@@ -2,7 +2,7 @@
 
 ![](../images/11.1.png)
 
-I Rossi hanno un grande appartamento. È un appartamento di otto stanze, una cucina e un corridoio. Le otto stanze dell'appartamento dei Rossi sono: le tre stanze da letto dei genitori e dei bambini, la sala da pranzo, il salotto --- dove va la famiglia dopo i pasti --
+I Rossi hanno un grande appartamento. È un appartamento di otto stanze, una cucina e un corridoio. Le otto stanze dell'appartamento dei Rossi sono: le tre stanze da letto dei genitori e dei bambini, la sala da pranzo, il salotto --- dove va la famiglia dopo i pasti ---, il bagno, l'entrata, la camera di Amelia. Chi è Amelia? È la donna di servizio dei Rossi. Cosa fa Amelia? Essa prepara i pasti della famiglia e lava i piatti. Però non fa solo quello. 
 
 
 
@@ -47,6 +47,6 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzM4NTE5NywtMTY5Mzc4MjQyNiwxMj
+eyJoaXN0b3J5IjpbLTQzNzM2ODIxNiwtMTY5Mzc4MjQyNiwxMj
 YwMzc1MjIzXX0=
 -->
