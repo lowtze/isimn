@@ -14,7 +14,9 @@ Che cosa c'è nell'armadio dei genitori? Ci sono i loro vestiti. È un grandissi
 
 La signora Rossi ha molto più di cinque vestiti. Una donna ha sempre più vestiti di un uomo. Essa ha cinque vestiti chiari per la primavera e l'estate e quattro vestiti più scuri per l'autunno e l'inverno. Oltre a quei nove vestiti, essa ha tre sottane e cinque bluse. Molte volte essa si mette una sottana e una blusa invece di un vestito.
 
-Oggi, siccome è il suo compleanno, la signora Rossi si mette il suo bel vestito bianco a fiori gialli e rossi. Quel vestito le piace più di tutti gli altri e piace molto anche a suo marito. E siccome il sole d'aprile non è molto caldo, essa, prima di uscire dall'appartamento, si mette anche un soprabito. Si mette un soprabito chiaro, di primavera. (Nel principio d'aprile, le mattine sono un po' fredde, ma non molto). Anche le bambine si mettono dei soprabitini prima di uscire di casa. Il signor Rossi e i suoi due figli non si mettono il soprabito. Off
+Oggi, siccome è il suo compleanno, la signora Rossi si mette il suo bel vestito bianco a fiori gialli e rossi. Quel vestito le piace più di tutti gli altri e piace molto anche a suo marito. E siccome il sole d'aprile non è molto caldo, essa, prima di uscire dall'appartamento, si mette anche un soprabito. Si mette un soprabito chiaro, di primavera. (Nel principio d'aprile, le mattine sono un po' fredde, ma non molto). Anche le bambine si mettono dei soprabitini prima di uscire di casa. Il signor Rossi e i suoi due figli non si mettono il soprabito. Oggi fa troppo caldo ed essi si mettono solo la giacca. Quando fa freddo si mettono anche loro il soprabito.
+
+E i Benelli, che vestiti si mettono quando fa caldo come oggi per uscire di casa? La signora Benelli si mette un vestito grigio chiaro un po' più caldo di quello di Teresa Rossi e un soprabito un po
 
 
 
@@ -59,7 +61,7 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjY2NTMxOSw2NjAzNTA1OSwxNDY1MT
+eyJoaXN0b3J5IjpbLTk4NzMwMjc2Myw2NjAzNTA1OSwxNDY1MT
 AwNDM0LC05NTE0MTc3NDcsLTE2OTM3ODI0MjYsMTI2MDM3NTIy
 M119
 -->
