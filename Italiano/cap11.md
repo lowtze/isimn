@@ -14,7 +14,7 @@ Che cosa c'è nell'armadio dei genitori? Ci sono i loro vestiti. È un grandissi
 
 La signora Rossi ha molto più di cinque vestiti. Una donna ha sempre più vestiti di un uomo. Essa ha cinque vestiti chiari per la primavera e l'estate e quattro vestiti più scuri per l'autunno e l'inverno. Oltre a quei nove vestiti, essa ha tre sottane e cinque bluse. Molte volte essa si mette una sottana e una blusa invece di un vestito.
 
-Oggi, siccome è il suo compleanno, la signora Rossi si mette il suo bel vestito bianco a fiori gialli e rossi. Quel vestito le piace più di tutti gli altri e piace molto anche a suo marito. E siccome il sole d'aprile non èì mo
+Oggi, siccome è il suo compleanno, la signora Rossi si mette il suo bel vestito bianco a fiori gialli e rossi. Quel vestito le piace più di tutti gli altri e piace molto anche a suo marito. E siccome il sole d'aprile non è molto caldo, essa, prima di uscire dall'appartamento, si mette anche un soprabito. Si mette un soprabito chiaro, di primavera. (Nel principio d'aprile, le mattine sono un po' fredde, ma non molto). Anche le bambine si mettono dei soprabitini prima di uscire di casa. 
 
 
 
@@ -59,6 +59,6 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTQ3ODk0OSwxNDY1MTAwNDM0LC05NT
-E0MTc3NDcsLTE2OTM3ODI0MjYsMTI2MDM3NTIyM119
+eyJoaXN0b3J5IjpbNjYwMzUwNTksMTQ2NTEwMDQzNCwtOTUxND
+E3NzQ3LC0xNjkzNzgyNDI2LDEyNjAzNzUyMjNdfQ==
 -->
