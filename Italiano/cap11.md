@@ -12,7 +12,9 @@ E nella camera di Amelia, che mobili ci sono? Ci sono gli stessi mobili che nell
 
 Che cosa c'è nell'armadio dei genitori? Ci sono i loro vestiti. È un grandissimo armadio, e a sinistra ci sono i vestiti del signor Rossi, cioè: i suoi calzoni e le sue giacche. Egli ha cinque paia di di calzoni: un paio di calzoni neri, due paia di calzoni bruni e due paia di calzoni grigi --- un paio di calzoni color grigio chiaro e un paio di color grigio scuro. Il signor Rossi ha pure cinque giacche: una nera, due brune --- l'una chiara, l'altra scura, e due grigie --- una grigio chiaro e una grigio scuro.
 
-La signora Rossi ha molto più di cinque vestiti. Una donna ha sempre più vestiti di un uomo. Essa ha cinque vestiti chiari per la primavera e l'estate e quattro vestiti più scuri per l'autunno e l'inverno. Oltre a quei nove vestiti, 
+La signora Rossi ha molto più di cinque vestiti. Una donna ha sempre più vestiti di un uomo. Essa ha cinque vestiti chiari per la primavera e l'estate e quattro vestiti più scuri per l'autunno e l'inverno. Oltre a quei nove vestiti, essa ha tre sottane e cinque bluse. Molte volte essa si mette una sottana e una blusa invece di un vestito.
+
+Oggi, siccome è il suo compleanno, la signora Rossi si mette il suo bel vestito bianco a fiori gialli e rossi. Quel vestito le piace più di tutti gli altri e piace molto anche a suo marito. E siccome il sole d'aprile non èì mo
 
 
 
@@ -57,6 +59,6 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyMjkyNDk5LDE0NjUxMDA0MzQsLTk1MT
-QxNzc0NywtMTY5Mzc4MjQyNiwxMjYwMzc1MjIzXX0=
+eyJoaXN0b3J5IjpbMTk0MTQ3ODk0OSwxNDY1MTAwNDM0LC05NT
+E0MTc3NDcsLTE2OTM3ODI0MjYsMTI2MDM3NTIyM119
 -->
