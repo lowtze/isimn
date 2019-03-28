@@ -20,6 +20,8 @@ E i Benelli, che vestiti si mettono quando fa caldo come oggi per uscire di casa
 
 Quando i Rossi hanno comprato i guanti in via del Corso erano le dieci. Ora sono le dodici e un quarto. I Benelli e i Rossi si dicono: «Arrivederci!», poi ogni famiglia torna a casa sua.
 
+Quando la famiglia Rossi è tornata a casa, la signora Rossi e le due bambine si levano il soprabito in entrata, prima di entrare in salotto. Il signor Rossi e i suoi figli non si levano la giacca perché l'appartamento dei Rossi, in aprile, è un po' freddo.
+
 
 
 
@@ -64,7 +66,7 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODg2NTQ5NjIsLTIwNTYzMjcyODEsLT
-Y5NzY3NTAzOSw2NjAzNTA1OSwxNDY1MTAwNDM0LC05NTE0MTc3
-NDcsLTE2OTM3ODI0MjYsMTI2MDM3NTIyM119
+eyJoaXN0b3J5IjpbMTE3MzI5MjQyMiwtMjA1NjMyNzI4MSwtNj
+k3Njc1MDM5LDY2MDM1MDU5LDE0NjUxMDA0MzQsLTk1MTQxNzc0
+NywtMTY5Mzc4MjQyNiwxMjYwMzc1MjIzXX0=
 -->
