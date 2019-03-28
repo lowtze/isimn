@@ -10,7 +10,7 @@ Che cosa c'è nella camera dei genitori? Ci sono molte cose. Prima di tutto ci s
 
 E nella camera di Amelia, che mobili ci sono? Ci sono gli stessi mobili che nella camera dei genitori, ma molto meno belli: un letto, un armadio, un tavolino e una sedia. Nella stanza di Amelia c'è anche uno specchio, come in quella dei genitori, ma lo specchio dei genitori è più grande di quello di Amelia.
 
-Che cosa c'è nell'armadio dei genitori? Ci sono i loro vestiti. È un grandissimo armadio, e a sinistra ci sono i vestiti del signor Rossi, cioè: i suoi calzoni e le sue giacche. Egli ha cinque paia di di calzoni: 
+Che cosa c'è nell'armadio dei genitori? Ci sono i loro vestiti. È un grandissimo armadio, e a sinistra ci sono i vestiti del signor Rossi, cioè: i suoi calzoni e le sue giacche. Egli ha cinque paia di di calzoni: un paio di calzoni neri, due paia di calzoni bruni e due paia di calzoni grigi --- un paio di calzoni color grigio chiaro e un paio di color grigio scuro. Il signor Rossi ha pure cinque giacche: una nera, due brune --- l'una chiara, l'altra scura, e due grigie --- una grigio chiaro e una girgio scuro. 
 
 
 
@@ -55,6 +55,6 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyNzI4MzAsMTQ2NTEwMDQzNCwtOTUxND
-E3NzQ3LC0xNjkzNzgyNDI2LDEyNjAzNzUyMjNdfQ==
+eyJoaXN0b3J5IjpbLTMwMjA4ODk4MiwxNDY1MTAwNDM0LC05NT
+E0MTc3NDcsLTE2OTM3ODI0MjYsMTI2MDM3NTIyM119
 -->
