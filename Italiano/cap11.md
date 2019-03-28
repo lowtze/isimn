@@ -18,6 +18,8 @@ Oggi, siccome è il suo compleanno, la signora Rossi si mette il suo bel vestito
 
 E i Benelli, che vestiti si mettono quando fa caldo come oggi per uscire di casa? La signora Benelli si mette un vestito grigio chiaro un po' più caldo di quello di Teresa Rossi e un soprabito un po' più scuro. Il signor Benelli si mette un paio di calzoni grigio chiaro e una giacca un po' più scura, con un po' di bruno.
 
+Quando i Rossi hanno comprato i guanti in via del Corso erano le dieci. Ora sono le dodici e un quarto. I Benelli e i Rossi si dicono: «Arrivederci!», poi ogni famiglia torna a casa sua.
+
 
 
 
@@ -62,7 +64,7 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTYzMjcyODEsLTY5NzY3NTAzOSw2Nj
-AzNTA1OSwxNDY1MTAwNDM0LC05NTE0MTc3NDcsLTE2OTM3ODI0
-MjYsMTI2MDM3NTIyM119
+eyJoaXN0b3J5IjpbLTIwODg2NTQ5NjIsLTIwNTYzMjcyODEsLT
+Y5NzY3NTAzOSw2NjAzNTA1OSwxNDY1MTAwNDM0LC05NTE0MTc3
+NDcsLTE2OTM3ODI0MjYsMTI2MDM3NTIyM119
 -->
