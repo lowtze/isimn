@@ -22,7 +22,7 @@ Quando i Rossi hanno comprato i guanti in via del Corso erano le dieci. Ora sono
 
 Quando la famiglia Rossi è tornata a casa, la signora Rossi e le due bambine si levano il soprabito in entrata, prima di entrare in salotto. Il signor Rossi e i suoi figli non si levano la giacca perché l'appartamento dei Rossi, in aprile, è un po' freddo.
 
-
+All'una meno cinque, Amelia apre la porta fra il salotto e la sala da pranzo e dice: «Il pranzo è in tavola, signora!». «Grazie, Amelia!», risponde Teresa Rossi. Poi dice ai bambini di mostrarle le mani: «Mostratemi le mani, Pie»
 
 
 
@@ -66,7 +66,7 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzI5MjQyMiwtMjA1NjMyNzI4MSwtNj
-k3Njc1MDM5LDY2MDM1MDU5LDE0NjUxMDA0MzQsLTk1MTQxNzc0
-NywtMTY5Mzc4MjQyNiwxMjYwMzc1MjIzXX0=
+eyJoaXN0b3J5IjpbNDkyNDE2NTE1LDExNzMyOTI0MjIsLTIwNT
+YzMjcyODEsLTY5NzY3NTAzOSw2NjAzNTA1OSwxNDY1MTAwNDM0
+LC05NTE0MTc3NDcsLTE2OTM3ODI0MjYsMTI2MDM3NTIyM119
 -->
