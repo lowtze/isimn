@@ -24,7 +24,7 @@ Quando la famiglia Rossi è tornata a casa, la signora Rossi e le due bambine si
 
 All'una meno cinque, Amelia apre la porta fra il salotto e la sala da pranzo e dice: «Il pranzo è in tavola, signora!». «Grazie, Amelia!», risponde Teresa Rossi. Poi dice ai bambini di mostrarle le mani: «Mostratemi le mani, Pia e Pietro!». Ma Pia non mostra le mani alla mamma. Teresa Rossi: «Perché non vuoi mostrarmi le mani, Pia?». Allora Pia mostra le mani alla mamma. Teresa Rossi: «Ma Pia! Sono sporche le tue mani! Sono nere! Che cos'hai fatto in città?». Pia: «Io non ho fatto niente, mammina». Ma Teresa Rossi dice: «Se vuoi pranzare con noi, va nel bagno con Maria!». «Sì, mammina!». E la Pia e Maria vanno insieme nel bagno e si lavano le mani. Poi, quando si sono lavate, vanno in sala da pranzo.
 
-Mentre Pia e Maria vanno nel bagno per lavarsi le mani, Teresa Rossi dice a Pietro: «E ora, mostrami le mani anche tu!». Pietro mostra le mani a sua madre, che dice: «Ma Pietro!Hai le mani ancora più sporche della Pia! Perché non ti lavi le mani, Pietro?»
+Mentre Pia e Maria vanno nel bagno per lavarsi le mani, Teresa Rossi dice a Pietro: «E ora, mostrami le mani anche tu!». Pietro mostra le mani a sua madre, che dice: «Ma Pietro!Hai le mani ancora più sporche della Pia! Perché non ti lavi le mani, Pietro?». Pietro: «Ma mamma, io ma le lavo ogni giorno!». Teresa Rossi: «Quante volte al giorno te le lavi?». Pietro: «Mi lavo le mani due o tre volte al giorno!». Teresa Rossi: «Ma Pietro! È troppo poco! Maria se le lava più di cinque o sei volte al giorno, e papà ed io ce »
 
 
 
@@ -68,7 +68,7 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Nzk3OTY4LC04ODYzMzc2NzMsMTE3Mz
+eyJoaXN0b3J5IjpbNDM5MzEwMDMxLC04ODYzMzc2NzMsMTE3Mz
 I5MjQyMiwtMjA1NjMyNzI4MSwtNjk3Njc1MDM5LDY2MDM1MDU5
 LDE0NjUxMDA0MzQsLTk1MTQxNzc0NywtMTY5Mzc4MjQyNiwxMj
 YwMzc1MjIzXX0=
