@@ -26,7 +26,7 @@ All'una meno cinque, Amelia apre la porta fra il salotto e la sala da pranzo e d
 
 Mentre Pia e Maria vanno nel bagno per lavarsi le mani, Teresa Rossi dice a Pietro: «E ora, mostrami le mani anche tu!». Pietro mostra le mani a sua madre, che dice: «Ma Pietro!Hai le mani ancora più sporche della Pia! Perché non ti lavi le mani, Pietro?». Pietro: «Ma mamma, io ma le lavo ogni giorno!». Teresa Rossi: «Quante volte al giorno te le lavi?». Pietro: «Mi lavo le mani due o tre volte al giorno!». Teresa Rossi: «Ma Pietro! È troppo poco! Maria se le lava più di cinque o sei volte al giorno, e papà ed io ce le laviamo pure molte volte al giorno!». Pietro: «Maria è una bambina! E voi ve le lavate tutto il giorno, le mani!». Teresa Rossi: «Pietro! Anche tu devi lavarti le mani molte volte al giorno! Va in bagno e lavati le mani anche tu! E Bruno pure: lavatevi le mani tutti e due, e poi andate in sala da pranzo!». E i due fratelli vanno insieme in bagno e si lavano le mani anche loro, come le bambine. (Ora i due fratelli sono grandi, e non è la mamma che lava loro le mani, ma prima sì, era lei. Oggi Pietro si lava sempre le mani da solo, e non gliele lavano più né Maria né la mamma, ma Pia è ancora piccola e non sempre si lava le mani da sola; molte volte, come oggi, gliele lavae Maria). Quando i due fratelli si sono lavati, vanno anche loro in sala da pranzo.
 
-
+Dopo i bambini, sono i genitori che si lavano le mani: prima la madre, poi il padre. Dopo che Teresa Rossi si è lavata le mani, essa se le asciuga. Se le asciuga coll'asciugamano. (Nella stanza da bagno ci sono tre asciugamani). Poi esce dal 
 
 
 
@@ -70,8 +70,8 @@ Footnotes
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTA2NzQ5NiwtODg2MzM3NjczLDExNz
-MyOTI0MjIsLTIwNTYzMjcyODEsLTY5NzY3NTAzOSw2NjAzNTA1
-OSwxNDY1MTAwNDM0LC05NTE0MTc3NDcsLTE2OTM3ODI0MjYsMT
-I2MDM3NTIyM119
+eyJoaXN0b3J5IjpbMTQzMTQ0MTc1NCwyMDk1MDY3NDk2LC04OD
+YzMzc2NzMsMTE3MzI5MjQyMiwtMjA1NjMyNzI4MSwtNjk3Njc1
+MDM5LDY2MDM1MDU5LDE0NjUxMDA0MzQsLTk1MTQxNzc0NywtMT
+Y5Mzc4MjQyNiwxMjYwMzc1MjIzXX0=
 -->
