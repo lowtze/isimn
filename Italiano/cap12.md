@@ -2,10 +2,10 @@
 
 Nell'entrata dell'appartamento dei Rossi c'è un campanello. Quando qualcuno vuol entrare nell'appartamento, egli suona il campanello. Amelia allora va alla porta e domanda: «Chi è?». Poi, quando quello che ha suonato ha risposto alla sua domanda e le ha detto il suo nome, essa apre la porta. Però non sempre lascia entrare quello che ha suonato: lo lascia entrare solo se è qualcuno che conosce i Rossi e che i Rossi conoscono. Allora, se il signore o la signora Rossi sonno in casa, Amelia fa entrare in salotto e va a dire che c'è il signore o la signora X (e Amelia dice il nome della persona), che vuol vedere la signora o suo marito. Se invece i Rossi non conoscono quello che ha suonato, o se essi non sono in casa, Amelia non lo lascia entrare. Molte volte egli viene da un negozio e ha qualcosa per la famiglia Rossi: un vestito, un paio di scarpe, un paio di calzoni. Altre volte egli ha qualcosa per la cucina: della frutta, del latte, del burro, del formaggio, un pollo o qualcos'altro. Altre volte ancora, quello che ha suonato non conosce i Rossi, ma vuol dire qualcosa al signor Rossi o a sua moglie. Allora Amelia lo fa entrare e gli dice di aspettare nell'entrata. Poi essa va a dire ai Rossi che c'è qualcuno che vuol parlare al signore o alla signora. Carlo o Teresa Rossi vanno allora in entrata e fanno entrare in salotto quello che aspetta. Molte volte, però, gli parlano nell'entrata. Stasera, il campanello suona alle sette e mezzo e Amelia va a vedere chi è. Sono il signor Mario Perri e la signore Gina Perri. Stasera Teresa Rossi ha invitato i Perri a cena perché è il suo compleanno. Teresa Rossi invita sempre qualcuno per il suo compleanno. Quando Amelia vede che sono i Perri che han suonato, essa li fa entrare, prende il soprabito della signora Perri e quello del signor Perri, poi fa entrare gli invitati in salotto e torna in cucina.
 
-
+In salotto c'è la signora Rossi, che dice ai Perri: «Buona sera, caro signor Perri! Buona sera, cara Gina! 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDQ5MTE0MiwtMTAwODM4ODU0OCw1OD
-Q5MDA2OTddfQ==
+eyJoaXN0b3J5IjpbMTc3MDU1MTM4MiwxNTEwNDkxMTQyLC0xMD
+A4Mzg4NTQ4LDU4NDkwMDY5N119
 -->
