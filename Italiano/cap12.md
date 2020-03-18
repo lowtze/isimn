@@ -4,10 +4,10 @@ Nell'entrata dell'appartamento dei Rossi c'è un campanello. Quando qualcuno vuo
 
 In salotto c'è la signora Rossi, che dice ai Perri: «Buona sera, caro signor Perri! Buona sera, cara Gina! Come stai?». Gina Perri: «Io sto bene, grazie. E voi altri come state?». Teresa Rossi: «Stiamo tutti bene, grazie. E Lei, signor Perri, sta bene?». Mario Perri: «Benissimo, grazie». Teresa Rossi dice «tu» e «Gina» alla signora Perri, perché esse si conoscono molto bene. Gina Perri e Teresa Rossi sono fiorentine tutte e due. A Firenze Gina stava nella stessa casa di Teresa, e Teresa è la sua migliore amica. Il signor Perri a Teresa Rossi, invece, si conoscono molto meno bene, e perciò Teresa Rossi non dice «tu» e «Mario» al signor Perri, ma «Lei» e «signor Perri». Le persone che si conoscono molto bene e i bambini si danno del tu, mentre le persone che non si conoscono molto bene e quelle che non si conoscono si danno del Lei. Il signor Perri dà un bellissimo mazzo di fiori alla signora Rossi e le dice: «Auguri, cara signora!». Teresa Rossi ringrazia il signor Perri: «Mille grazie, signor Perri! Come sono belli!». Poi chiama la Maria. Quando Maria entra in salotto, sua madre le dà il mazzo di fiori e la prega di metterlo in un bel vaso: «Cara Mariuccia, vuoi mettere i fiori del signor Perri nel mio vaso veneziano?». Prima la Maria saluta i Perri: «Buona sera, signor Perri! Buona sera, zia Gina!», poi prende i fiori e va a metterli nel vaso veneziano.
 
-
+Alle otto meno un quarto suona di nuovo il campanello. Amelia apre di nuovo, prende i soprabiti degli invitati, poi li fa entrare in salotto. Questa volta sono i Benelli: Emma e Gino, e Lucia e Alberto Rossi. Anch'essi danno ciascuno un mazzo di fiori 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3OTQzNjE3LDE1MTA0OTExNDIsLTEwMD
-gzODg1NDgsNTg0OTAwNjk3XX0=
+eyJoaXN0b3J5IjpbMTQ3NjU1Nzc1Myw2MDc5NDM2MTcsMTUxMD
+Q5MTE0MiwtMTAwODM4ODU0OCw1ODQ5MDA2OTddfQ==
 -->
