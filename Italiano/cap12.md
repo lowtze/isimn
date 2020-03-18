@@ -8,10 +8,10 @@ Alle otto meno un quarto suona di nuovo il campanello. Amelia apre di nuovo, pre
 
 Poi i Benelli, i Rossi e i Perri si salutano: «Buona sera, signora Perri!» dice Gino Benelli, «come sta?». Gina Perri: «Bene, grazie! E Lei?». Gino Benelli: «Benissimo, grazie! Ciao, Mario!». «Ciao, Gino!» Gino Benelli e Mario Perri si dicono «ciao» perché si conoscono da molti anni, e si danno del tu. Essi sono amici. Gli altri si dicono «buona sera» e si danno del Lei.
 
-
+Or entra in salotto il signor Rossi, e poi entrano i bambini. Tutti si salutano, i bambini danno un bacio agli zii, alle zie e alla signora Perri, che essi chiamano pure «zia». Alle otto Amelia apre la porta fra il salotto e la sala da pranzo e dice: «La cena è in tavola!» 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI5NTU0MTgsNjA3OTQzNjE3LDE1MT
-A0OTExNDIsLTEwMDgzODg1NDgsNTg0OTAwNjk3XX0=
+eyJoaXN0b3J5IjpbMTYxMTg1NjU2MSw2MDc5NDM2MTcsMTUxMD
+Q5MTE0MiwtMTAwODM4ODU0OCw1ODQ5MDA2OTddfQ==
 -->
