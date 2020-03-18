@@ -6,10 +6,12 @@ In salotto c'è la signora Rossi, che dice ai Perri: «Buona sera, caro signor P
 
 Alle otto meno un quarto suona di nuovo il campanello. Amelia apre di nuovo, prende i soprabiti degli invitati, poi li fa entrare in salotto. Questa volta sono i Benelli: Emma e Gino, e Lucia e Alberto Rossi. Anch'essi danno ciascuno un mazzo di fiori a Teresa Rossi, la quale li ringrazia molto e prega di nuovo la Maria di metter li in un vaso.
 
-Poi i Benelli, i Rossi e i Perri si salutano: «Buona sera, signora Perri!» dice Gino Benelli, «come sta?». Gina Perri: «Bene, grazie! E Lei?». Gino Benelli: «Benissimo, grazie! Ciao, Mario!». «Ciao, Gino!» 
+Poi i Benelli, i Rossi e i Perri si salutano: «Buona sera, signora Perri!» dice Gino Benelli, «come sta?». Gina Perri: «Bene, grazie! E Lei?». Gino Benelli: «Benissimo, grazie! Ciao, Mario!». «Ciao, Gino!» Gino Benelli e Mario Perri si dicono «ciao» perché si conoscono da molti anni, e si danno del tu. Essi sono amici. Gli altri si dicono «buona sera» e si danno del Lei.
+
+
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzYwMTE0Miw2MDc5NDM2MTcsMTUxMD
-Q5MTE0MiwtMTAwODM4ODU0OCw1ODQ5MDA2OTddfQ==
+eyJoaXN0b3J5IjpbLTE4NzI5NTU0MTgsNjA3OTQzNjE3LDE1MT
+A0OTExNDIsLTEwMDgzODg1NDgsNTg0OTAwNjk3XX0=
 -->
