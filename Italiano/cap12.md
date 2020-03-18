@@ -10,10 +10,10 @@ Poi i Benelli, i Rossi e i Perri si salutano: «Buona sera, signora Perri!» dic
 
 Or entra in salotto il signor Rossi, e poi entrano i bambini. Tutti si salutano, i bambini danno un bacio agli zii, alle zie e alla signora Perri, che essi chiamano pure «zia». Alle otto Amelia apre la porta fra il salotto e la sala da pranzo e dice: «La cena è in tavola!» Allora signora Rossi prega i suoi invitati di mettersi a tavola.
 
-Stasera a cena ci sono quattro piatti, e il primo piatto è una minestra. (La minestra si versa nei piatti e si mangia col cucchiaio). Quando gli invitati hanno cominciato a mangiare la minestra, dicono a Tersa Rossi: «È buonissima! — Chi ha fatto questa minestra? Amelia?». «Sì», risponde Teresa Rossi. «Come la fa?», domanda Gina Perri. teres
+Stasera a cena ci sono quattro piatti, e il primo piatto è una minestra. (La minestra si versa nei piatti e si mangia col cucchiaio). Quando gli invitati hanno cominciato a mangiare la minestra, dicono a Tersa Rossi: «È buonissima! — Chi ha fatto questa minestra? Amelia?». «Sì», risponde Teresa Rossi. «Come la fa?», domanda Gina Perri. Teresa Rossi non lo sa e risponde: «Non so come la fa». Gina Perri: «Non sai come la tua donna fa le minestre? Ma Teresa!». Teresa Rossi ride e dice: «Cara Gina! Le minestre sono la specialità di Amelia; essa sa farne 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjU5NTM4Niw2MDc5NDM2MTcsMTUxMD
+eyJoaXN0b3J5IjpbLTY3OTc3MzQ0Nyw2MDc5NDM2MTcsMTUxMD
 Q5MTE0MiwtMTAwODM4ODU0OCw1ODQ5MDA2OTddfQ==
 -->
