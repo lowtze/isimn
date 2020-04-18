@@ -12,7 +12,7 @@ I am learning Italian via this method and transcribing as I go along with plans 
 
 - [X] finish migrating current images (cap 1-8) to local storage
 - [ ] finish adding footnotes to existing chapters
-- [ ] finish cap 9-50
+- [ ] finish cap 12-50
 - [ ] add index in back of vocab introduced by chapter
 - [ ] add an answer key in back of book?
 - [ ] transcribe "Introduzione alla letteratura italiana" and accompanying "Parole e frasi" documents
