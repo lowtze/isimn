@@ -14,11 +14,11 @@ Stasera a cena ci sono quattro piatti, e il primo piatto è una minestra. (La mi
 
 Essa prende la zuppiera, nella quale non c'è più che un pochino di minestra, e il cestino del pane. Poi esce. Carlos Rossi allora dice: «Caro signor Perri, il Suo bicchiere è vuoto! Devo darLe ancora un po' di vino?». Mario Perri: «Sì, grazie, è molto buono questo vino!». Carlo Rossi versa del vino nel bicchiere del signor Perri, e quando il bicchiere è pieno, Mario Perri dice: «Grazie!». Anche i bicchieri di Gino Benelli e di Alberto Rossi sono vuoti, perché essi hanno bevuto il loro vino, e Carlo Rossi verse del vino anche nei loro bicchieri. Quando sono pieni, anch'essi dicono: «Mille grazie, Carlo!». Poco dopo Amelia torna con la zuppiera, la quale ora è di nuovo piena di minestra. Essa mette la zuppiera, poi esce una seconda volta e quando torna ha in mano il cestino pieno di pane. Mette anche questo in tavola, davanti al signor Rossi, poi torna in cucina.
 
-«Vuoi ancora un po' di minestra, Gina?».
+«Vuoi ancora un po' di minestra, Gina?», domanda Teresa Rossi. «No, grazie, Teresa», risponde Gina Perri, che non può mangiare più di due piatti di minestra, «è buonissima, ma se me ne dai ancora, non posso mangiar altro». «Se non puoi più mangiarne, non te ne do più, c
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk0NTk3ODQsLTcwNDg1MTE0MSw2MD
-c5NDM2MTcsMTUxMDQ5MTE0MiwtMTAwODM4ODU0OCw1ODQ5MDA2
-OTddfQ==
+eyJoaXN0b3J5IjpbMTY2MjEwMTM1MywtNzA0ODUxMTQxLDYwNz
+k0MzYxNywxNTEwNDkxMTQyLC0xMDA4Mzg4NTQ4LDU4NDkwMDY5
+N119
 -->
