@@ -16,13 +16,13 @@ Essa prende la zuppiera, nella quale non c'è più che un pochino di minestra, e
 
 «Vuoi ancora un po' di minestra, Gina?», domanda Teresa Rossi. «No, grazie, Teresa», risponde Gina Perri, che non può mangiare più di due piatti di minestra, «è buonissima, ma se me ne dai ancora, non posso mangiar altro». «Se non puoi più mangiarne, non te ne do più, cara Gina! Ma Lei, signor Perri?', domanda allora Teresa Rossi, «Lei può mangiarne ancora un pochino, no?». «Grazie, signora Rossi», risponde Mario Perri, «con piacere!». Egli porge il suo piatto a Teresa Rossi, la quale ci versa della minestra e domanda poi ai Benelli: «Ne volete ancora un po'?». I Benelli: «Sì, grazie, ma se ce ne dai solo un pochino». Teresa: «Ve ne do quanto volete». Teresa Rossi ne dà loro un mezzo piatto e poi domanda a suo marito e ai bambini se ne vogliono ancora un po' anche loro. Carlo Rossi risponde: «Con piacere!», ma i bambini dicono: «No, grazie, mamma!». Teresa Rossi: «Che cosa dite? Non potete mangiare un piatto e mezzo di minestra?». I bambini: «No, mamma, non possiamo!», e dicono che se ne mangiano ancora, non possono mangiare gli altri piatti. 
 
-Quando tutti hanno mangiato un piatto o più
+Quando tutti hanno mangiato un piatto o più di minestra, Amelia prende i piatti sporchi e li porta in cucina. Poi porta in cucina la zuppiera e torna con un gran piatto che pone in mezzo alla tavola, davanti al signor Rossi. Nel piatto c'è un bellissimo arrosto di vitello. Anche questo piatto è una delle specialità di Amelia. Insime
 
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzU3MjE3MSwtMTU1MjczMTc2Miw0MT
-Y1ODQ3NTQsLTcwNDg1MTE0MSw2MDc5NDM2MTcsMTUxMDQ5MTE0
-MiwtMTAwODM4ODU0OCw1ODQ5MDA2OTddfQ==
+eyJoaXN0b3J5IjpbLTYzMjcxMDk3LC0xNTUyNzMxNzYyLDQxNj
+U4NDc1NCwtNzA0ODUxMTQxLDYwNzk0MzYxNywxNTEwNDkxMTQy
+LC0xMDA4Mzg4NTQ4LDU4NDkwMDY5N119
 -->
