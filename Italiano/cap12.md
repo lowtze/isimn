@@ -16,9 +16,11 @@ Essa prende la zuppiera, nella quale non c'è più che un pochino di minestra, e
 
 «Vuoi ancora un po' di minestra, Gina?», domanda Teresa Rossi. «No, grazie, Teresa», risponde Gina Perri, che non può mangiare più di due piatti di minestra, «è buonissima, ma se me ne dai ancora, non posso mangiar altro». «Se non puoi più mangiarne, non te ne do più, cara Gina! Ma Lei, signor Perri?', domanda allora Teresa Rossi, «Lei può mangiarne ancora un pochino, no?». «Grazie, signora Rossi», risponde Mario Perri, «con piacere!». Egli porge il suo piatto a Teresa Rossi, la quale ci versa della minestra e domanda poi ai Benelli: «Ne volete ancora un po'?». I Benelli: «Sì, grazie, ma se ce ne dai solo un pochino». Teresa: «Ve ne do quanto volete». Teresa Rossi ne dà loro un mezzo piatto e poi domanda a suo marito e ai bambini se ne vogliono ancora un po' anche loro. 
 
+
+
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2NTg0NzU0LC03MDQ4NTExNDEsNjA3OT
-QzNjE3LDE1MTA0OTExNDIsLTEwMDgzODg1NDgsNTg0OTAwNjk3
-XX0=
+eyJoaXN0b3J5IjpbLTE1NTI3MzE3NjIsNDE2NTg0NzU0LC03MD
+Q4NTExNDEsNjA3OTQzNjE3LDE1MTA0OTExNDIsLTEwMDgzODg1
+NDgsNTg0OTAwNjk3XX0=
 -->
