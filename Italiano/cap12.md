@@ -14,13 +14,13 @@ Stasera a cena ci sono quattro piatti, e il primo piatto è una minestra. (La mi
 
 Essa prende la zuppiera, nella quale non c'è più che un pochino di minestra, e il cestino del pane. Poi esce. Carlos Rossi allora dice: «Caro signor Perri, il Suo bicchiere è vuoto! Devo darLe ancora un po' di vino?». Mario Perri: «Sì, grazie, è molto buono questo vino!». Carlo Rossi versa del vino nel bicchiere del signor Perri, e quando il bicchiere è pieno, Mario Perri dice: «Grazie!». Anche i bicchieri di Gino Benelli e di Alberto Rossi sono vuoti, perché essi hanno bevuto il loro vino, e Carlo Rossi verse del vino anche nei loro bicchieri. Quando sono pieni, anch'essi dicono: «Mille grazie, Carlo!». Poco dopo Amelia torna con la zuppiera, la quale ora è di nuovo piena di minestra. Essa mette la zuppiera, poi esce una seconda volta e quando torna ha in mano il cestino pieno di pane. Mette anche questo in tavola, davanti al signor Rossi, poi torna in cucina.
 
-«Vuoi ancora un po' di minestra, Gina?», domanda Teresa Rossi. «No, grazie, Teresa», risponde Gina Perri, che non può mangiare più di due piatti di minestra, «è buonissima, ma se me ne dai ancora, non posso mangiar altro». «Se non puoi più mangiarne, non te ne do più, cara Gina! Ma Lei, signor Perri?', domanda allora Teresa Rossi, «Lei può mangiarne ancora un pochino, no?». «Grazie, signora Rossi», risponde Mario Perri, «con piacere!». Egli porge il suo piatto a Teresa Rossi, la quale ci versa della minestra e domanda poi ai Benelli: «Ne volete ancora un po'?». I Benelli: «Sì, grazie, ma se ce ne dai solo un pochino». Teresa: «Ve ne do quanto volete». Teresa Rossi ne dà loro un mezzo piatto e poi domanda a suo marito e ai bambini se ne vogliono ancora un po' anche loro. 
+«Vuoi ancora un po' di minestra, Gina?», domanda Teresa Rossi. «No, grazie, Teresa», risponde Gina Perri, che non può mangiare più di due piatti di minestra, «è buonissima, ma se me ne dai ancora, non posso mangiar altro». «Se non puoi più mangiarne, non te ne do più, cara Gina! Ma Lei, signor Perri?', domanda allora Teresa Rossi, «Lei può mangiarne ancora un pochino, no?». «Grazie, signora Rossi», risponde Mario Perri, «con piacere!». Egli porge il suo piatto a Teresa Rossi, la quale ci versa della minestra e domanda poi ai Benelli: «Ne volete ancora un po'?». I Benelli: «Sì, grazie, ma se ce ne dai solo un pochino». Teresa: «Ve ne do quanto volete». Teresa Rossi ne dà loro un mezzo piatto e poi domanda a suo marito e ai bambini se ne vogliono ancora un po' anche loro. Carlo Rossi risponde: «Con piacere!», ma i bambini dicono: «No, grazie, mamma!»
 
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI3MzE3NjIsNDE2NTg0NzU0LC03MD
-Q4NTExNDEsNjA3OTQzNjE3LDE1MTA0OTExNDIsLTEwMDgzODg1
-NDgsNTg0OTAwNjk3XX0=
+eyJoaXN0b3J5IjpbLTE0MDMwOTI2NTcsLTE1NTI3MzE3NjIsND
+E2NTg0NzU0LC03MDQ4NTExNDEsNjA3OTQzNjE3LDE1MTA0OTEx
+NDIsLTEwMDgzODg1NDgsNTg0OTAwNjk3XX0=
 -->
