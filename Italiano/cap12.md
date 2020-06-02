@@ -18,13 +18,13 @@ Essa prende la zuppiera, nella quale non c'è più che un pochino di minestra, e
 
 Quando tutti hanno mangiato un piatto o più di minestra, Amelia prende i piatti sporchi e li porta in cucina. Poi porta in cucina la zuppiera e torna con un gran piatto che pone in mezzo alla tavola, davanti al signor Rossi. Nel piatto c'è un bellissimo arrosto di vitello. Anche questo piatto è una delle specialità di Amelia. Insieme coll'arrosto di vitello nel piatto ci sono delle patate, dei piselli, delle carote e altra verdura. Quando la verdura (le carote, i piselli, le cipolle, ecc.) si mangia coll'arrosto, si chiama «il contorno». Il piatto che ha messo in tavola Amelia dopo la minestra è un «arrosto di vitello con contorno». Il signor Rossi prende un gran coltello e taglia l'arrosto. La prima fetta che egli taglia non è molto bella. Egli la mette perciò nel proprio piatto e taglia una seconda fetta. Quella è per sua moglie. «Un po' di contorno, Teresa?». «Volentieri, Carlo. Dammi un po' di patatine e un po' di piselli, per favore». «Non vuoi cipolline?». «No. Oppure sì, due o tre, ma molto piccole, per favore». Carlo Rossi mette la fetta di vitello, le patatine, i piselli e tre cipolline sul piatto di sua moglie. Poi taglia una diecina di fette di arrosto e dà dell'arrosto e del contorno agli invitati.
 
-«E alla Pia e a Bruno che cosa diamo?», domanda Carlo Rossi quando solo i loro due piatti sono ancora vuoti. «Alla Pia? Dalle un po' di patatine, un po' di piselli e 
+«E alla Pia e a Bruno che cosa diamo?», domanda Carlo Rossi quando solo i loro due piatti sono ancora vuoti. «Alla Pia? Dalle un po' di patatine, un po' di piselli e un paio di cipolline», dice la signora Rossi a suo marito. «E a Bruno?». «Dagli lo stesso, e dà loro anche due belle fette di arrosto!». Ma la Pia dice: «Mammina, tu sai che non mi piacciono i piselli!». «Bene, allora», dice suo padre, «siccome oggi è il compleanno della mamma, ti do dell'arrosto 
 
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjg2NjU0LC0xNTUyNzMxNzYyLDQxNj
-U4NDc1NCwtNzA0ODUxMTQxLDYwNzk0MzYxNywxNTEwNDkxMTQy
-LC0xMDA4Mzg4NTQ4LDU4NDkwMDY5N119
+eyJoaXN0b3J5IjpbMTE4NzgwNzk3OSwtMTU1MjczMTc2Miw0MT
+Y1ODQ3NTQsLTcwNDg1MTE0MSw2MDc5NDM2MTcsMTUxMDQ5MTE0
+MiwtMTAwODM4ODU0OCw1ODQ5MDA2OTddfQ==
 -->
