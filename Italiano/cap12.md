@@ -20,13 +20,13 @@ Quando tutti hanno mangiato un piatto o più di minestra, Amelia prende i piatti
 
 «E alla Pia e a Bruno che cosa diamo?», domanda Carlo Rossi quando solo i loro due piatti sono ancora vuoti. «Alla Pia? Dalle un po' di patatine, un po' di piselli e un paio di cipolline», dice la signora Rossi a suo marito. «E a Bruno?». «Dagli lo stesso, e dà loro anche due belle fette di arrosto!». Ma la Pia dice: «Mammina, tu sai che non mi piacciono i piselli!». «Bene, allora», dice suo padre, «siccome oggi è il compleanno della mamma, ti do dell'arrosto senza piselli. Ma gli altri giorni, sai, devi mangiare tutto quel che ti dà la mamma. Una brava bambina non dice mai: Non mi piace questo, non mi piace quello!». Anche il vitello piace molto agli invitati, ed essi dicono a Teresa Rossi: «Non ho mai mangiato un arrosto così delizioso! — È molto brava Amelia! — Neanche mia moglie sa farlo così bene!», ecc.
 
-
+Teresa Rossi dice grazie ed è molto contenta. Anche Amelia è contentissima quando Teresa Rossi le ripete quel che han detto gli invitati 
 
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1MDEzNjc4LC0xNTUyNzMxNzYyLDQxNj
-U4NDc1NCwtNzA0ODUxMTQxLDYwNzk0MzYxNywxNTEwNDkxMTQy
-LC0xMDA4Mzg4NTQ4LDU4NDkwMDY5N119
+eyJoaXN0b3J5IjpbMTc3OTc2NTQ5Miw3MTUwMTM2NzgsLTE1NT
+I3MzE3NjIsNDE2NTg0NzU0LC03MDQ4NTExNDEsNjA3OTQzNjE3
+LDE1MTA0OTExNDIsLTEwMDgzODg1NDgsNTg0OTAwNjk3XX0=
 -->
