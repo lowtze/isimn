@@ -28,12 +28,12 @@ Dopo Bruno sono Maria e Pietro che dicono: «Mammina, è delizioso il «dolce di
 
 Dopo il dolce Amelia serve la frutta. Poi essa serve il caffè. «Dove devo servirlo?», domanda a Teresa Rossi. «Servicelo in salotto, per favore!», risponde la signora Rossi. «Servimelo in salotto anche a me, Amelia!», dice Bruno. Amelia ride e domanda alla Pia e Pietro: «E a voi due?». Pietro e Pia ridono e dicono: «A noi, puoi servicelo in camera nostra!». Amelia allora dice: «Ah sì? A te, Bruno, posso servirtelo in salotto? A voi, Pietro e Pia, devo servirvelo in camera? A Maria, non so dove devo servirglielo. Sapete cosa vi dico? Non vi servo nient, cari miei!». Ma Teresa Rossi dice: «Cara Amelia, oggi è il mio compleanno — allora, sai, se Bruno vuol bere il caffè con noi altri, serviglielo!». Amelia: «E a Maria e a Pietro?». Teresa Rossi: «Servilo anche a loro, se lo vogliono!». Pia: «E a me? Mamma, perché non dici all'Amelia di servirmelo?». Teresa Rossi: «No, Pia, tu sei ancora troppo piccola per bere il caffè di sera!». Quando tutti sono in salotto, Teresa Rossi dice alla Maria: «Mariuccia, prendi lo zucchero, per favore, e dallo alla zia Emma!». «Volentieri, mamma. E ora, a chi devo darlo?», domanda Maria quando la zia Emma ha preso due pezzi di zucchero. «A me!», dice Pietro. «No!», dice Maria. Pietro: «Sì! dammelo!». Teresa Rossi: «No Maria! Adesso dallo alla zia Gina e poi agli altri invitati!». Ma quando la Maria vuol dare lo zucchero a Gino Benelli, egli dice: «No, è il compleanno della tua mamma stasera, daglielo prima di noi, anche se non vuole!». Teresa Rossi: «Grazie, Gino!». E quando essa ha presso due prezzi di zucchero, la Maria domanda: «E ora, zio Gino, lo do a voi?». Gino Benelli: «Sì, ora daccelo!».
 
-
+Quando i bambini han bevuto il loro caffè, Teresa Rossi dice a Bruno: «Ora, Bruno, mi vuoi fare un piacere?». Bruno: «Non lo so, mamma. Dì ciò che devo fare, allora io ti dico se lo posso fare». Carlo Rossi: «Bruno! fa quel che ti dice di fare la m
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1MTU2MTE3LDM4Nzc5OTE1NCw3MTUwMT
-M2NzgsLTE1NTI3MzE3NjIsNDE2NTg0NzU0LC03MDQ4NTExNDEs
-NjA3OTQzNjE3LDE1MTA0OTExNDIsLTEwMDgzODg1NDgsNTg0OT
-AwNjk3XX0=
+eyJoaXN0b3J5IjpbLTE1MDk3NDM1OTIsMzg3Nzk5MTU0LDcxNT
+AxMzY3OCwtMTU1MjczMTc2Miw0MTY1ODQ3NTQsLTcwNDg1MTE0
+MSw2MDc5NDM2MTcsMTUxMDQ5MTE0MiwtMTAwODM4ODU0OCw1OD
+Q5MDA2OTddfQ==
 -->
