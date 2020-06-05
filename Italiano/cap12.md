@@ -26,12 +26,13 @@ Quando Bruno ha mangiato il dolce che sua madre gli ha messo nel piatto, egli di
 
 Dopo Bruno sono Maria e Pietro che dicono: «Mammina, è delizioso il «dolce di casa mia» stasera, sai? Vuoi darcene ancora un po', per favore?». «Non posso darvene primo di averne dato agli altri», dice Teresa Rossi. E i bambini aspettano, mentre la loro mamma domanda agli invitati se piace loro il dolce e se essa deve darne loro ancora un po'. Quando essa ha dato del dolce agli invitati che ne vogliono ancora, e ne ha messo un pochino nel proprio piatto, Pietro dice di nuovo: «Ora, mammina, dammene un po', per favore!». Pia e Maria: «E noi? Daccene un pochino anche a noi!». Teresa Rossi: «Volentieri. Dammi il tuo piatto, maria! Te ne do prima a te, poi alla Pia». Pietro: «Perché non vuoi darne prima a me?». «Perché tu sei un ragazzo!«, risponde Teresa Rossi. Allora la Maria dice: «Sai, mamma, se vuole, dagliene un pochino prima di darne a noi!». Ma Carlo Rossi dice: «No Teresa! Maria è una donnina, danne prima a lei e alla Pia e poi ai ragazzi!». Pietro: «Bene, danne prima a loro, se papà lo vuole!». E Teresa Rossi dà del dolce prima alle bambine, poi ai ragazzi.
 
-
+Dopo il dolce Amelia serve la frutta. Poi essa serve il caffè. «Dove devo servirlo?», domanda a Teresa Rossi. «Servicelo in salotto, per favore!», risponde la signora Rossi. «Servi
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3Nzk5MTU0LDcxNTAxMzY3OCwtMTU1Mj
-czMTc2Miw0MTY1ODQ3NTQsLTcwNDg1MTE0MSw2MDc5NDM2MTcs
-MTUxMDQ5MTE0MiwtMTAwODM4ODU0OCw1ODQ5MDA2OTddfQ==
+eyJoaXN0b3J5IjpbODkzNjQ5MTQzLDM4Nzc5OTE1NCw3MTUwMT
+M2NzgsLTE1NTI3MzE3NjIsNDE2NTg0NzU0LC03MDQ4NTExNDEs
+NjA3OTQzNjE3LDE1MTA0OTExNDIsLTEwMDgzODg1NDgsNTg0OT
+AwNjk3XX0=
 -->
