@@ -26,12 +26,12 @@ Quando Bruno ha mangiato il dolce che sua madre gli ha messo nel piatto, egli di
 
 Dopo Bruno sono Maria e Pietro che dicono: «Mammina, è delizioso il «dolce di casa mia» stasera, sai? Vuoi darcene ancora un po', per favore?». «Non posso darvene primo di averne dato agli altri», dice Teresa Rossi. E i bambini aspettano, mentre la loro mamma domanda agli invitati se piace loro il dolce e se essa deve darne loro ancora un po'. Quando essa ha dato del dolce agli invitati che ne vogliono ancora, e ne ha messo un pochino nel proprio piatto, Pietro dice di nuovo: «Ora, mammina, dammene un po', per favore!». Pia e Maria: «E noi? Daccene un pochino anche a noi!». Teresa Rossi: «Volentieri. Dammi il tuo piatto, maria! Te ne do prima a te, poi alla Pia». Pietro: «Perché non vuoi darne prima a me?». «Perché tu sei un ragazzo!«, risponde Teresa Rossi. Allora la Maria dice: «Sai, mamma, se vuole, dagliene un pochino prima di darne a noi!». Ma Carlo Rossi dice: «No Teresa! Maria è una donnina, danne prima a lei e alla Pia e poi ai ragazzi!». Pietro: «Bene, danne prima a loro, se papà lo vuole!». E Teresa Rossi dà del dolce prima alle bambine, poi ai ragazzi.
 
-Dopo il dolce Amelia serve la frutta. Poi essa serve il caffè. «Dove devo servirlo?», domanda a Teresa Rossi. «Servicelo in salotto, per favore!», risponde la signora Rossi. «Servimelo in salotto anche a me, Amelia!», dice Bruno. Amelia ride e domanda alla Pia e Pietro: «E a voi due?». Pietro e Pia ridono e dicono: «A noi, puoi servicelo in camera nostra!». Amelia allora dice: «Ah sì? A te, Bruno, posso servirtelo in salotto? A voi, Pietro e Pia, devo servirvelo in camera? A Maria, non so dove devo servirglielo. Sapete cosa vi dico? Non vi servo nient, cari miei!». Ma Teresa Rossi dice: «Cara Amelia, oggi è il mio compleanno — allora, sai, se Bruno vuol bere 
+Dopo il dolce Amelia serve la frutta. Poi essa serve il caffè. «Dove devo servirlo?», domanda a Teresa Rossi. «Servicelo in salotto, per favore!», risponde la signora Rossi. «Servimelo in salotto anche a me, Amelia!», dice Bruno. Amelia ride e domanda alla Pia e Pietro: «E a voi due?». Pietro e Pia ridono e dicono: «A noi, puoi servicelo in camera nostra!». Amelia allora dice: «Ah sì? A te, Bruno, posso servirtelo in salotto? A voi, Pietro e Pia, devo servirvelo in camera? A Maria, non so dove devo servirglielo. Sapete cosa vi dico? Non vi servo nient, cari miei!». Ma Teresa Rossi dice: «Cara Amelia, oggi è il mio compleanno — allora, sai, se Bruno vuol bere il caffè con noi altri, serviglielo!». Amelia: «E a Maria e a Pietro?». Teresa Rossi: «Servilo anche a loro, se lo vogliono!». Pia: «E a me? Mamma, perché non dici all'Amelia di servirmelo?». Teresa Rossi: «No, Pia, tu sei ancora troppo piccola per bere il caffè di sera!». 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODA5MTIxMjEsMzg3Nzk5MTU0LDcxNT
-AxMzY3OCwtMTU1MjczMTc2Miw0MTY1ODQ3NTQsLTcwNDg1MTE0
-MSw2MDc5NDM2MTcsMTUxMDQ5MTE0MiwtMTAwODM4ODU0OCw1OD
-Q5MDA2OTddfQ==
+eyJoaXN0b3J5IjpbNTQyODk2MzIyLDM4Nzc5OTE1NCw3MTUwMT
+M2NzgsLTE1NTI3MzE3NjIsNDE2NTg0NzU0LC03MDQ4NTExNDEs
+NjA3OTQzNjE3LDE1MTA0OTExNDIsLTEwMDgzODg1NDgsNTg0OT
+AwNjk3XX0=
 -->
