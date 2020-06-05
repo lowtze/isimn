@@ -24,12 +24,12 @@ Teresa Rossi dice grazie ed è molto contenta. Anche Amelia è contentissima qua
 
 Quando Bruno ha mangiato il dolce che sua madre gli ha messo nel piatto, egli dice: «Mamma, vuoi darmene ancora un pochino, per favore?». «Ma Bruno, non posso dartene prima di darne agli invitati!», risponde sua madre. Ma Gina Perri dice: «Sai, Teresa, puoi dargliene se ne vuole ancora, noi altri non abbiamo ancora finito di mangiare qual che ci hai dato». «Bene, Bruno», dice allora Teresa Rossi, «ma un'altra volta, lo sai, devi aspettare!».
 
-Dopo Bruno sono Maria e Pietro che dicono: «Mammina, è delizioso il «dolce di casa mia» stasera, sai? Vuoi darcene
+Dopo Bruno sono Maria e Pietro che dicono: «Mammina, è delizioso il «dolce di casa mia» stasera, sai? Vuoi darcene ancora un po', per favore?». «Non posso darvene primo di averne dato agli altri», dice Teresa Rossi. E i bambini aspettano, mentre la loro mamma domanda agli invitati se piace loro il dolce e se essa deve darne loro ancora un po'. Quando essa ha dato del dolce agli invitati
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyNzk2ODE1LDcxNTAxMzY3OCwtMTU1Mj
+eyJoaXN0b3J5IjpbMjEzOTc0NjcwLDcxNTAxMzY3OCwtMTU1Mj
 czMTc2Miw0MTY1ODQ3NTQsLTcwNDg1MTE0MSw2MDc5NDM2MTcs
 MTUxMDQ5MTE0MiwtMTAwODM4ODU0OCw1ODQ5MDA2OTddfQ==
 -->
