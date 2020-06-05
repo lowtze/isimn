@@ -22,13 +22,14 @@ Quando tutti hanno mangiato un piatto o più di minestra, Amelia prende i piatti
 
 Teresa Rossi dice grazie ed è molto contenta. Anche Amelia è contentissima quando Teresa Rossi le ripete quel che han detto gli invitati del suo arrosto. Dopo l'arrosto di vitello, Amelia serve il terzo piatto. È un dolce. Amelia lo chiama «dolce di casa mia», ed è un dolce fatto di panna, di zucchero, di caffè e die altre cose buone.
 
-Quando Bruno ha mangiato il dolce che sua madre gli ha messo nel piatto, egli dice: «Mamma, vuoi darmene ancora un pochino, per favore?». «Ma Bruno, non posso dartene prima di darne agli invitati!», risponde sua madre. Ma Gina Perri dice: «Sai, Teresa, puoi dargliene se ne vuole ancora, noi altri non abbiamo ancora finito di mangiare qual che ci hai dato
+Quando Bruno ha mangiato il dolce che sua madre gli ha messo nel piatto, egli dice: «Mamma, vuoi darmene ancora un pochino, per favore?». «Ma Bruno, non posso dartene prima di darne agli invitati!», risponde sua madre. Ma Gina Perri dice: «Sai, Teresa, puoi dargliene se ne vuole ancora, noi altri non abbiamo ancora finito di mangiare qual che ci hai dato». «Bene, Bruno», dice allora Teresa Rossi, «ma un'altra volta, lo sai, devi aspettare!».
 
+Dopo Bruno sono Maria e Pietro che dicono: «Mammina, è delizioso il «dolce di casa mia» stasera, sai? Vuoi darcene
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1MTkwNDM0LDcxNTAxMzY3OCwtMTU1Mj
+eyJoaXN0b3J5IjpbMjYyNzk2ODE1LDcxNTAxMzY3OCwtMTU1Mj
 czMTc2Miw0MTY1ODQ3NTQsLTcwNDg1MTE0MSw2MDc5NDM2MTcs
 MTUxMDQ5MTE0MiwtMTAwODM4ODU0OCw1ODQ5MDA2OTddfQ==
 -->
