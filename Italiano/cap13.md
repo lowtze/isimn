@@ -6,11 +6,11 @@ Bruno sale nell'appartamento, suona, e quando Amelia apre, egli va in camera sua
 
 Nelle piccole città, si può giocare al pallone nella strada, ma a Roma non si può. A Roma e nelle altre grandi città ci sono troppe automobili nelle strade. Ma il parco è a pochi minuti dalla casa di Bruno, e lì, si gioca molto bene.
 
-Poco tempo dopo, Bruno e i suoi amici vedono una bellissima automobile. È un'Alfa Romeo,
+Poco tempo dopo, Bruno e i suoi amici vedono una bellissima automobile. È un'Alfa Romeo, e i quattro amici si fermano per guardarla. «Io ho un cugino che ha una macchina come questa!», dice Gianni. «No?», dicono gli altri tre. «Sì!», ripete Gianni, «prima aveva un'altra macchina, ma l'anno scorso ha comprato un'Alfa Romeo». 
 
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTgwOTE0NSwtNTY0OTM4NDA4XX0=
+eyJoaXN0b3J5IjpbLTM5NTIxNDc3OSwtNTY0OTM4NDA4XX0=
 -->
