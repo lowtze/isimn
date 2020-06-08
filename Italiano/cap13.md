@@ -10,12 +10,12 @@ Poco tempo dopo, Bruno e i suoi amici vedono una bellissima automobile. È un'Al
 
 Ma invece di cadere davanti alle ruote della macchina, i ragazzi cadono più a destra, fra la macchina e il marciapiede. L'uomo che guida la macchina la ferma a un ventina di metri dai due ragazzi, e ora viene verso i bambini. Egli non è il solo che viene verso i bambini: da destra, da sinistra viene verso i due ragazzi molta altra gente che ha visto l'incidente. Gli uni dicono che l'uomo guidava molto male, gli altri, invece, dicono che no, non guidava male, e che quei ragazzi erano andati loro davanti alle ruote della macchina senza guardare né a destra né a sinistra. E Aldo e Gianni, che cosa fanno? Stanno in mezzo alla strada, fra le automobili che passano. I due ragazzi stanno lì un minuto, due minuti, tre minuti senza dir niente.
 
-Fra le persone che sono venute verso Bruno e Antonio, i quali sono distesi sulla strada, ci sono due guardie. La prima guardia vede gli altri due ragazzi, che stanno ancora in mezzo alla strada, e li chiama: «Ragazzi
+Fra le persone che sono venute verso Bruno e Antonio, i quali sono distesi sulla strada, ci sono due guardie. La prima guardia vede gli altri due ragazzi, che stanno ancora in mezzo alla strada, e li chiama: «Ragazzi!». Ma i due amici guardano la guardia senza rispondere e senza far niente. La guardia allora va verso i due ragazzi, li prende per la spalle e va con loro verso il marciapiede, mentre l'altra guardia porta Bruno e Antonio sul marciapiede e li mette sul soprabito che 
 
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3NDM1MSwxMzc0NDUzNTk3LC01NjQ5Mz
-g0MDhdfQ==
+eyJoaXN0b3J5IjpbMTc4NzczNTg3OCwxMzc0NDUzNTk3LC01Nj
+Q5Mzg0MDhdfQ==
 -->
