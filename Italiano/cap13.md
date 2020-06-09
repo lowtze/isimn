@@ -12,12 +12,12 @@ Ma invece di cadere davanti alle ruote della macchina, i ragazzi cadono più a d
 
 Fra le persone che sono venute verso Bruno e Antonio, i quali sono distesi sulla strada, ci sono due guardie. La prima guardia vede gli altri due ragazzi, che stanno ancora in mezzo alla strada, e li chiama: «Ragazzi!». Ma i due amici guardano la guardia senza rispondere e senza far niente. La guardia allora va verso i due ragazzi, li prende per la spalle e va con loro verso il marciapiede, mentre l'altra guardia porta Bruno e Antonio sul marciapiede e li mette sul soprabito che un uomo che passava in quel momento si è levato e ha messo sul marciapiede. È un gran soprabito sul quale i due bambini possono stare distesi, l'uno accanto all'altro.
 
-
+In quel momento si sente un grido: «Aaaah!», e una donna si getta accanto a Bruno. È sua madre, che ha sentito l'automobile fermarsi, è andata alla finestra e ha visto la guardia prendere suo figlio che era disteso in mezzo alla strada e portare prima lui, poi il suo amico sul marciapiede. «Brun
 
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzU0ODY5MywxMzc0NDUzNTk3LC01Nj
-Q5Mzg0MDhdfQ==
+eyJoaXN0b3J5IjpbMzAzMjQxNjM4LC02NjM1NDg2OTMsMTM3ND
+Q1MzU5NywtNTY0OTM4NDA4XX0=
 -->
