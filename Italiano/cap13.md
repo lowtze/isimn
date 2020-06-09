@@ -12,12 +12,12 @@ Ma invece di cadere davanti alle ruote della macchina, i ragazzi cadono più a d
 
 Fra le persone che sono venute verso Bruno e Antonio, i quali sono distesi sulla strada, ci sono due guardie. La prima guardia vede gli altri due ragazzi, che stanno ancora in mezzo alla strada, e li chiama: «Ragazzi!». Ma i due amici guardano la guardia senza rispondere e senza far niente. La guardia allora va verso i due ragazzi, li prende per la spalle e va con loro verso il marciapiede, mentre l'altra guardia porta Bruno e Antonio sul marciapiede e li mette sul soprabito che un uomo che passava in quel momento si è levato e ha messo sul marciapiede. È un gran soprabito sul quale i due bambini possono stare distesi, l'uno accanto all'altro.
 
-In quel momento si sente un grido: «Aaaah!», e una donna si getta accanto a Bruno. È sua madre, che ha sentito l'automobile fermarsi, è andata alla finestra e ha visto la guardia prendere suo figlio che era disteso in mezzo alla strada e portare prima lui, poi il suo amico sul marciapiede. «Bruno!», ha gridato Teresa Rossi ed è scesa giù nella strada. «Bruno! Figlio mio! Chi ti ha fatto male?», grida la madre. «Signora», dice l'uomo che guidava, «non ho potuto fermare la macchina
+In quel momento si sente un grido: «Aaaah!», e una donna si getta accanto a Bruno. È sua madre, che ha sentito l'automobile fermarsi, è andata alla finestra e ha visto la guardia prendere suo figlio che era disteso in mezzo alla strada e portare prima lui, poi il suo amico sul marciapiede. «Bruno!», ha gridato Teresa Rossi ed è scesa giù nella strada. «Bruno! Figlio mio! Chi ti ha fatto male?», grida la madre. «Signora», dice l'uomo che guidava, «non ho potuto fermare la macchina. Il ragazzo...». Teresa non lo lascia parlare. Essa si getta sull'uomo e gli grida in faccia: «È Lei? È Lei che ha fatto male a mio figlio?». L'uomo non può parlare, tutto quel che può dire è: «Signora... ma io...». E ora le due guardie prendono 
 
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTYxMzEyNSwtNjYzNTQ4NjkzLDEzNz
-Q0NTM1OTcsLTU2NDkzODQwOF19
+eyJoaXN0b3J5IjpbNDA2NTYwMDcyLC02NjM1NDg2OTMsMTM3ND
+Q1MzU5NywtNTY0OTM4NDA4XX0=
 -->
