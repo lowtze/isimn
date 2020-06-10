@@ -20,8 +20,10 @@ Le guardie salutano ed escono dall'appartamento, mentre il dottor Forti si siede
 
 Poco tempo dopo, la signora Verdi entra nella camera di Bruno. La prima cosa che essa dice alla signora Rossi è: «Ho telefonato a mio marito, sarà qui fra un momento». Poi la signora Verdi bacia sua figlio e gli dice: «Raccontami quello che ti è successo, Tonio!». E Tonio e Bruno raccontano l'incidente alle due signore, e anche Aldo e Gianni, che ora sono pure loro nella camera, raccontano ciò che han visto.
 
+
+
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjM4MTEzMiw3NTQ0MDIwMTAsLTY2Mz
-U0ODY5MywxMzc0NDUzNTk3LC01NjQ5Mzg0MDhdfQ==
+eyJoaXN0b3J5IjpbLTExOTIzNTc1OTIsNzU0NDAyMDEwLC02Nj
+M1NDg2OTMsMTM3NDQ1MzU5NywtNTY0OTM4NDA4XX0=
 -->
