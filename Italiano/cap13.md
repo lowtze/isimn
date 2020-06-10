@@ -18,10 +18,10 @@ Le guardie salutano ed escono dall'appartamento, mentre il dottor Forti si siede
 
 «Ti fa male la gamba quando l'esamino?», domanda il dottore. «Si!», risponde Bruno, «mi fa molto male! Ahi! Basta! Basta! Ahi!». «Ancora un momentino!», dice il dottore. Poi, quando ha finito di esaminare la gambe di Bruno, dice a Teresa Rossi: «La gamba sinistra è rotta, ma non c'è altro». Poi esamina Antonio. Anche lui si è rotto una gamba: la gamba destra. Quando ha finito di esaminarli tutti e due, il dottore dice: «Ora io vado a casa, ma torno fra una ventina di minuti». «Bene, dottore!», dice la signora Rossi; e il dottor Forti esce dalla stanza. «Potete star soli un momentino?», domanda allora Teresa Rossi, «vado in salotto, e torno subito». «Sì, mammina», risponde Bruno. Teresa allora va in salotto, dove c'è il telefono. Essa deve telefonare alla madre di Antonio. È la signora Beatrice Verdi che viene al telefono, e Teresa le dice: «Signora Verdi... Suo figlio Antonio è qui da noi, in casa nostra... Lui e Bruno sono... a letto tutti e due, e...». Beatrice Verdi non la lascia finire: «A letto? Da voi? A quest'ora? Signora Rossi! cosa c'è? Cos'è successo?». «È successo un incidente: Antonio si è rotto la gamba», dice Teresa, e comincia a raccontare: «È successo un poco tempo fa, nella strada, davanti a casa nostra. Un'automobile...». Ma Beatrice Verdi non la lascia finire e dice: «Vengo subito da Lei! Prendo la macchina di mio marito e sarò lì fra dieci minuti!». «Benissimo, cara signora! L'aspetto!», dice Teresa Rossi e torna dai due ragazzi, che le domandano che cos'ha fatto in salotto. «Ho telefonato alla tua mamma, Antonio. Abbiamo parlato del vostro incidente; la tua mamma viene fra un momento».
 
-
+Poco tempo dopo, la signora Verdi entra nella camera di Bruno. La prima cosa che essa dice alla signora Rossi è: «Ho telefonato a mio marito, sarà qui fra un momento». Poi la signora Verdi bacia sua figlio e gli dice: «Raccontami quello che ti è successo,
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0ODY0MzYsNzU0NDAyMDEwLC02NjM1ND
-g2OTMsMTM3NDQ1MzU5NywtNTY0OTM4NDA4XX0=
+eyJoaXN0b3J5IjpbLTM2NzYzODU3Miw3NTQ0MDIwMTAsLTY2Mz
+U0ODY5MywxMzc0NDUzNTk3LC01NjQ5Mzg0MDhdfQ==
 -->
