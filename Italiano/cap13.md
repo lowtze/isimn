@@ -16,12 +16,12 @@ In quel momento si sente un grido: «Aaaah!», e una donna si getta accanto a Br
 
 Le guardie salutano ed escono dall'appartamento, mentre il dottor Forti si siede accanto a Bruno ed esamina la sua gamba sinistra. «Ahi!», dice Bruno, «fa male!».
 
-
+«Ti fa male la gamba quando l'esamino?», domanda il dottore. «Si!», risponde Bruno, «mi fa molto male! Ahi! Basta! Basta! Ahi!». «Ancora un momentino!», dice il dottore. Poi, quando ha finito di esaminare la gambe di Bruno, dice a Teresa Rossi: «La gmabe sinistra è rotta, ma non c'è altro». Poi esamina 
 
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0NDAyMDEwLC02NjM1NDg2OTMsMTM3ND
-Q1MzU5NywtNTY0OTM4NDA4XX0=
+eyJoaXN0b3J5IjpbMTQxODY3ODM5MSw3NTQ0MDIwMTAsLTY2Mz
+U0ODY5MywxMzc0NDUzNTk3LC01NjQ5Mzg0MDhdfQ==
 -->
