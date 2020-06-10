@@ -16,12 +16,12 @@ In quel momento si sente un grido: «Aaaah!», e una donna si getta accanto a Br
 
 Le guardie salutano ed escono dall'appartamento, mentre il dottor Forti si siede accanto a Bruno ed esamina la sua gamba sinistra. «Ahi!», dice Bruno, «fa male!».
 
-«Ti fa male la gamba quando l'esamino?», domanda il dottore. «Si!», risponde Bruno, «mi fa molto male! Ahi! Basta! Basta! Ahi!». «Ancora un momentino!», dice il dottore. Poi, quando ha finito di esaminare la gambe di Bruno, dice a Teresa Rossi: «La gamba sinistra è rotta, ma non c'è altro». Poi esamina Antonio. Anche lui si è rotto una gamba: la gamba destra. Quando ha finito di esaminarli tutti e due, il dottore dice: «Ora io vado a casa, ma torno fra una ventina di minuti». «Bene, dottore!», dice la signora Rossi; e il dottor Forti esce dalla stanza. «Potete star soli un momentino?», domanda allora Teresa Rossi, «vado in salotto, e torno subito». «Sì, mammina», risponde Bruno. Teresa allora va in salotto, dove c'è il telefono. Essa deve telefonare alla madre di Antonio. È la signora Beatrice Verdi che viene al telefono, e Teresa le dice: «Signora Verdi... Suo figlio Antonio è qui da noi, in casa nostra... Lui e Bruno sono... a letto tutti e due, e...». Beatrice Verdi non la lascia finire: «A letto? Da voi? A quest'ora? Signora Rossi! cosa c'è? Cos'è successo?»
+«Ti fa male la gamba quando l'esamino?», domanda il dottore. «Si!», risponde Bruno, «mi fa molto male! Ahi! Basta! Basta! Ahi!». «Ancora un momentino!», dice il dottore. Poi, quando ha finito di esaminare la gambe di Bruno, dice a Teresa Rossi: «La gamba sinistra è rotta, ma non c'è altro». Poi esamina Antonio. Anche lui si è rotto una gamba: la gamba destra. Quando ha finito di esaminarli tutti e due, il dottore dice: «Ora io vado a casa, ma torno fra una ventina di minuti». «Bene, dottore!», dice la signora Rossi; e il dottor Forti esce dalla stanza. «Potete star soli un momentino?», domanda allora Teresa Rossi, «vado in salotto, e torno subito». «Sì, mammina», risponde Bruno. Teresa allora va in salotto, dove c'è il telefono. Essa deve telefonare alla madre di Antonio. È la signora Beatrice Verdi che viene al telefono, e Teresa le dice: «Signora Verdi... Suo figlio Antonio è qui da noi, in casa nostra... Lui e Bruno sono... a letto tutti e due, e...». Beatrice Verdi non la lascia finire: «A letto? Da voi? A quest'ora? Signora Rossi! cosa c'è? Cos'è successo?». «È successo un incidente: Antonio si è rotto la gamba», dice Teresa, e comincia a raccontare: «È successo un poco tempo fa, nella strada, davanti a casa nostra. Un'automobile...». Ma Beatrice Verdi non la lascia finire e dice: «Vengo subito da Lei! Prendo la macchina di mio marito e sarò lì fra dieci minuti!». «Benissimo, cara signora
 
 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODkwNDQ1NSw3NTQ0MDIwMTAsLTY2Mz
-U0ODY5MywxMzc0NDUzNTk3LC01NjQ5Mzg0MDhdfQ==
+eyJoaXN0b3J5IjpbLTE2NTQzNTM5MzMsNzU0NDAyMDEwLC02Nj
+M1NDg2OTMsMTM3NDQ1MzU5NywtNTY0OTM4NDA4XX0=
 -->
