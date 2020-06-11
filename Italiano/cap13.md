@@ -20,11 +20,11 @@ Le guardie salutano ed escono dall'appartamento, mentre il dottor Forti si siede
 
 Poco tempo dopo, la signora Verdi entra nella camera di Bruno. La prima cosa che essa dice alla signora Rossi è: «Ho telefonato a mio marito, sarà qui fra un momento». Poi la signora Verdi bacia sua figlio e gli dice: «Raccontami quello che ti è successo, Tonio!». E Tonio e Bruno raccontano l'incidente alle due signore, e anche Aldo e Gianni, che ora sono pure loro nella camera, raccontano ciò che han visto.
 
-Tonio: «Io e Aldo eravamo giù nella strada e aspettavamo Bruno...». La signora Verdi: «Aspettavate Bruno?». Tonio: «Sì, per andare insieme al parco, a giocare al pallone. Bruno è sceso giù quando ha visto che eravamo nella strada, ma poi, siccome io non avevo il mio pallone, Bruno è salito di nuovo per prendere il suo». Bruno: «...che tu, Maria, avevi in camera tua, sai?». La signora Verdi: «Perché non avevate il vostro pallone?». Aldo: «Non l'avevamo perché, sai, il nostro è troppo vecchio...». La signora Verdi ride e gli dice: «Parlane al papà, domandagli se ve ne regala un altro!». Poi dice a Tonio: «E poi, cos'avete fatto quando Bruno è sceso col pallon?». Tonio: «Abbiamo
+Tonio: «Io e Aldo eravamo giù nella strada e aspettavamo Bruno...». La signora Verdi: «Aspettavate Bruno?». Tonio: «Sì, per andare insieme al parco, a giocare al pallone. Bruno è sceso giù quando ha visto che eravamo nella strada, ma poi, siccome io non avevo il mio pallone, Bruno è salito di nuovo per prendere il suo». Bruno: «...che tu, Maria, avevi in camera tua, sai?». La signora Verdi: «Perché non avevate il vostro pallone?». Aldo: «Non l'avevamo perché, sai, il nostro è troppo vecchio...». La signora Verdi ride e gli dice: «Parlane al papà, domandagli se ve ne regala un altro!». Poi dice a Tonio: «E poi, cos'avete fatto quando Bruno è sceso col pallone?». Tonio: «Abbiamo... abbiamo visto un'Alfa Romeo!». La signora Verdi: «Un'Alfa Romeo? È quelle che vi ha...». Tonio: «No, no! Quella era un Fiat! L'Alfa Romeo stava accanto al marciapiede. Sai, mamma, era una macchina come quella dei Pignotti.». La signora Verdi: 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTg3NDE5MCwtMTE5MjM1NzU5Miw3NT
-Q0MDIwMTAsLTY2MzU0ODY5MywxMzc0NDUzNTk3LC01NjQ5Mzg0
-MDhdfQ==
+eyJoaXN0b3J5IjpbOTMwMTY2NzQ2LC0xMTkyMzU3NTkyLDc1ND
+QwMjAxMCwtNjYzNTQ4NjkzLDEzNzQ0NTM1OTcsLTU2NDkzODQw
+OF19
 -->
