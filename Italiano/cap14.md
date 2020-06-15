@@ -6,10 +6,12 @@ Quando  Bruno e Antonio si sono tolti la camicia, Teresa Rossi ha dato loro due 
 
 Alla madre di Antonio, il dottor Forti dice: «Non è nulla, cara signora! Fra un paio di settimane Suo figlio e il suo amico potranno già alzarsi e camminare un poco in casa, e fra un mesetto potranno correre e giocare come prima». «Molte grazie, dottore!», dice la signora Verdi. Il dottor Forti, intanto che parla la signora Verdi, esamina ancora una volta le gambe rotte dei due ragazzi. Poi apre la piccola valigia che un medic ha sempre con sé. Bruno ha già detto molte volte ai suoi genitori: «Quando sarò grande, voglio essere medico!». E ora, vedendo la valigetta del dottor Forti, egli dice: «Sa, dottore? anch'io voglio fare il medico quando sarò grande». «Bravo!», gli dice il dottor Forti. E il padre di Antonio allora racconta che anche lui una volta voleva fare il medico. «Quando uno è giovane, dice sempre: Io farò questo, io farò quello! Ma non sempre si può fare ciò che si vuole, e perciò oggi non sono medico». Intanto che gli altri parlano il dottor Andrea Forti ha finito; egli chiude la sua valigetta e dice alle due madri: «Per oggi basta!». Teresa Rossi: «Quando tornerà, dottore?». «Tornerò fra una settimana per vedere come stanno i ragazzi. Intanto, devono rimanere a letto». «Ma dottore», dice la signora Verdi, «Antonio non può rimanere qua; noi stiamo in via Como. Abbiamo la macchina qua nella strada; non possiamo portare Antonio giù in macchina e tornare a case?». «Sì, signora, può farlo», risponde il dottor Forti. Poi dice «arrivederci» e se ne va. Ma prima di andarsene, va in bagno a lavarsi le mani.
 
-Quando il dottor Forti se n'è andato, la signora Verdi aiuta suo figlio a togliersi il pigiama di Pietro e a mettersi una camicia pulita—pure di Pietro—e i suoi calzoni. Poi, i signori Rossi e Verdi lo sollevano dal letto e lo portano giù, nella macchina di Verdi. I due uomini sono forti: i quaranta chili di Antonio non sono nulla per loro
+Quando il dottor Forti se n'è andato, la signora Verdi aiuta suo figlio a togliersi il pigiama di Pietro e a mettersi una camicia pulita—pure di Pietro—e i suoi calzoni. Poi, i signori Rossi e Verdi lo sollevano dal letto e lo portano giù, nella macchina di Verdi. I due uomini sono forti: i quaranta chili di Antonio non sono nulla per loro. Quando il signor Rossi era giovane, egli poteva sollevare trenta chili, con un braccio solo, e con le due braccia poteva sollevare più di settanta chili. Era molto forte Carlo Rossi da giovane! Ma anche ora è forte per la sua età, e verdi non è meno forte di lui.
+
+
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxNzkxNTI5LDQwODM2NTg4NywtMTczOD
-UzNDAzMywxNDY4ODUwMTM0XX0=
+eyJoaXN0b3J5IjpbLTE4NDI2MDIwODEsNDA4MzY1ODg3LC0xNz
+M4NTM0MDMzLDE0Njg4NTAxMzRdfQ==
 -->
