@@ -8,10 +8,10 @@ Alla madre di Antonio, il dottor Forti dice: «Non è nulla, cara signora! Fra u
 
 Quando il dottor Forti se n'è andato, la signora Verdi aiuta suo figlio a togliersi il pigiama di Pietro e a mettersi una camicia pulita—pure di Pietro—e i suoi calzoni. Poi, i signori Rossi e Verdi lo sollevano dal letto e lo portano giù, nella macchina di Verdi. I due uomini sono forti: i quaranta chili di Antonio non sono nulla per loro. Quando il signor Rossi era giovane, egli poteva sollevare trenta chili, con un braccio solo, e con le due braccia poteva sollevare più di settanta chili. Era molto forte Carlo Rossi da giovane! Ma anche ora è forte per la sua età, e verdi non è meno forte di lui.
 
-
+La sera vengono altri amici a vedere Bruno, e viene pure la famiglia Rossi—il nonno e la nonna, lo zio Alberto, lo zio Rodolfo e la zia Emilia. Tutti hanno qualcosa per Bruno. Il regalo dei nonni è il più bello di tutti. Essi regalano a Bruno un bellissimo libro. È un libro in cui si parla dell'Africa, dell'America e delle al
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDI2MDIwODEsNDA4MzY1ODg3LC0xNz
-M4NTM0MDMzLDE0Njg4NTAxMzRdfQ==
+eyJoaXN0b3J5IjpbLTgzNjQ0NDkxNyw0MDgzNjU4ODcsLTE3Mz
+g1MzQwMzMsMTQ2ODg1MDEzNF19
 -->
