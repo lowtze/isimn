@@ -8,10 +8,12 @@ Alla madre di Antonio, il dottor Forti dice: «Non è nulla, cara signora! Fra u
 
 Quando il dottor Forti se n'è andato, la signora Verdi aiuta suo figlio a togliersi il pigiama di Pietro e a mettersi una camicia pulita—pure di Pietro—e i suoi calzoni. Poi, i signori Rossi e Verdi lo sollevano dal letto e lo portano giù, nella macchina di Verdi. I due uomini sono forti: i quaranta chili di Antonio non sono nulla per loro. Quando il signor Rossi era giovane, egli poteva sollevare trenta chili, con un braccio solo, e con le due braccia poteva sollevare più di settanta chili. Era molto forte Carlo Rossi da giovane! Ma anche ora è forte per la sua età, e verdi non è meno forte di lui.
 
-La sera vengono altri amici a vedere Bruno, e viene pure la famiglia Rossi—il nonno e la nonna, lo zio Alberto, lo zio Rodolfo e la zia Emilia. Tutti hanno qualcosa per Bruno. Il regalo dei nonni è il più bello di tutti. Essi regalano a Bruno un bellissimo libro. È un libro in cui si parla dell'Africa, dell'America e delle altre parti del mondo. «Grazie, nonnino! Grazie, nonnina!», dice Bruno e sorride contento. Anche i nonni sorridono al loro nipote. Essi vogliono bene a tutti i loro nipoti, ma a Brunetto vogliono ancora più bene che agli altri, ed egli ricve
+La sera vengono altri amici a vedere Bruno, e viene pure la famiglia Rossi—il nonno e la nonna, lo zio Alberto, lo zio Rodolfo e la zia Emilia. Tutti hanno qualcosa per Bruno. Il regalo dei nonni è il più bello di tutti. Essi regalano a Bruno un bellissimo libro. È un libro in cui si parla dell'Africa, dell'America e delle altre parti del mondo. «Grazie, nonnino! Grazie, nonnina!», dice Bruno e sorride contento. Anche i nonni sorridono al loro nipote. Essi vogliono bene a tutti i loro nipoti, ma a Brunetto vogliono ancora più bene che agli altri, ed egli riceve ogni anno molti regali dai nonni. Chi sa perché! Forse perché Bruno è «il primo» (Bruno è nato due anni prima di Maria e cinque anni prima di Pietro), o forse perché ha gli stessi begli della zi Emilia, a cui i nonni vogliono molto bene.
+
+
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDc5MDUzMiw0MDgzNjU4ODcsLTE3Mz
-g1MzQwMzMsMTQ2ODg1MDEzNF19
+eyJoaXN0b3J5IjpbLTEwMTI5OTEwMjYsNDA4MzY1ODg3LC0xNz
+M4NTM0MDMzLDE0Njg4NTAxMzRdfQ==
 -->
