@@ -10,10 +10,10 @@ Quando il dottor Forti se n'è andato, la signora Verdi aiuta suo figlio a togli
 
 La sera vengono altri amici a vedere Bruno, e viene pure la famiglia Rossi—il nonno e la nonna, lo zio Alberto, lo zio Rodolfo e la zia Emilia. Tutti hanno qualcosa per Bruno. Il regalo dei nonni è il più bello di tutti. Essi regalano a Bruno un bellissimo libro. È un libro in cui si parla dell'Africa, dell'America e delle altre parti del mondo. «Grazie, nonnino! Grazie, nonnina!», dice Bruno e sorride contento. Anche i nonni sorridono al loro nipote. Essi vogliono bene a tutti i loro nipoti, ma a Brunetto vogliono ancora più bene che agli altri, ed egli riceve ogni anno molti regali dai nonni. Chi sa perché! Forse perché Bruno è «il primo» (Bruno è nato due anni prima di Maria e cinque anni prima di Pietro), o forse perché ha gli stessi begli della zia Emilia, a cui i nonni vogliono molto bene.
 
-«Hai visto, Pietro», dice Bruno a suo fratello, «cosa ho ricevuto dalla nonna e dal nonno? Un libro sui paesi di tutto il mondo!». «Me lo fai vedere?», domanda Pietro. «Volentieri, però non devi sporcarlo!», 
+«Hai visto, Pietro», dice Bruno a suo fratello, «cosa ho ricevuto dalla nonna e dal nonno? Un libro sui paesi di tutto il mondo!». «Me lo fai vedere?», domanda Pietro. «Volentieri, però non devi sporcarlo!», risponde Bruno prima di dare il libro a Pietro. «Lavati le mani, Pietro!», dice Maria, «se no lo sporchi!». «Ma io ho le mani pulite!», dice Pietro. «No che non sono pulite, le tue mani!». «Sì che son pulite!». 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzY1OTE0NywtMTAxMjk5MTAyNiw0MD
-gzNjU4ODcsLTE3Mzg1MzQwMzMsMTQ2ODg1MDEzNF19
+eyJoaXN0b3J5IjpbLTIxMzY5NDIyMzIsLTEwMTI5OTEwMjYsND
+A4MzY1ODg3LC0xNzM4NTM0MDMzLDE0Njg4NTAxMzRdfQ==
 -->
