@@ -14,10 +14,10 @@ La sera vengono altri amici a vedere Bruno, e viene pure la famiglia Rossi—il 
 
 La zia Emilia regala a Bruno un bellissimo mazzo di carte. Bruno, Pietro e Maria giocano spesso a carte, soli o con altri bambini. Quando fuori c'è il sole, essi vanno al parco, ma quando piove, essi giocano spesso a carte. In primavera e d'estate a Roma piove poco, ma d'inverno piove spesso. Anche in autunno piove, ma meno spesso che d'inverno.
 
-
+Lo zio Alberto regala a Bruno una macchina fotografica
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjI5ODQ4NCwtMTAxMjk5MTAyNiw0MD
-gzNjU4ODcsLTE3Mzg1MzQwMzMsMTQ2ODg1MDEzNF19
+eyJoaXN0b3J5IjpbNDk4NzYxMzIwLC0xMDEyOTkxMDI2LDQwOD
+M2NTg4NywtMTczODUzNDAzMywxNDY4ODUwMTM0XX0=
 -->
