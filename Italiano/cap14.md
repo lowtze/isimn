@@ -14,10 +14,10 @@ La sera vengono altri amici a vedere Bruno, e viene pure la famiglia Rossi—il 
 
 La zia Emilia regala a Bruno un bellissimo mazzo di carte. Bruno, Pietro e Maria giocano spesso a carte, soli o con altri bambini. Quando fuori c'è il sole, essi vanno al parco, ma quando piove, essi giocano spesso a carte. In primavera e d'estate a Roma piove poco, ma d'inverno piove spesso. Anche in autunno piove, ma meno spesso che d'inverno.
 
-Lo zio Alberto regala a Bruno una macchina fotografica. Non è una macchina molto cara, ma quando Bruno la vede, egli spalanca la bocca e gli occhi, e dimentica di dire grazie. E rimane lì, con la bocca spalancata, fino a che sua sorella Maria gli dice ridendo: «Bruno! Perché spalanchi gli occhi in quel modo? Non hai mai visto una macchina fotograf
+Lo zio Alberto regala a Bruno una macchina fotografica. Non è una macchina molto cara, ma quando Bruno la vede, egli spalanca la bocca e gli occhi, e dimentica di dire grazie. E rimane lì, con la bocca spalancata, fino a che sua sorella Maria gli dice ridendo: «Bruno! Perché spalanchi gli occhi in quel modo? Non hai mai visto una macchina fotografica?». «Sì che ne ho visto molte!», le risponde Bruno, «ma non ne ho mai avuto una!». «Allora, adesso che ne hai una, vuoi fare il fotografo? Prima, quando c'era il dottore, volevi fare il medico», dice Maria. «Non si può 
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI5MDEzODksLTEwMTI5OTEwMjYsND
-A4MzY1ODg3LC0xNzM4NTM0MDMzLDE0Njg4NTAxMzRdfQ==
+eyJoaXN0b3J5IjpbMzY1Nzk0MDQ4LC0xMDEyOTkxMDI2LDQwOD
+M2NTg4NywtMTczODUzNDAzMywxNDY4ODUwMTM0XX0=
 -->
