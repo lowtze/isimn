@@ -12,10 +12,12 @@ La sera vengono altri amici a vedere Bruno, e viene pure la famiglia Rossi—il 
 
 «Hai visto, Pietro», dice Bruno a suo fratello, «cosa ho ricevuto dalla nonna e dal nonno? Un libro sui paesi di tutto il mondo!». «Me lo fai vedere?», domanda Pietro. «Volentieri, però non devi sporcarlo!», risponde Bruno prima di dare il libro a Pietro. «Lavati le mani, Pietro!», dice Maria, «se no lo sporchi!». «Ma io ho le mani pulite!», dice Pietro. «No che non sono pulite, le tue mani!». «Sì che son pulite!». «No; perché tornando da scuola, non ti sei lavato. Fammele vedere, quelle mani!». Pietro non vuole far vedere le mani a sua sorella, ma poi gliele mostra. Quando Maria vede le mani di suo fratello, dice: «Mamma mia! Corri a lavartele subito, se no chiamo la mamma!». Pietro alza le spalle dicendo: «Queste ragazze!», però va in bagno e si lava le mani. Poi torna in camera e dice a Bruno: «Ora me lo fai vedere, il libro che ti han dato i nonni?». Bruno ride e gli dà il libro.
 
-La zia Emilia regala a Bruno un bellissimo mazzo di carte. Bruno, Pietro e Maria giocano spesso a carte, soli o con altri bambini. Quando fuori c'è il sole, essi vanno al parco, ma quando piove, essi giocano spesso a carte. In primavera e d'estate a Roma piove poco, ma d'inverno pio
+La zia Emilia regala a Bruno un bellissimo mazzo di carte. Bruno, Pietro e Maria giocano spesso a carte, soli o con altri bambini. Quando fuori c'è il sole, essi vanno al parco, ma quando piove, essi giocano spesso a carte. In primavera e d'estate a Roma piove poco, ma d'inverno piove spesso. Anche in autunno piove, ma meno spesso che d'inverno.
+
+
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDIwNDkzNSwtMTAxMjk5MTAyNiw0MD
+eyJoaXN0b3J5IjpbMTIxNjI5ODQ4NCwtMTAxMjk5MTAyNiw0MD
 gzNjU4ODcsLTE3Mzg1MzQwMzMsMTQ2ODg1MDEzNF19
 -->
