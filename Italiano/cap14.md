@@ -16,10 +16,10 @@ La zia Emilia regala a Bruno un bellissimo mazzo di carte. Bruno, Pietro e Maria
 
 Lo zio Alberto regala a Bruno una macchina fotografica. Non è una macchina molto cara, ma quando Bruno la vede, egli spalanca la bocca e gli occhi, e dimentica di dire grazie. E rimane lì, con la bocca spalancata, fino a che sua sorella Maria gli dice ridendo: «Bruno! Perché spalanchi gli occhi in quel modo? Non hai mai visto una macchina fotografica?». «Sì che ne ho visto molte!», le risponde Bruno, «ma non ne ho mai avuto una!». «Allora, adesso che ne hai una, vuoi fare il fotografo? Prima, quando c'era il dottore, volevi fare il medico», dice Maria. «Non si può forse fare il medico e fotografare nello stesso tempo?», domanda Bruno, mentre guarda il regalo dello zio Alberto. Lo zio sorride e dice al nipote: «Sono molto contento di vedere che ti piace il mio regalo». Allora, ma solo allora, Bruno abbraccia lo zio dicendo: «Grazie, zio Alberto! Son tanto, tanto contento, sai?». E anche lo zio abbraccia sorridendo il suo nipotino.
 
-L'ultimo regalo è quello dello zio Rodolfo. Lo zio Rodolfo sapeva quello che aveva comprato Alberto per il nipote, e perciò egli ha comprato per Bruno un bellissimo album per fotografie. Dando il suo regalo a Bruno, egli gli dice: «Quando avrai delle belle fotografie, le metterai in quest'album. Così potrai farle 
+L'ultimo regalo è quello dello zio Rodolfo. Lo zio Rodolfo sapeva quello che aveva comprato Alberto per il nipote, e perciò egli ha comprato per Bruno un bellissimo album per fotografie. Dando il suo regalo a Bruno, egli gli dice: «Quando avrai delle belle fotografie, le metterai in quest'album. Così potrai farle vedere a tutti i tuoi amici». «Grazie, zio Rodolfo!», dice il ragazzo, «ora sì che sono un fotografo! Hai visto, Maria?». «Che cos'è? Un album per le fotografie che non hai ancora?», domanda Maria. «È un album per le fotografie che avrò quando potrò uscire di casa!». Pia, che non ha ancor
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY0NDYwOTMsLTEwMTI5OTEwMjYsND
+eyJoaXN0b3J5IjpbLTE4MjkwMDU1NjUsLTEwMTI5OTEwMjYsND
 A4MzY1ODg3LC0xNzM4NTM0MDMzLDE0Njg4NTAxMzRdfQ==
 -->
