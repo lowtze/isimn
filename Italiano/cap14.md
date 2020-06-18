@@ -20,11 +20,11 @@ L'ultimo regalo è quello dello zio Rodolfo. Lo zio Rodolfo sapeva quello che av
 
 Pietro, ora, domanda: «Me la fai vedere la macchina, Bruno?». «Sì; però non devi lasciarla cadere per terra! Se la lasci cadere per terra, non so cosa faccio, sai?». «Ma io non lascio cadere per terra!», dice Pietro, e prende la macchina. «Com'è bella!», dice, e poi: «Zio Alberto, se io mi rompo una gamba anch'io, regali una macchina fotografica anche a me?». «Se ti rompi una gamba anche tu?», dice lo zio, «ma chi ti dice che devi romperti una gamba per avere una macchina? Non ci si rompe mica le gambe così, per piacere, sai? La mamma te l'ha detto: quando sarai più grande, avrai una macchina anche tu». Pietro: «Quand'è che sarò grande?». Alberto Rossi: «ma... fra sei o sette anni, forse». Pietro: «Devo aspettare sette anni prima di avere una macchina fotografica anch'io?». «Vedrai che alla tua età il tempo passa presto!», dice lo zio Alberto.
 
-Bruno intanto guarda la sua macchina fotografica e dice: «Sai dove andrò, mamma, quando potrò camminare di nuovo?». Teresa Rossi: «No, Bruno. Dove andrai?». Bruno: «Andrò insieme con Antonio per tutte le vie di Roma e farò mille fotografie! Poi metterò le più belle nel mio album». Pietro e Pia: «Ci andremo anche noi, Bruno!». Bruno: «No; ci andrete forse, ma non con noi». Pietro e Pia: «E perché no?». Bruno: «Perché siete ancora troppo piccoli». Pietro: «No che non siamo piccoli, noi!». Teresa Rossi: «Basta, Pietro! Ora, usciamo tutti dalla camera, Bruno deve dormire un'or
+Bruno intanto guarda la sua macchina fotografica e dice: «Sai dove andrò, mamma, quando potrò camminare di nuovo?». Teresa Rossi: «No, Bruno. Dove andrai?». Bruno: «Andrò insieme con Antonio per tutte le vie di Roma e farò mille fotografie! Poi metterò le più belle nel mio album». Pietro e Pia: «Ci andremo anche noi, Bruno!». Bruno: «No; ci andrete forse, ma non con noi». Pietro e Pia: «E perché no?». Bruno: «Perché siete ancora troppo piccoli». Pietro: «No che non siamo piccoli, noi!». Teresa Rossi: «Basta, Pietro! Ora, usciamo tutti dalla camera, Bruno deve dormire un'oretta o due prima di cena». Bruno: «Ma io non voglio dormire!». Teresa Rossi: «L'ha detto il dottore, Bruno!». Allora Bruno non dice più niente, e quando rimane solo guarda ancora un po' i suoi regali, ma cinque minuti dopo chiude gli occhi, e poco dopo dorme.
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzQ3NTczNywtMjU1MzYwMjk4LC0xMD
-EyOTkxMDI2LDQwODM2NTg4NywtMTczODUzNDAzMywxNDY4ODUw
-MTM0XX0=
+eyJoaXN0b3J5IjpbLTIxMzY4NTEwMjcsLTI1NTM2MDI5OCwtMT
+AxMjk5MTAyNiw0MDgzNjU4ODcsLTE3Mzg1MzQwMzMsMTQ2ODg1
+MDEzNF19
 -->
