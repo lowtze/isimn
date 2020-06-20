@@ -5,10 +5,10 @@ Oggi è il 26 (ventisei) maggio. Sono passati quindici giorni dal giorno dell'in
 
 Verso le due il dottor Forti entra nella camera di Bruno. «Buon giorno, dottore!», dice Bruno, «oggi posso cominciare ad alzarmi, no?». Il dottor Forti: «Forse sì». Bruno: «Ma dottore, l'ha detto Lei due settimane fa». Il dottor Forti: «Ora vedremo. Mostrami un po' questa gamba! Così... bravo...», e mentre parla esamina la gamba di Bruno. Quando ha finito, Bruno gli domanda di nuovo: «Allora, dottore, posso alzarmi?». Il dottore sorride e risponde: «Sì, puoi alzarti, giovanotto!». «Mamma! Hai sentito? Voglio alzarmi subito!». «Aspetta un momentino, Bruno!». «Ma cosa devo aspettare? Io voglio alzarmi subito subito!». Il dottor Forti dice ridendo: «Non credo che potrai alzarti subito». Bruno: «E io sì, credo che potrò alzarmi subito, se lo voglio!». Il dottor Forti: Caro Bruno, tu sei a letto de due settimane, e hai le gambe molto, molto deboli».
 
-Bruno mette i piedi fuori dal letto e prova ad alzarsi, ma, come ha detto il dottore, le sue gambe sono così deboli che egli non può stare in piedi. «Hai visto?», gli dice il dottore, «hai le gambe ancora troppo deboli, caro mio! Devi chiedere alla mamma di aiutarti un po'!». «Ma perché non posso stare in piedi?». «Te l'ho detto: perché hai i muscoli troppo deboli», risponde il dottor Forti, e aggiunge: «ma alla tua età non fa nulla, fra due settimane sarai più forte di prima. Però oggi, non provare a stare in piedi da solo!». Poi il medico si siede su una sedia e dice: «Vediamo un po'... dove ho messo la mia penna? 
+Bruno mette i piedi fuori dal letto e prova ad alzarsi, ma, come ha detto il dottore, le sue gambe sono così deboli che egli non può stare in piedi. «Hai visto?», gli dice il dottore, «hai le gambe ancora troppo deboli, caro mio! Devi chiedere alla mamma di aiutarti un po'!». «Ma perché non posso stare in piedi?». «Te l'ho detto: perché hai i muscoli troppo deboli», risponde il dottor Forti, e aggiunge: «ma alla tua età non fa nulla, fra due settimane sarai più forte di prima. Però oggi, non provare a stare in piedi da solo!». Poi il medico si siede su una sedia e dice: «Vediamo un po'... dove ho messo la mia penna?». «Non l'ha in tasca?», domanda Bruno. «In tasca? No, no; no ce l'ho. Ah! è qui!». La penna era nella valigetta del dottor Forti, e ora egli scrive una ricetta per Bruno. «Ora, signora Rossi, scrivo una ricetta per Suo figlio, e Lei gli farà pe
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzkyOTk3OTEsMjA2MTg0MTM2NSwxOT
-I2ODA3NjIxXX0=
+eyJoaXN0b3J5IjpbOTM5NjAwODk0LDIwNjE4NDEzNjUsMTkyNj
+gwNzYyMV19
 -->
