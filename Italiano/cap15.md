@@ -11,10 +11,10 @@ Quando il dottore se n'è andato, la mamma aiuta Bruno ad alzarsi e a vestirsi, 
 
 Siccome Pia ha visto spesso i suoi fratelli e sua sorella giocare a carte, dopo un mezz'oretta dice a Bruno: «Adesso non dirmi più quello che devo fare! Voglio trovarlo da me». Bruno aspetta un po', mentre la Pia pensa; poi vuole aiutarla, ma la Pia gli dice: «Non dir nulla! Vedrai che troverò da me sola quello che devo fare». E Pia pensa ancora un po', poi dice: «Ho trovato!», e getta sul tavolino davanti a Bruno cinque carte. Bruno le guarda, poi mostra le sue carte alla sua sorellina e le dice: «Ma brava, hai vinto tu questa volta! Le tua carte sono molto migliori delle mie. Sai giocare meglio di Pietro e della Maria!». La Pia sorride ed è molto contenta di sé.
 
-Un'ora dopo, quando la mamma viene a domandare a Bruno se vuole stare ancora una mezz'oretta in poltrona o se è stanco, la Pia le dice: «Mammina, sai che io so giocare a carte meglio di Pietro e della Maria?». «Ma brava!», dice la mamma, «ti ha insegnato Bruno?». «Sì, e sai quante volte ho vinto io?». «Ma.
+Un'ora dopo, quando la mamma viene a domandare a Bruno se vuole stare ancora una mezz'oretta in poltrona o se è stanco, la Pia le dice: «Mammina, sai che io so giocare a carte meglio di Pietro e della Maria?». «Ma brava!», dice la mamma, «ti ha insegnato Bruno?». «Sì, e sai quante volte ho vinto io?». «Ma... non lo so», risponde Teresa Rossi. Ma la Pia ripete: «Indovina quante volte ho vinto! Prova a indovinarlo!». «Come faccio a indovinarlo?», dice la mamma, poi aggiunge: «Dimmi quante volte avete giocato, allora proverò a indovinare quante volte ha vinto Bruno e quante volte hai vinto tu». «Abbiamo giocato dodici volte», dice la Pia. «All
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzE3MTE2LC0xMjg5NDc2NzY3LDkwMD
+eyJoaXN0b3J5IjpbLTU1ODc5MzU4LC0xMjg5NDc2NzY3LDkwMD
 k4NDk2OCwyMDYxODQxMzY1LDE5MjY4MDc2MjFdfQ==
 -->
