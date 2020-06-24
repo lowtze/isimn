@@ -9,10 +9,12 @@ Bruno mette i piedi fuori dal letto e prova ad alzarsi, ma, come ha detto il dot
 
 Quando il dottore se n'è andato, la mamma aiuta Bruno ad alzarsi e a vestirsi, poi dice: «Ora io e l'Amelia ti aiuteremo ad andare in salotto». Bruno: «No, non aiutarmi! Voglio provare ad andarci da solo». «Va bene! Prova!», dice la signora Rossi. Bruno prova a stare in piede e ad andare in salotto da solo, ma dopo il primo passo egli dice: «Non posso. Cado!». Ma sua madre e l'Amelia lo aiutano, e così, a piccoli passi, le due donne e il ragazzo vanno in salotto, dove Bruno si siede in una poltrona. Quando egli si è seduto nella poltrona, la mamma mette un tavolino accanto a lui, e la Pia—gli altri bambini sono ancora a scuola—gli domanda se vuole giocare a carte. «Con te?», le domanda Bruno, «ma tu non sai giocare a carte!». «No, ma tu me lo puoi insegnare!», dice la Pia, a cui non solo Bruno, ma anche Pietro e Maria han detto più di una volta: «Un giorno ti insegneremo a giocare a carte!». Essa aggiunge perciò: «Mi dite sempre che mi insegnerete a giocare a carte, ma non me lo insegnate mai». Bruno: «Bene, siccome oggi siamo soli, te lo insegnerò io! Prendi una sedia e siediti qua accanto a me!».
 
-Siccome Pia ha visto spesso i suoi fratelli e sua sorella giocare a carte, dopo un mezz'oretta dice a Bruno: «Adesso non dirmi più quello che devo fare! Voglio trovarlo da me». Bruno aspetta un po', mentre la Pia pensa; poi vuole aiutarla, ma la Pia gli dice: «Non dir nulla! Vedrai che troverò da me sola quello che devo fare». E Pia pensa ancora un po', poi dice: «Ho trovato!», e getta sul tavolino davanti a Bruno cinque carte. Bruno le guarda, poi mostra le sue carte alla sua sorellina e le dice: «Ma brava, hai vinto tu questa volta! Le tua carte sono molto migliori delle mie. Sai giocare meglio di Pietro e della Maria!». La Pia sorride ed è molto contenta di sé
+Siccome Pia ha visto spesso i suoi fratelli e sua sorella giocare a carte, dopo un mezz'oretta dice a Bruno: «Adesso non dirmi più quello che devo fare! Voglio trovarlo da me». Bruno aspetta un po', mentre la Pia pensa; poi vuole aiutarla, ma la Pia gli dice: «Non dir nulla! Vedrai che troverò da me sola quello che devo fare». E Pia pensa ancora un po', poi dice: «Ho trovato!», e getta sul tavolino davanti a Bruno cinque carte. Bruno le guarda, poi mostra le sue carte alla sua sorellina e le dice: «Ma brava, hai vinto tu questa volta! Le tua carte sono molto migliori delle mie. Sai giocare meglio di Pietro e della Maria!». La Pia sorride ed è molto contenta di sé.
+
+Un'ora dopo, quando la mamma viene a domandare a Bruno se vuole stare ancora una mezz'oretta in poltrona o se è stanco, la Pia le dice: «Mammina, sai che io so giocare a carte meglio di Pietro e della Maria?». «Ma brava!», dice la mamma, «ti ha insegnato Bruno?». «Sì, e sai quante volte ho vinto io?». «Ma.
 
 <p style="page-break-after: always;"> </p>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTM4MTQwOSwtMTI4OTQ3Njc2Nyw5MD
-A5ODQ5NjgsMjA2MTg0MTM2NSwxOTI2ODA3NjIxXX0=
+eyJoaXN0b3J5IjpbLTc2NzE3MTE2LC0xMjg5NDc2NzY3LDkwMD
+k4NDk2OCwyMDYxODQxMzY1LDE5MjY4MDc2MjFdfQ==
 -->
